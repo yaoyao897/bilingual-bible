@@ -1,0 +1,662 @@
+[
+  {
+    "id": "GEN",
+    "name_zh": "创世记",
+    "name_en": "Genesis",
+    "testament": "OT",
+    "group": "律法书",
+    "chapters": 50,
+    "pdf": "https://www.christunite.com/NIV1984Bible/1Genesis.pdf",
+    "slug": "genesis"
+  },
+  {
+    "id": "EXO",
+    "name_zh": "出埃及记",
+    "name_en": "Exodus",
+    "testament": "OT",
+    "group": "律法书",
+    "chapters": 40,
+    "pdf": "https://www.christunite.com/NIV1984Bible/2Exodus.pdf",
+    "slug": "exodus"
+  },
+  {
+    "id": "LEV",
+    "name_zh": "利未记",
+    "name_en": "Leviticus",
+    "testament": "OT",
+    "group": "律法书",
+    "chapters": 27,
+    "pdf": "https://www.christunite.com/NIV1984Bible/3Leviticus.pdf",
+    "slug": "leviticus"
+  },
+  {
+    "id": "NUM",
+    "name_zh": "民数记",
+    "name_en": "Numbers",
+    "testament": "OT",
+    "group": "律法书",
+    "chapters": 36,
+    "pdf": "https://www.christunite.com/NIV1984Bible/4Numbers.pdf",
+    "slug": "numbers"
+  },
+  {
+    "id": "DEU",
+    "name_zh": "申命记",
+    "name_en": "Deuteronomy",
+    "testament": "OT",
+    "group": "律法书",
+    "chapters": 34,
+    "pdf": "https://www.christunite.com/NIV1984Bible/5Deuteronomy.pdf",
+    "slug": "deuteronomy"
+  },
+  {
+    "id": "JOS",
+    "name_zh": "约书亚记",
+    "name_en": "Joshua",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 24,
+    "pdf": "https://www.christunite.com/NIV1984Bible/6Joshua.pdf",
+    "slug": "joshua"
+  },
+  {
+    "id": "JDG",
+    "name_zh": "士师记",
+    "name_en": "Judges",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 21,
+    "pdf": "https://www.christunite.com/NIV1984Bible/7Judges.pdf",
+    "slug": "judges"
+  },
+  {
+    "id": "RUT",
+    "name_zh": "路得记",
+    "name_en": "Ruth",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 4,
+    "pdf": "https://www.christunite.com/NIV1984Bible/8Ruth.pdf",
+    "slug": "ruth"
+  },
+  {
+    "id": "1SA",
+    "name_zh": "撒母耳记上",
+    "name_en": "1 Samuel",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 31,
+    "pdf": "https://www.christunite.com/NIV1984Bible/91Samuel.pdf",
+    "slug": "1-samuel"
+  },
+  {
+    "id": "2SA",
+    "name_zh": "撒母耳记下",
+    "name_en": "2 Samuel",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 24,
+    "pdf": "https://www.christunite.com/NIV1984Bible/102Samuel.pdf",
+    "slug": "2-samuel"
+  },
+  {
+    "id": "1KI",
+    "name_zh": "列王纪上",
+    "name_en": "1 Kings",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 22,
+    "pdf": "https://www.christunite.com/NIV1984Bible/111Kings.pdf",
+    "slug": "1-kings"
+  },
+  {
+    "id": "2KI",
+    "name_zh": "列王纪下",
+    "name_en": "2 Kings",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 25,
+    "pdf": "https://www.christunite.com/NIV1984Bible/122Kings.pdf",
+    "slug": "2-kings"
+  },
+  {
+    "id": "1CH",
+    "name_zh": "历代志上",
+    "name_en": "1 Chronicles",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 29,
+    "pdf": "https://www.christunite.com/NIV1984Bible/131Chronicles.pdf",
+    "slug": "1-chronicles"
+  },
+  {
+    "id": "2CH",
+    "name_zh": "历代志下",
+    "name_en": "2 Chronicles",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 36,
+    "pdf": "https://www.christunite.com/NIV1984Bible/142Chronicles.pdf",
+    "slug": "2-chronicles"
+  },
+  {
+    "id": "EZR",
+    "name_zh": "以斯拉记",
+    "name_en": "Ezra",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 10,
+    "pdf": "https://www.christunite.com/NIV1984Bible/15Ezra.pdf",
+    "slug": "ezra"
+  },
+  {
+    "id": "NEH",
+    "name_zh": "尼希米记",
+    "name_en": "Nehemiah",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 13,
+    "pdf": "https://www.christunite.com/NIV1984Bible/16Nehemiah.pdf",
+    "slug": "nehemiah"
+  },
+  {
+    "id": "EST",
+    "name_zh": "以斯帖记",
+    "name_en": "Esther",
+    "testament": "OT",
+    "group": "历史书",
+    "chapters": 10,
+    "pdf": "https://www.christunite.com/NIV1984Bible/17Esther.pdf",
+    "slug": "esther"
+  },
+  {
+    "id": "JOB",
+    "name_zh": "约伯记",
+    "name_en": "Job",
+    "testament": "OT",
+    "group": "诗歌智慧书",
+    "chapters": 42,
+    "pdf": "https://www.christunite.com/NIV1984Bible/18Job.pdf",
+    "slug": "job"
+  },
+  {
+    "id": "PSA",
+    "name_zh": "诗篇",
+    "name_en": "Psalms",
+    "testament": "OT",
+    "group": "诗歌智慧书",
+    "chapters": 150,
+    "pdf": "https://www.christunite.com/NIV1984Bible/19Psalms.pdf",
+    "slug": "psalms"
+  },
+  {
+    "id": "PRO",
+    "name_zh": "箴言",
+    "name_en": "Proverbs",
+    "testament": "OT",
+    "group": "诗歌智慧书",
+    "chapters": 31,
+    "pdf": "https://www.christunite.com/NIV1984Bible/20Proverbs.pdf",
+    "slug": "proverbs"
+  },
+  {
+    "id": "ECC",
+    "name_zh": "传道书",
+    "name_en": "Ecclesiastes",
+    "testament": "OT",
+    "group": "诗歌智慧书",
+    "chapters": 12,
+    "pdf": "https://www.christunite.com/NIV1984Bible/21Ecclesiastes.pdf",
+    "slug": "ecclesiastes"
+  },
+  {
+    "id": "SNG",
+    "name_zh": "雅歌",
+    "name_en": "Song of Songs",
+    "testament": "OT",
+    "group": "诗歌智慧书",
+    "chapters": 8,
+    "pdf": "https://www.christunite.com/NIV1984Bible/22SongOfSongs.pdf",
+    "slug": "song-of-songs"
+  },
+  {
+    "id": "ISA",
+    "name_zh": "以赛亚书",
+    "name_en": "Isaiah",
+    "testament": "OT",
+    "group": "大先知书",
+    "chapters": 66,
+    "pdf": "https://www.christunite.com/NIV1984Bible/23Isaiah.pdf",
+    "slug": "isaiah"
+  },
+  {
+    "id": "JER",
+    "name_zh": "耶利米书",
+    "name_en": "Jeremiah",
+    "testament": "OT",
+    "group": "大先知书",
+    "chapters": 52,
+    "pdf": "https://www.christunite.com/NIV1984Bible/24Jeremiah.pdf",
+    "slug": "jeremiah"
+  },
+  {
+    "id": "LAM",
+    "name_zh": "耶利米哀歌",
+    "name_en": "Lamentations",
+    "testament": "OT",
+    "group": "大先知书",
+    "chapters": 5,
+    "pdf": "https://www.christunite.com/NIV1984Bible/25Lamentations.pdf",
+    "slug": "lamentations"
+  },
+  {
+    "id": "EZK",
+    "name_zh": "以西结书",
+    "name_en": "Ezekiel",
+    "testament": "OT",
+    "group": "大先知书",
+    "chapters": 48,
+    "pdf": "https://www.christunite.com/NIV1984Bible/26Ezekiel.pdf",
+    "slug": "ezekiel"
+  },
+  {
+    "id": "DAN",
+    "name_zh": "但以理书",
+    "name_en": "Daniel",
+    "testament": "OT",
+    "group": "大先知书",
+    "chapters": 12,
+    "pdf": "https://www.christunite.com/NIV1984Bible/27Daniel.pdf",
+    "slug": "daniel"
+  },
+  {
+    "id": "HOS",
+    "name_zh": "何西阿书",
+    "name_en": "Hosea",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 14,
+    "pdf": "https://www.christunite.com/NIV1984Bible/28Hosea.pdf",
+    "slug": "hosea"
+  },
+  {
+    "id": "JOL",
+    "name_zh": "约珥书",
+    "name_en": "Joel",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/29Joel.pdf",
+    "slug": "joel"
+  },
+  {
+    "id": "AMO",
+    "name_zh": "阿摩司书",
+    "name_en": "Amos",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 9,
+    "pdf": "https://www.christunite.com/NIV1984Bible/30Amos.pdf",
+    "slug": "amos"
+  },
+  {
+    "id": "OBA",
+    "name_zh": "俄巴底亚书",
+    "name_en": "Obadiah",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 1,
+    "pdf": "https://www.christunite.com/NIV1984Bible/31Obadiah.pdf",
+    "slug": "obadiah"
+  },
+  {
+    "id": "JON",
+    "name_zh": "约拿书",
+    "name_en": "Jonah",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 4,
+    "pdf": "https://www.christunite.com/NIV1984Bible/32Jonah.pdf",
+    "slug": "jonah"
+  },
+  {
+    "id": "MIC",
+    "name_zh": "弥迦书",
+    "name_en": "Micah",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 7,
+    "pdf": "https://www.christunite.com/NIV1984Bible/33Micah.pdf",
+    "slug": "micah"
+  },
+  {
+    "id": "NAM",
+    "name_zh": "那鸿书",
+    "name_en": "Nahum",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/34Nahum.pdf",
+    "slug": "nahum"
+  },
+  {
+    "id": "HAB",
+    "name_zh": "哈巴谷书",
+    "name_en": "Habakkuk",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/35Habakkuk.pdf",
+    "slug": "habakkuk"
+  },
+  {
+    "id": "ZEP",
+    "name_zh": "西番雅书",
+    "name_en": "Zephaniah",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/36Zephaniah.pdf",
+    "slug": "zephaniah"
+  },
+  {
+    "id": "HAG",
+    "name_zh": "哈该书",
+    "name_en": "Haggai",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 2,
+    "pdf": "https://www.christunite.com/NIV1984Bible/37Haggai.pdf",
+    "slug": "haggai"
+  },
+  {
+    "id": "ZEC",
+    "name_zh": "撒迦利亚书",
+    "name_en": "Zechariah",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 14,
+    "pdf": "https://www.christunite.com/NIV1984Bible/38Zechariah.pdf",
+    "slug": "zechariah"
+  },
+  {
+    "id": "MAL",
+    "name_zh": "玛拉基书",
+    "name_en": "Malachi",
+    "testament": "OT",
+    "group": "小先知书",
+    "chapters": 4,
+    "pdf": "https://www.christunite.com/NIV1984Bible/39Malachi.pdf",
+    "slug": "malachi"
+  },
+  {
+    "id": "MAT",
+    "name_zh": "马太福音",
+    "name_en": "Matthew",
+    "testament": "NT",
+    "group": "福音书",
+    "chapters": 28,
+    "pdf": "https://www.christunite.com/NIV1984Bible/40Matthew.pdf",
+    "slug": "matthew"
+  },
+  {
+    "id": "MRK",
+    "name_zh": "马可福音",
+    "name_en": "Mark",
+    "testament": "NT",
+    "group": "福音书",
+    "chapters": 16,
+    "pdf": "https://www.christunite.com/NIV1984Bible/41Mark.pdf",
+    "slug": "mark"
+  },
+  {
+    "id": "LUK",
+    "name_zh": "路加福音",
+    "name_en": "Luke",
+    "testament": "NT",
+    "group": "福音书",
+    "chapters": 24,
+    "pdf": "https://www.christunite.com/NIV1984Bible/42Luke.pdf",
+    "slug": "luke"
+  },
+  {
+    "id": "JHN",
+    "name_zh": "约翰福音",
+    "name_en": "John",
+    "testament": "NT",
+    "group": "福音书",
+    "chapters": 21,
+    "pdf": "https://www.christunite.com/NIV1984Bible/43John.pdf",
+    "slug": "john"
+  },
+  {
+    "id": "ACT",
+    "name_zh": "使徒行传",
+    "name_en": "Acts",
+    "testament": "NT",
+    "group": "教会历史",
+    "chapters": 28,
+    "pdf": "https://www.christunite.com/NIV1984Bible/44Acts.pdf",
+    "slug": "acts"
+  },
+  {
+    "id": "ROM",
+    "name_zh": "罗马书",
+    "name_en": "Romans",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 16,
+    "pdf": "https://www.christunite.com/NIV1984Bible/45Romans.pdf",
+    "slug": "romans"
+  },
+  {
+    "id": "1CO",
+    "name_zh": "哥林多前书",
+    "name_en": "1 Corinthians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 16,
+    "pdf": "https://www.christunite.com/NIV1984Bible/461Corinthians.pdf",
+    "slug": "1-corinthians"
+  },
+  {
+    "id": "2CO",
+    "name_zh": "哥林多后书",
+    "name_en": "2 Corinthians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 13,
+    "pdf": "https://www.christunite.com/NIV1984Bible/472Corinthians.pdf",
+    "slug": "2-corinthians"
+  },
+  {
+    "id": "GAL",
+    "name_zh": "加拉太书",
+    "name_en": "Galatians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 6,
+    "pdf": "https://www.christunite.com/NIV1984Bible/48Galatians.pdf",
+    "slug": "galatians"
+  },
+  {
+    "id": "EPH",
+    "name_zh": "以弗所书",
+    "name_en": "Ephesians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 6,
+    "pdf": "https://www.christunite.com/NIV1984Bible/49Ephesians.pdf",
+    "slug": "ephesians"
+  },
+  {
+    "id": "PHP",
+    "name_zh": "腓立比书",
+    "name_en": "Philippians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 4,
+    "pdf": "https://www.christunite.com/NIV1984Bible/50Philippians.pdf",
+    "slug": "philippians"
+  },
+  {
+    "id": "COL",
+    "name_zh": "歌罗西书",
+    "name_en": "Colossians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 4,
+    "pdf": "https://www.christunite.com/NIV1984Bible/51Colossians.pdf",
+    "slug": "colossians"
+  },
+  {
+    "id": "1TH",
+    "name_zh": "帖撒罗尼迦前书",
+    "name_en": "1 Thessalonians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 5,
+    "pdf": "https://www.christunite.com/NIV1984Bible/521Thessalonians.pdf",
+    "slug": "1-thessalonians"
+  },
+  {
+    "id": "2TH",
+    "name_zh": "帖撒罗尼迦后书",
+    "name_en": "2 Thessalonians",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/532Thessalonians.pdf",
+    "slug": "2-thessalonians"
+  },
+  {
+    "id": "1TI",
+    "name_zh": "提摩太前书",
+    "name_en": "1 Timothy",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 6,
+    "pdf": "https://www.christunite.com/NIV1984Bible/541Timothy.pdf",
+    "slug": "1-timothy"
+  },
+  {
+    "id": "2TI",
+    "name_zh": "提摩太后书",
+    "name_en": "2 Timothy",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 4,
+    "pdf": "https://www.christunite.com/NIV1984Bible/552Timothy.pdf",
+    "slug": "2-timothy"
+  },
+  {
+    "id": "TIT",
+    "name_zh": "提多书",
+    "name_en": "Titus",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/56Titus.pdf",
+    "slug": "titus"
+  },
+  {
+    "id": "PHM",
+    "name_zh": "腓利门书",
+    "name_en": "Philemon",
+    "testament": "NT",
+    "group": "保罗书信",
+    "chapters": 1,
+    "pdf": "https://www.christunite.com/NIV1984Bible/57Philemon.pdf",
+    "slug": "philemon"
+  },
+  {
+    "id": "HEB",
+    "name_zh": "希伯来书",
+    "name_en": "Hebrews",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 13,
+    "pdf": "https://www.christunite.com/NIV1984Bible/58Hebrews.pdf",
+    "slug": "hebrews"
+  },
+  {
+    "id": "JAS",
+    "name_zh": "雅各书",
+    "name_en": "James",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 5,
+    "pdf": "https://www.christunite.com/NIV1984Bible/59James.pdf",
+    "slug": "james"
+  },
+  {
+    "id": "1PE",
+    "name_zh": "彼得前书",
+    "name_en": "1 Peter",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 5,
+    "pdf": "https://www.christunite.com/NIV1984Bible/601Peter.pdf",
+    "slug": "1-peter"
+  },
+  {
+    "id": "2PE",
+    "name_zh": "彼得后书",
+    "name_en": "2 Peter",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 3,
+    "pdf": "https://www.christunite.com/NIV1984Bible/612Peter.pdf",
+    "slug": "2-peter"
+  },
+  {
+    "id": "1JN",
+    "name_zh": "约翰一书",
+    "name_en": "1 John",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 5,
+    "pdf": "https://www.christunite.com/NIV1984Bible/621John.pdf",
+    "slug": "1-john"
+  },
+  {
+    "id": "2JN",
+    "name_zh": "约翰二书",
+    "name_en": "2 John",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 1,
+    "pdf": "https://www.christunite.com/NIV1984Bible/632John.pdf",
+    "slug": "2-john"
+  },
+  {
+    "id": "3JN",
+    "name_zh": "约翰三书",
+    "name_en": "3 John",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 1,
+    "pdf": "https://www.christunite.com/NIV1984Bible/643John.pdf",
+    "slug": "3-john"
+  },
+  {
+    "id": "JUD",
+    "name_zh": "犹大书",
+    "name_en": "Jude",
+    "testament": "NT",
+    "group": "普通书信",
+    "chapters": 1,
+    "pdf": "https://www.christunite.com/NIV1984Bible/65Jude.pdf",
+    "slug": "jude"
+  },
+  {
+    "id": "REV",
+    "name_zh": "启示录",
+    "name_en": "Revelation",
+    "testament": "NT",
+    "group": "启示录",
+    "chapters": 22,
+    "pdf": "https://www.christunite.com/NIV1984Bible/66Revelation.pdf",
+    "slug": "revelation"
+  }
+]

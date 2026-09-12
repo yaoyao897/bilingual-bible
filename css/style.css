@@ -1,0 +1,722 @@
+/* ==========================================================================
+   Bilingual Bible - Modern App Layout & Aesthetic Controls
+   ========================================================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  font-family: var(--font-sans);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* App Header Bar */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--bg-surface);
+  border-bottom: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-sm);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.brand-section {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  cursor: pointer;
+}
+
+.brand-icon {
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background: linear-gradient(135deg, var(--accent-gold), var(--accent-gold-hover));
+  color: #ffffff;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.15rem;
+  box-shadow: 0 2px 8px rgba(179, 135, 56, 0.3);
+}
+
+.brand-titles h1 {
+  font-family: var(--font-display);
+  font-size: 1.12rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--text-main);
+}
+
+.brand-titles .subtitle {
+  font-size: 0.74rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Header Controls Center & Right */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.btn-nav-book {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-surface-elevated);
+  color: var(--text-main);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-nav-book:hover {
+  border-color: var(--accent-gold);
+  background: var(--accent-gold-soft);
+  color: var(--accent-gold);
+}
+
+.btn-nav-book svg {
+  width: 1rem;
+  height: 1rem;
+  stroke-width: 2.2;
+}
+
+.segmented-control {
+  display: flex;
+  align-items: center;
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 2px;
+  gap: 2px;
+}
+
+.segmented-control button {
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  padding: 0.35rem 0.65rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all 0.15s ease;
+}
+
+.segmented-control button.active {
+  background: var(--bg-surface);
+  color: var(--accent-gold);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.icon-button {
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface-elevated);
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.icon-button:hover {
+  color: var(--accent-gold);
+  border-color: var(--accent-gold-border);
+  background: var(--accent-gold-soft);
+}
+
+/* Secondary Scripture Toolbar */
+.scripture-subbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 2rem;
+  background: var(--bg-surface-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+  font-size: 0.85rem;
+}
+
+.chapter-pagination {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.chapter-pagination button {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  padding: 0.3rem 0.75rem;
+  border-radius: 6px;
+  color: var(--text-main);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.chapter-pagination button:hover:not(:disabled) {
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}
+
+.chapter-pagination button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pdf-source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--accent-gold);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  background: var(--accent-gold-soft);
+  transition: all 0.2s;
+}
+
+.pdf-source-link:hover {
+  text-decoration: underline;
+  background: rgba(179, 135, 56, 0.2);
+}
+
+/* Main Scripture Reading Container */
+.main-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem 10rem;
+}
+
+.book-title-hero {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+  position: relative;
+}
+
+.book-title-hero::after {
+  content: "✤";
+  position: absolute;
+  bottom: -0.7rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-app);
+  padding: 0 1rem;
+  color: var(--accent-gold);
+  font-size: 1rem;
+}
+
+.book-title-hero h2 {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--text-main);
+  margin-bottom: 0.35rem;
+}
+
+.book-title-hero .english-subhead {
+  font-family: var(--font-serif-en);
+  font-style: italic;
+  font-size: 1.25rem;
+  color: var(--text-muted);
+}
+
+.book-title-hero .chapter-pill {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.25rem 1.1rem;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: var(--accent-gold-soft);
+  color: var(--accent-gold);
+  border: 1px solid var(--accent-gold-border);
+}
+
+/* Scripture Layout: Side by Side (Default) */
+.scripture-view-side {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.scripture-header-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  padding: 0.5rem 1rem 0.8rem;
+  border-bottom: 2px solid var(--border-strong);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.verse-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  transition: all 0.25s ease;
+  position: relative;
+  border: 1px solid transparent;
+}
+
+.verse-row:hover {
+  background: var(--bg-surface-elevated);
+}
+
+/* Active Read-Aloud Highlight */
+.verse-row.is-reading {
+  background: var(--audio-playing-bg) !important;
+  border-color: var(--audio-playing-border) !important;
+  box-shadow: 0 0 20px var(--audio-playing-glow), 0 2px 10px rgba(0,0,0,0.05);
+  transform: scale(1.006);
+}
+
+.verse-side-zh, .verse-side-en {
+  position: relative;
+  word-break: break-word;
+}
+
+.verse-actions-mini {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-left: 0.5rem;
+  opacity: 0.25;
+  transition: opacity 0.2s;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.verse-row:hover .verse-actions-mini,
+.verse-row.is-reading .verse-actions-mini {
+  opacity: 1;
+}
+
+.btn-verse-speak {
+  background: transparent;
+  border: none;
+  color: var(--accent-gold);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 4px;
+  border-radius: 4px;
+  transition: transform 0.15s, background 0.15s;
+}
+
+.btn-verse-speak:hover {
+  transform: scale(1.15);
+  background: var(--accent-gold-soft);
+}
+
+/* Scripture Layout: Interlinear / Stacked Mode */
+.scripture-view-interlinear {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.scripture-view-interlinear .verse-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.15rem 1.5rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.scripture-view-interlinear .verse-side-en {
+  padding-top: 0.35rem;
+  border-top: 1px dashed var(--border-subtle);
+  color: var(--text-muted);
+}
+
+/* Floating Audio Player Control Bar */
+.audio-dock-container {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 200;
+  width: 92%;
+  max-width: 820px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-strong);
+  border-radius: 50px;
+  padding: 0.65rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: var(--shadow-lg), 0 0 25px rgba(0,0,0,0.06);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translate(-50%, 20px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+.audio-track-info {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  min-width: 170px;
+}
+
+.audio-wave-icon {
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  background: var(--accent-gold-soft);
+  color: var(--accent-gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wave-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 2.5px;
+  height: 16px;
+}
+
+.wave-bar {
+  width: 3px;
+  background: var(--accent-gold);
+  border-radius: 2px;
+  height: 4px;
+}
+
+.is-playing .wave-bar:nth-child(1) { animation: soundwave 0.6s infinite ease-in-out; }
+.is-playing .wave-bar:nth-child(2) { animation: soundwave 0.8s infinite ease-in-out 0.15s; }
+.is-playing .wave-bar:nth-child(3) { animation: soundwave 0.5s infinite ease-in-out 0.3s; }
+.is-playing .wave-bar:nth-child(4) { animation: soundwave 0.7s infinite ease-in-out 0.1s; }
+
+@keyframes soundwave {
+  0%, 100% { height: 4px; }
+  50% { height: 16px; }
+}
+
+.track-text .title {
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: var(--text-main);
+  white-space: nowrap;
+}
+
+.track-text .status {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.audio-main-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn-ctrl {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s;
+}
+
+.btn-ctrl:hover {
+  color: var(--accent-gold);
+  background: var(--accent-gold-soft);
+}
+
+.btn-play-pause {
+  width: 2.8rem;
+  height: 2.8rem;
+  background: var(--accent-gold);
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(179, 135, 56, 0.4);
+  transition: transform 0.15s, background 0.15s;
+}
+
+.btn-play-pause:hover {
+  transform: scale(1.06);
+  background: var(--accent-gold-hover);
+}
+
+.audio-settings {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.speed-selector select,
+.voice-selector select {
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-main);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.35rem 0.6rem;
+  border-radius: 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+/* Books & Chapters Drawer Overlay */
+.drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(4px);
+  z-index: 300;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.drawer-backdrop.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.books-drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 440px;
+  max-width: 90vw;
+  background: var(--bg-surface);
+  z-index: 301;
+  transform: translateX(-100%);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  flex-direction: column;
+}
+
+.books-drawer.active {
+  transform: translateX(0);
+}
+
+.drawer-header {
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.drawer-header h3 {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  letter-spacing: 0.04em;
+  color: var(--text-main);
+}
+
+.search-box {
+  padding: 0.85rem 1.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border-radius: 20px;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-surface-elevated);
+  color: var(--text-main);
+  outline: none;
+  font-size: 0.88rem;
+}
+
+.search-box input:focus {
+  border-color: var(--accent-gold);
+}
+
+.drawer-tabs {
+  display: flex;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.drawer-tab-btn {
+  flex: 1;
+  padding: 0.75rem;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.drawer-tab-btn.active {
+  color: var(--accent-gold);
+  border-bottom-color: var(--accent-gold);
+}
+
+.drawer-book-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem 1.25rem;
+}
+
+.book-group-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin: 1rem 0 0.5rem;
+}
+
+.book-item-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0.85rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-main);
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+}
+
+.book-item-btn:hover {
+  background: var(--bg-surface-elevated);
+}
+
+.book-item-btn.selected {
+  background: var(--accent-gold-soft);
+  border-color: var(--accent-gold-border);
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.book-item-btn .name-en {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+/* Chapter Selector Modal in Drawer */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.5rem;
+  padding: 1rem;
+}
+
+.chapter-btn {
+  height: 2.4rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  background: var(--bg-surface-elevated);
+  color: var(--text-main);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.chapter-btn:hover {
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}
+
+.chapter-btn.current {
+  background: var(--accent-gold);
+  color: #ffffff;
+  border-color: var(--accent-gold);
+}
+
+/* Responsive Rules */
+@media (max-width: 960px) {
+  .scripture-header-row {
+    display: none;
+  }
+  .verse-row {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  .main-content {
+    padding: 1.5rem 1rem 11rem;
+  }
+  .audio-dock-container {
+    width: 95%;
+    padding: 0.5rem 0.85rem;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .audio-track-info {
+    min-width: unset;
+  }
+  .audio-settings {
+    margin-left: auto;
+  }
+}

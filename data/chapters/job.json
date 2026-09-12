@@ -1,0 +1,5445 @@
+{
+  "id": "JOB",
+  "name_zh": "约伯记",
+  "name_en": "Job",
+  "testament": "OT",
+  "group": "诗歌智慧书",
+  "total_chapters": 42,
+  "pdf_url": "https://www.christunite.com/NIV1984Bible/18Job.pdf",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "zh": "乌斯地有一个人名叫约伯；那人完全正直，敬畏神，远离恶事。",
+        "en": "In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil."
+      },
+      {
+        "verse": 2,
+        "zh": "他生了七个儿子，三个女儿。",
+        "en": "He had seven sons and three daughters,"
+      },
+      {
+        "verse": 3,
+        "zh": "他的家产有七千羊，三千骆驼，五百对牛，五百母驴，并有许多仆婢。这人在东方人中就为至大。",
+        "en": "and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East."
+      },
+      {
+        "verse": 4,
+        "zh": "他的儿子按著日子各在自己家里设摆筵宴，就打发人去，请了他们的三个姊妹来，与他们一同吃喝。",
+        "en": "His sons used to take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them."
+      },
+      {
+        "verse": 5,
+        "zh": "筵宴的日子过了，约伯打发人去叫他们自洁。他清早起来，按著他们众人的数目献燔祭；因为他说：恐怕我儿子犯了罪，心中弃掉神。约伯常常这样行。",
+        "en": "When a period of feasting had run its course, Job would send and have them purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, \"Perhaps my children have sinned and cursed God in their hearts.\" This was Job's regular custom."
+      },
+      {
+        "verse": 6,
+        "zh": "有一天，神的众子来侍立在耶和华面前，撒但也来在其中。",
+        "en": "One day the angels came to present themselves before the Lord , and Satan also came with them."
+      },
+      {
+        "verse": 7,
+        "zh": "耶和华问撒但说：“你从哪里来？”撒但回答说：“我从地上走来走去，往返而来。”",
+        "en": "The Lord said to Satan, \"Where have you come from?\" Satan answered the Lord , \"From roaming through the earth and going back and forth in it.\""
+      },
+      {
+        "verse": 8,
+        "zh": "耶和华问撒但说：“你曾用心察看我的仆人约伯没有？地上再没有人像他完全正直，敬畏神，远离恶事。”",
+        "en": "Then the Lord said to Satan, \"Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.\""
+      },
+      {
+        "verse": 9,
+        "zh": "撒但回答耶和华说：约伯敬畏神，岂是无故呢？",
+        "en": "\"Does Job fear God for nothing?\" Satan replied."
+      },
+      {
+        "verse": 10,
+        "zh": "你岂不是四面圈上篱笆围护他和他的家，并他一切所有的吗？他手所做的都蒙你赐福；他的家产也在地上增多。",
+        "en": "\"Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land."
+      },
+      {
+        "verse": 11,
+        "zh": "你且伸手毁他一切所有的；他必当面弃掉你。”",
+        "en": "But stretch out your hand and strike everything he has, and he will surely curse you to your face.\""
+      },
+      {
+        "verse": 12,
+        "zh": "耶和华对撒但说：“凡他所有的都在你手中；只是不可伸手加害于他。”于是撒但从耶和华面前退去。",
+        "en": "The Lord said to Satan, \"Very well, then, everything he has is in your hands, but on the man himself do not lay a finger.\" Then Satan went out from the presence of the Lord ."
+      },
+      {
+        "verse": 13,
+        "zh": "有一天，约伯的儿女正在他们长兄的家里吃饭喝酒，",
+        "en": "One day when Job's sons and daughters were feasting and drinking wine at the oldest brother's house,"
+      },
+      {
+        "verse": 14,
+        "zh": "有报信的来见约伯，说：牛正耕地，驴在旁边吃草，",
+        "en": "a messenger came to Job and said, \"The oxen were plowing and the donkeys were grazing nearby,"
+      },
+      {
+        "verse": 15,
+        "zh": "示巴人忽然闯来，把牲畜掳去，并用刀杀了仆人；惟有我一人逃脱，来报信给你。”",
+        "en": "and the Sabeans attacked and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!\""
+      },
+      {
+        "verse": 16,
+        "zh": "他还说话的时候，又有人来说：“神从天上降下火来，将群羊和仆人都烧灭了；惟有我一人逃脱，来报信给你。”",
+        "en": "While he was still speaking, another messenger came and said, \"The fire of God fell from the sky and burned up the sheep and the servants, and I am the only one who has escaped to tell you!\""
+      },
+      {
+        "verse": 17,
+        "zh": "他还说话的时候，又有人来说：“迦勒底人分作三队忽然闯来，把骆驼掳去，并用刀杀了仆人；惟有我一人逃脱，来报信给你。”",
+        "en": "While he was still speaking, another messenger came and said, \"The Chaldeans formed three raiding parties and swept down on your camels and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!\""
+      },
+      {
+        "verse": 18,
+        "zh": "他还说话的时候，又有人来说：你的儿女正在他们长兄的家里吃饭喝酒，",
+        "en": "While he was still speaking, yet another messenger came and said, \"Your sons and daughters were feasting and drinking wine at the oldest brother's house,"
+      },
+      {
+        "verse": 19,
+        "zh": "不料，有狂风从旷野刮来，击打房屋的四角，房屋倒塌在少年人身上，他们就都死了；惟有我一人逃脱，来报信给你。”",
+        "en": "when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!\""
+      },
+      {
+        "verse": 20,
+        "zh": "约伯便起来，撕裂外袍，剃了头，伏在地上下拜，",
+        "en": "At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship"
+      },
+      {
+        "verse": 21,
+        "zh": "说：“我赤身出于母胎，也必赤身归回；赏赐的是耶和华，收取的也是耶和华。耶和华的名是应当称颂的。”",
+        "en": "and said: \"Naked I came from my mother's womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised.\""
+      },
+      {
+        "verse": 22,
+        "zh": "在这一切的事上约伯并不犯罪，也不以神为愚妄（或译：也不妄评神）。",
+        "en": "In all this, Job did not sin by charging God with wrongdoing."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "zh": "又有一天，神的众子来侍立在耶和华面前，撒但也来在其中。",
+        "en": "On another day the angels came to present themselves before the Lord , and Satan also came with them to present himself before him."
+      },
+      {
+        "verse": 2,
+        "zh": "耶和华问撒但说：你从哪里来？撒但回答说：我从地上走来走去，往返而来。",
+        "en": "And the Lord said to Satan, \"Where have you come from?\" Satan answered the Lord , \"From roaming through the earth and going back and forth in it.\""
+      },
+      {
+        "verse": 3,
+        "zh": "耶和华问撒但说：你曾用心察看我的仆人约伯没有？地上再没有人像他完全正直，敬畏神，远离恶事。你虽激动我攻击他，无故地毁灭他，他仍然持守他的纯正。",
+        "en": "Then the Lord said to Satan, \"Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.\""
+      },
+      {
+        "verse": 4,
+        "zh": "撒但回答耶和华说：人以皮代皮，情愿舍去一切所有的，保全性命。",
+        "en": "\"Skin for skin!\" Satan replied. \"A man will give all he has for his own life."
+      },
+      {
+        "verse": 5,
+        "zh": "你且伸手伤他的骨头和他的肉，他必当面弃掉你。",
+        "en": "But stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.\""
+      },
+      {
+        "verse": 6,
+        "zh": "耶和华对撒但说：他在你手中，只要存留他的性命。",
+        "en": "The Lord said to Satan, \"Very well, then, he is in your hands; but you must spare his life.\""
+      },
+      {
+        "verse": 7,
+        "zh": "于是撒但从耶和华面前退去，击打约伯，使他从脚掌到头顶长毒疮。",
+        "en": "So Satan went out from the presence of the Lord and afflicted Job with painful sores from the soles of his feet to the top of his head."
+      },
+      {
+        "verse": 8,
+        "zh": "约伯就坐在炉灰中，拿瓦片刮身体。",
+        "en": "Then Job took a piece of broken pottery and scraped himself with it as he sat among the ashes."
+      },
+      {
+        "verse": 9,
+        "zh": "他的妻子对他说：你仍然持守你的纯正么？你弃掉神，死了罢！",
+        "en": "His wife said to him, \"Are you still holding on to your integrity? Curse God and die!\""
+      },
+      {
+        "verse": 10,
+        "zh": "约伯却对他说：你说话像愚顽的妇一样。嗳！难道我们从神手里得福，不也受祸么？在这一切的事上约伯并不以口犯罪。",
+        "en": "He replied, \"You are talking like a foolish woman. Shall we accept good from God, and not trouble?\" In all this, Job did not sin in what he said."
+      },
+      {
+        "verse": 11,
+        "zh": "约伯的三个朋友 ─ 提幔人以利法 、 书亚人比勒达 、 拿玛人琐法 ─ 听说有这一切的灾祸临到他身上，各人就从本处约会同来，为他悲伤，安慰他。",
+        "en": "When Job's three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him."
+      },
+      {
+        "verse": 12,
+        "zh": "他们远远地举目观看，认不出他来，就放声大哭。各人撕裂外袍，把尘土向天扬起来，落在自己的头上。",
+        "en": "When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads."
+      },
+      {
+        "verse": 13,
+        "zh": "他们就同他七天七夜坐在地上，一个人也不向他说句话，因为他极其痛苦。",
+        "en": "Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "zh": "此后，约伯开口咒诅自己的生日，",
+        "en": "After this, Job opened his mouth andcursed the day of his birth."
+      },
+      {
+        "verse": 2,
+        "zh": "说：",
+        "en": "He said:"
+      },
+      {
+        "verse": 3,
+        "zh": "愿我生的那日和说怀了男胎的那夜都灭没。",
+        "en": "\"May the day of my birth perish, and the night it was said, 'A boy is born!'"
+      },
+      {
+        "verse": 4,
+        "zh": "愿那日变为黑暗；愿神不从上面寻找他；愿亮光不照于其上。",
+        "en": "That day-may it turn to darkness; may God above not care about it; may no light shine upon it."
+      },
+      {
+        "verse": 5,
+        "zh": "愿黑暗和死荫索取那日；愿密云停在其上；愿日蚀恐吓他。",
+        "en": "May darkness and deep shadow claim it once more; may a cloud settle over it; may blackness overwhelm its light."
+      },
+      {
+        "verse": 6,
+        "zh": "愿那夜被幽暗夺取，不在年中的日子同乐，也不入月中的数目。",
+        "en": "That night-may thick darkness seize it; may it not be included among the days of the year nor be entered in any of the months."
+      },
+      {
+        "verse": 7,
+        "zh": "愿那夜没有生育，其间也没有欢乐的声音。",
+        "en": "May that night be barren; may no shout of joy be heard in it."
+      },
+      {
+        "verse": 8,
+        "zh": "愿那咒诅日子且能惹动鳄鱼的咒诅那夜。",
+        "en": "May those who curse days curse that day, those who are ready to rouse Leviathan."
+      },
+      {
+        "verse": 9,
+        "zh": "愿那夜黎明的星宿变为黑暗，盼亮却不亮，也不见早晨的光线（原文是眼皮）；",
+        "en": "May its morning stars become dark; may it wait for daylight in vain and not see the first rays of dawn,"
+      },
+      {
+        "verse": 10,
+        "zh": "因没有把怀我胎的门关闭，也没有将患难对我的眼隐藏。",
+        "en": "for it did not shut the doors of the womb on me to hide trouble from my eyes."
+      },
+      {
+        "verse": 11,
+        "zh": "我为何不出母胎而死？为何不出母腹绝气？",
+        "en": "\"Why did I not perish at birth, and die as I came from the womb?"
+      },
+      {
+        "verse": 12,
+        "zh": "为何有膝接收我？为何有奶哺养我？",
+        "en": "Why were there knees to receive me and breasts that I might be nursed?"
+      },
+      {
+        "verse": 13,
+        "zh": "不然，我就早已躺卧安睡，",
+        "en": "For now I would be lying down in peace; I would be asleep and at rest"
+      },
+      {
+        "verse": 14,
+        "zh": "和地上为自己重造荒邱的君王 、 谋士，",
+        "en": "with kings and counselors of the earth, who built for themselves places now lying in ruins,"
+      },
+      {
+        "verse": 15,
+        "zh": "或与有金子 、 将银子装满了房屋的王子一同安息；",
+        "en": "with rulers who had gold, who filled their houses with silver."
+      },
+      {
+        "verse": 16,
+        "zh": "或像隐而未现 、 不到期而落的胎，归于无有，如同未见光的婴孩。",
+        "en": "Or why was I not hidden in the ground like a stillborn child, like an infant who never saw the light of day?"
+      },
+      {
+        "verse": 17,
+        "zh": "在那里恶人止息搅扰，困乏人得享安息，",
+        "en": "There the wicked cease from turmoil, and there the weary are at rest."
+      },
+      {
+        "verse": 18,
+        "zh": "被囚的人同得安逸，不听见督工的声音。",
+        "en": "Captives also enjoy their ease; they no longer hear the slave driver's shout."
+      },
+      {
+        "verse": 19,
+        "zh": "大小都在那里；奴仆脱离主人的辖制。",
+        "en": "The small and the great are there, and the slave is freed from his master."
+      },
+      {
+        "verse": 20,
+        "zh": "受患难的人为何有光赐给他呢？心中愁苦的人为何有生命赐给他呢？",
+        "en": "\"Why is light given to those in misery, and life to the bitter of soul,"
+      },
+      {
+        "verse": 21,
+        "zh": "他们切望死，却不得死；求死，胜于求隐藏的珍宝。",
+        "en": "to those who long for death that does not come, who search for it more than for hidden treasure,"
+      },
+      {
+        "verse": 22,
+        "zh": "他们寻见坟墓就快乐，极其欢喜。",
+        "en": "who are filled with gladness and rejoice when they reach the grave?"
+      },
+      {
+        "verse": 23,
+        "zh": "人的道路既然遮隐，神又把他四面围困，为何有光赐给他呢？",
+        "en": "Why is life given to a man whose way is hidden, whom God has hedged in?"
+      },
+      {
+        "verse": 24,
+        "zh": "我未曾吃饭就发出叹息；我唉哼的声音涌出如水。",
+        "en": "For sighing comes to me instead of food; my groans pour out like water."
+      },
+      {
+        "verse": 25,
+        "zh": "因我所恐惧的临到我身，我所惧怕的迎我而来。",
+        "en": "What I feared has come upon me; what I dreaded has happened to me."
+      },
+      {
+        "verse": 26,
+        "zh": "我不得安逸，不得平静，也不得安息，却有患难来到。",
+        "en": "I have no peace, no quietness; I have no rest, but only turmoil.\""
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "zh": "提幔人以利法回答说：",
+        "en": "Then Eliphaz the Temanite replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "人若想与你说话，你就厌烦么？但谁能忍住不说呢？",
+        "en": "\"If someone ventures a word with you, will you be impatient? But who can keep from speaking?"
+      },
+      {
+        "verse": 3,
+        "zh": "你素来教导许多的人，又坚固软弱的手。",
+        "en": "Think how you have instructed many, how you have strengthened feeble hands."
+      },
+      {
+        "verse": 4,
+        "zh": "你的言语曾扶助那将要跌倒的人；你又使软弱的膝稳固。",
+        "en": "Your words have supported those who stumbled; you have strengthened faltering knees."
+      },
+      {
+        "verse": 5,
+        "zh": "但现在祸患临到你，你就昏迷，挨近你，你便惊惶。",
+        "en": "But now trouble comes to you, and you are discouraged; it strikes you, and you are dismayed."
+      },
+      {
+        "verse": 6,
+        "zh": "你的倚靠不是在你敬畏神么？你的盼望不是在你行事纯正么？",
+        "en": "Should not your piety be your confidence and your blameless ways your hope?"
+      },
+      {
+        "verse": 7,
+        "zh": "请你追想：无辜的人有谁灭亡？正直的人在何处剪除？",
+        "en": "\"Consider now: Who, being innocent, has ever perished? Where were the upright ever destroyed?"
+      },
+      {
+        "verse": 8,
+        "zh": "按我所见，耕罪孽 、 种毒害的人都照样收割。",
+        "en": "As I have observed, those who plow evil and those who sow trouble reap it."
+      },
+      {
+        "verse": 9,
+        "zh": "神一出气，他们就灭亡；神一发怒，他们就消没。",
+        "en": "At the breath of God they are destroyed; at the blast of his anger they perish."
+      },
+      {
+        "verse": 10,
+        "zh": "狮子的吼叫和猛狮的声音尽都止息；少壮狮子的牙齿也都敲掉。",
+        "en": "The lions may roar and growl, yet the teeth of the great lions are broken."
+      },
+      {
+        "verse": 11,
+        "zh": "老狮子因绝食而死；母狮之子也都离散。",
+        "en": "The lion perishes for lack of prey, and the cubs of the lioness are scattered."
+      },
+      {
+        "verse": 12,
+        "zh": "我暗暗地得了默示；我耳朵也听其细微的声音。",
+        "en": "\"A word was secretly brought to me, my ears caught a whisper of it."
+      },
+      {
+        "verse": 13,
+        "zh": "在思念夜中 、 异象之间，世人沉睡的时候，",
+        "en": "Amid disquieting dreams in the night, when deep sleep falls on men,"
+      },
+      {
+        "verse": 14,
+        "zh": "恐惧 、 战兢临到我身，使我百骨打战。",
+        "en": "fear and trembling seized me and made all my bones shake."
+      },
+      {
+        "verse": 15,
+        "zh": "有灵从我面前经过，我身上的毫毛直立。",
+        "en": "A spirit glided past my face, and the hair on my body stood on end."
+      },
+      {
+        "verse": 16,
+        "zh": "那灵停住，我却不能辨其形状；有影像在我眼前。我在静默中听见有声音说：",
+        "en": "It stopped, but I could not tell what it was. A form stood before my eyes, and I heard a hushed voice:"
+      },
+      {
+        "verse": 17,
+        "zh": "必死的人岂能比神公义么？人岂能比造他的主洁净么？",
+        "en": "'Can a mortal be more righteous than God? Can a man be more pure than his Maker?"
+      },
+      {
+        "verse": 18,
+        "zh": "主不信靠他的臣仆，并且指他的使者为愚昧；",
+        "en": "If God places no trust in his servants, if he charges his angels with error,"
+      },
+      {
+        "verse": 19,
+        "zh": "何况那住在土房 、 根基在尘土里 、 被蠹虫所毁坏的人呢？",
+        "en": "how much more those who live in houses of clay, whose foundations are in the dust, who are crushed more readily than a moth!"
+      },
+      {
+        "verse": 20,
+        "zh": "早晚之间，就被毁灭，永归无有，无人理会。",
+        "en": "Between dawn and dusk they are broken to pieces; unnoticed, they perish forever."
+      },
+      {
+        "verse": 21,
+        "zh": "他帐棚的绳索岂不从中抽出来呢？他死，且是无智慧而死。",
+        "en": "Are not the cords of their tent pulled up, so that they die without wisdom?'"
+      }
+    ],
+    "5": [
+      {
+        "verse": 1,
+        "zh": "你且呼求，有谁答应你？诸圣者之中，你转向哪一位呢？",
+        "en": "\"Call if you will, but who will answer you? To which of the holy ones will you turn?"
+      },
+      {
+        "verse": 2,
+        "zh": "忿怒害死愚妄人；嫉妒杀死痴迷人。",
+        "en": "Resentment kills a fool, and envy slays the simple."
+      },
+      {
+        "verse": 3,
+        "zh": "我曾见愚妄人扎下根，但我忽然咒诅他的住处。",
+        "en": "I myself have seen a fool taking root, but suddenly his house was cursed."
+      },
+      {
+        "verse": 4,
+        "zh": "他的儿女远离稳妥的地步，在城门口被压，并无人搭救。",
+        "en": "His children are far from safety, crushed in court without a defender."
+      },
+      {
+        "verse": 5,
+        "zh": "他的庄稼有饥饿的人吃尽了，就是在荆棘里的也抢去了；他的财宝有网罗张口吞灭了。",
+        "en": "The hungry consume his harvest, taking it even from among thorns, and the thirsty pant after his wealth."
+      },
+      {
+        "verse": 6,
+        "zh": "祸患原不是从土中出来；患难也不是从地里发生。",
+        "en": "For hardship does not spring from the soil, nor does trouble sprout from the ground."
+      },
+      {
+        "verse": 7,
+        "zh": "人生在世必遇患难，如同火星飞腾。",
+        "en": "Yet man is born to trouble as surely as sparks fly upward."
+      },
+      {
+        "verse": 8,
+        "zh": "至于我，我必仰望神，把我的事情托付他。",
+        "en": "\"But if it were I, I would appeal to God; I would lay my cause before him."
+      },
+      {
+        "verse": 9,
+        "zh": "他行大事不可测度，行奇事不可胜数：",
+        "en": "He performs wonders that cannot be fathomed, miracles that cannot be counted."
+      },
+      {
+        "verse": 10,
+        "zh": "降雨在地上，赐水于田里；",
+        "en": "He bestows rain on the earth; he sends water upon the countryside."
+      },
+      {
+        "verse": 11,
+        "zh": "将卑微的安置在高处，将哀痛的举到稳妥之地；",
+        "en": "The lowly he sets on high, and those who mourn are lifted to safety."
+      },
+      {
+        "verse": 12,
+        "zh": "破坏狡猾人的计谋，使他们所谋的不得成就。",
+        "en": "He thwarts the plans of the crafty, so that their hands achieve no success."
+      },
+      {
+        "verse": 13,
+        "zh": "他叫有智慧的中了自己的诡计，使狡诈人的计谋速速灭亡。",
+        "en": "He catches the wise in their craftiness, and the schemes of the wily are swept away."
+      },
+      {
+        "verse": 14,
+        "zh": "他们白昼遇见黑暗，午间摸索如在夜间。",
+        "en": "Darkness comes upon them in the daytime; at noon they grope as in the night."
+      },
+      {
+        "verse": 15,
+        "zh": "神拯救穷乏人脱离他们口中的刀和强暴人的手。",
+        "en": "He saves the needy from the sword in their mouth; he saves them from the clutches of the powerful."
+      },
+      {
+        "verse": 16,
+        "zh": "这样，贫寒的人有指望，罪孽之辈必塞口无言。",
+        "en": "So the poor have hope, and injustice shuts its mouth."
+      },
+      {
+        "verse": 17,
+        "zh": "神所惩治的人是有福的！所以你不可轻看全能者的管教。",
+        "en": "\"Blessed is the man whom God corrects; so do not despise the discipline of the Almighty."
+      },
+      {
+        "verse": 18,
+        "zh": "因为他打破，又缠裹；他击伤，用手医治。",
+        "en": "For he wounds, but he also binds up; he injures, but his hands also heal."
+      },
+      {
+        "verse": 19,
+        "zh": "你六次遭难，他必救你；就是七次，灾祸也无法害你。",
+        "en": "From six calamities he will rescue you; in seven no harm will befall you."
+      },
+      {
+        "verse": 20,
+        "zh": "在饥荒中，他必救你脱离死亡；在争战中，他必救你脱离刀剑的权力。",
+        "en": "In famine he will ransom you from death, and in battle from the stroke of the sword."
+      },
+      {
+        "verse": 21,
+        "zh": "你必被隐藏，不受口舌之害；灾殃临到，你也不惧怕。",
+        "en": "You will be protected from the lash of the tongue, and need not fear when destruction comes."
+      },
+      {
+        "verse": 22,
+        "zh": "你遇见灾害饥馑，就必嬉笑；地上的野兽，你也不惧怕。",
+        "en": "You will laugh at destruction and famine, and need not fear the beasts of the earth."
+      },
+      {
+        "verse": 23,
+        "zh": "因为你必与田间的石头立约；田里的野兽也必与你和好。",
+        "en": "For you will have a covenant with the stones of the field, and the wild animals will be at peace with you."
+      },
+      {
+        "verse": 24,
+        "zh": "你必知道你帐棚平安，要查看你的羊圈，一无所失；",
+        "en": "You will know that your tent is secure; you will take stock of your property and find nothing missing."
+      },
+      {
+        "verse": 25,
+        "zh": "也必知道你的后裔将来发达，你的子孙像地上的青草。",
+        "en": "You will know that your children will be many, and your descendants like the grass of the earth."
+      },
+      {
+        "verse": 26,
+        "zh": "你必寿高年迈才归坟墓，好像禾捆到时收藏。",
+        "en": "You will come to the grave in full vigor, like sheaves gathered in season."
+      },
+      {
+        "verse": 27,
+        "zh": "这理，我们已经考察，本是如此。你须要听，要知道是与自己有益。",
+        "en": "\"We have examined this, and it is true. So hear it and apply it to yourself.\""
+      }
+    ],
+    "6": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "惟愿我的烦恼称一称，我一切的灾害放在天平里；",
+        "en": "\"If only my anguish could be weighed and all my misery be placed on the scales!"
+      },
+      {
+        "verse": 3,
+        "zh": "现今都比海沙更重，所以我的言语急躁。",
+        "en": "It would surely outweigh the sand of the seas- no wonder my words have been impetuous."
+      },
+      {
+        "verse": 4,
+        "zh": "因全能者的箭射入我身；其毒，我的灵喝尽了；神的惊吓摆阵攻击我。",
+        "en": "The arrows of the Almighty are in me, my spirit drinks in their poison; God's terrors are marshaled against me."
+      },
+      {
+        "verse": 5,
+        "zh": "野驴有草岂能叫唤？牛有料岂能吼叫？",
+        "en": "Does a wild donkey bray when it has grass, or an ox bellow when it has fodder?"
+      },
+      {
+        "verse": 6,
+        "zh": "物淡而无盐岂可吃么？蛋青有甚么滋味呢？",
+        "en": "Is tasteless food eaten without salt, or is there flavor in the white of an egg ?"
+      },
+      {
+        "verse": 7,
+        "zh": "看为可厌的食物，我心不肯挨近。",
+        "en": "I refuse to touch it; such food makes me ill."
+      },
+      {
+        "verse": 8,
+        "zh": "惟愿我得著所求的，愿神赐我所切望的 !",
+        "en": "\"Oh, that I might have my request, that God would grant what I hope for,"
+      },
+      {
+        "verse": 9,
+        "zh": "就是愿神把我压碎，伸手将我剪除。",
+        "en": "that God would be willing to crush me, to let loose his hand and cut me off!"
+      },
+      {
+        "verse": 10,
+        "zh": "我因没有违弃那圣者的言语，就仍以此为安慰，在不止息的痛苦中还可踊跃。",
+        "en": "Then I would still have this consolation- my joy in unrelenting pain-that I had not denied the words of the Holy One."
+      },
+      {
+        "verse": 11,
+        "zh": "我有甚么气力使我等候？我有甚么结局使我忍耐？",
+        "en": "\"What strength do I have, that I should still hope? What prospects, that I should be patient?"
+      },
+      {
+        "verse": 12,
+        "zh": "我的气力岂是石头的气力？我的肉身岂是铜的呢？",
+        "en": "Do I have the strength of stone? Is my flesh bronze?"
+      },
+      {
+        "verse": 13,
+        "zh": "在我岂不是毫无帮助么？智慧岂不是从我心中赶出净尽么？",
+        "en": "Do I have any power to help myself, now that success has been driven from me?"
+      },
+      {
+        "verse": 14,
+        "zh": "那将要灰心 、 离弃全能者 、 不敬畏神的人，他的朋友当以慈爱待他。",
+        "en": "\"A despairing man should have the devotion of his friends, even though he forsakes the fear of the Almighty."
+      },
+      {
+        "verse": 15,
+        "zh": "我的弟兄诡诈，好像溪水，又像溪水流干的河道。",
+        "en": "But my brothers are as undependable as intermittent streams, as the streams that overflow"
+      },
+      {
+        "verse": 16,
+        "zh": "这河因结冰发黑，有雪藏在其中；",
+        "en": "when darkened by thawing ice and swollen with melting snow,"
+      },
+      {
+        "verse": 17,
+        "zh": "天气渐暖就随时消化，日头炎热便从原处干涸。",
+        "en": "but that cease to flow in the dry season, and in the heat vanish from their channels."
+      },
+      {
+        "verse": 18,
+        "zh": "结伴的客旅离弃大道，顺河偏行，到荒野之地死亡。",
+        "en": "Caravans turn aside from their routes; they go up into the wasteland and perish."
+      },
+      {
+        "verse": 19,
+        "zh": "提玛结伴的客旅瞻望；示巴同伙的人等候。",
+        "en": "The caravans of Tema look for water, the traveling merchants of Sheba look in hope."
+      },
+      {
+        "verse": 20,
+        "zh": "他们因失了盼望就抱愧，来到那里便蒙羞。",
+        "en": "They are distressed, because they had been confident; they arrive there, only to be disappointed."
+      },
+      {
+        "verse": 21,
+        "zh": "现在你们正是这样，看见惊吓的事便惧怕。",
+        "en": "Now you too have proved to be of no help; you see something dreadful and are afraid."
+      },
+      {
+        "verse": 22,
+        "zh": "我岂说：请你们供给我，从你们的财物中送礼物给我？",
+        "en": "Have I ever said, 'Give something on my behalf, pay a ransom for me from your wealth,"
+      },
+      {
+        "verse": 23,
+        "zh": "岂说：拯救我脱离敌人的手么？救赎我脱离强暴人的手么？",
+        "en": "deliver me from the hand of the enemy, ransom me from the clutches of the ruthless'?"
+      },
+      {
+        "verse": 24,
+        "zh": "请你们教导我，我便不作声；使我明白在何事上有错。",
+        "en": "\"Teach me, and I will be quiet; show me where I have been wrong."
+      },
+      {
+        "verse": 25,
+        "zh": "正直的言语力量何其大！但你们责备是责备甚么呢？",
+        "en": "How painful are honest words! But what do your arguments prove?"
+      },
+      {
+        "verse": 26,
+        "zh": "绝望人的讲论既然如风，你们还想要驳正言语么？",
+        "en": "Do you mean to correct what I say, and treat the words of a despairing man as wind?"
+      },
+      {
+        "verse": 27,
+        "zh": "你们想为孤儿拈阄，以朋友当货物。",
+        "en": "You would even cast lots for the fatherless and barter away your friend."
+      },
+      {
+        "verse": 28,
+        "zh": "现在请你们看看我，我决不当面说谎。",
+        "en": "\"But now be so kind as to look at me. Would I lie to your face?"
+      },
+      {
+        "verse": 29,
+        "zh": "请你们转意，不要不公；请再转意，我的事有理。",
+        "en": "Relent, do not be unjust; reconsider, for my integrity is at stake."
+      },
+      {
+        "verse": 30,
+        "zh": "我的舌上岂有不义么？我的口里岂不辨奸恶么？",
+        "en": "Is there any wickedness on my lips? Can my mouth not discern malice?"
+      }
+    ],
+    "7": [
+      {
+        "verse": 1,
+        "zh": "人在世上岂无争战么？他的日子不像雇工人的日子么？",
+        "en": "\"Does not man have hard service on earth? Are not his days like those of a hired man?"
+      },
+      {
+        "verse": 2,
+        "zh": "像奴仆切慕黑影，像雇工人盼望工价；",
+        "en": "Like a slave longing for the evening shadows, or a hired man waiting eagerly for his wages,"
+      },
+      {
+        "verse": 3,
+        "zh": "我也照样经过困苦的日月，夜间的疲乏为我而定。",
+        "en": "so I have been allotted months of futility, and nights of misery have been assigned to me."
+      },
+      {
+        "verse": 4,
+        "zh": "我躺卧的时候便说：我何时起来，黑夜就过去呢？我尽是反来覆去，直到天亮。",
+        "en": "When I lie down I think, 'How long before I get up?' The night drags on, and I toss till dawn."
+      },
+      {
+        "verse": 5,
+        "zh": "我的肉体以虫子和尘土为衣；我的皮肤才收了口又重新破裂。",
+        "en": "My body is clothed with worms and scabs, my skin is broken and festering."
+      },
+      {
+        "verse": 6,
+        "zh": "我的日子比梭更快，都消耗在无指望之中。",
+        "en": "\"My days are swifter than a weaver's shuttle, and they come to an end without hope."
+      },
+      {
+        "verse": 7,
+        "zh": "求你想念，我的生命不过是一口气；我的眼睛必不再见福乐。",
+        "en": "Remember, O God, that my life is but a breath; my eyes will never see happiness again."
+      },
+      {
+        "verse": 8,
+        "zh": "观看我的人，他的眼必不再见我；你的眼目要看我，我却不在了。",
+        "en": "The eye that now sees me will see me no longer; you will look for me, but I will be no more."
+      },
+      {
+        "verse": 9,
+        "zh": "云彩消散而过；照样，人下阴间也不再上来。",
+        "en": "As a cloud vanishes and is gone, so he who goes down to the grave does not return."
+      },
+      {
+        "verse": 10,
+        "zh": "他不再回自己的家；故土也不再认识他。",
+        "en": "He will never come to his house again; his place will know him no more."
+      },
+      {
+        "verse": 11,
+        "zh": "我不禁止我口；我灵愁苦，要发出言语；我心苦恼，要吐露哀情。",
+        "en": "\"Therefore I will not keep silent; I will speak out in the anguish of my spirit, I will complain in the bitterness of my soul."
+      },
+      {
+        "verse": 12,
+        "zh": "我对神说：我岂是洋海，岂是大鱼，你竟防守我呢？",
+        "en": "Am I the sea, or the monster of the deep, that you put me under guard?"
+      },
+      {
+        "verse": 13,
+        "zh": "若说：我的床必安慰我，我的榻必解释我的苦情，",
+        "en": "When I think my bed will comfort me and my couch will ease my complaint,"
+      },
+      {
+        "verse": 14,
+        "zh": "你就用梦惊骇我，用异象恐吓我，",
+        "en": "even then you frighten me with dreams and terrify me with visions,"
+      },
+      {
+        "verse": 15,
+        "zh": "甚至我宁肯噎死，宁肯死亡，胜似留我这一身的骨头。",
+        "en": "so that I prefer strangling and death, rather than this body of mine."
+      },
+      {
+        "verse": 16,
+        "zh": "我厌弃性命，不愿永活。你任凭我罢，因我的日子都是虚空。",
+        "en": "I despise my life; I would not live forever. Let me alone; my days have no meaning."
+      },
+      {
+        "verse": 17,
+        "zh": "人算甚么，你竟看他为大，将他放在心上？",
+        "en": "\"What is man that you make so much of him, that you give him so much attention,"
+      },
+      {
+        "verse": 18,
+        "zh": "每早鉴察他，时刻试验他？",
+        "en": "that you examine him every morning and test him every moment?"
+      },
+      {
+        "verse": 19,
+        "zh": "你到何时才转眼不看我，才任凭我咽下唾沫呢？",
+        "en": "Will you never look away from me, or let me alone even for an instant?"
+      },
+      {
+        "verse": 20,
+        "zh": "鉴察人的主啊，我若有罪，于你何妨？为何以我当你的箭靶子，使我厌弃自己的性命？",
+        "en": "If I have sinned, what have I done to you, O watcher of men? Why have you made me your target? Have I become a burden to you?"
+      },
+      {
+        "verse": 21,
+        "zh": "为何不赦免我的过犯，除掉我的罪孽？我现今要躺卧在尘土中；你要殷勤地寻找我，我却不在了。",
+        "en": "Why do you not pardon my offenses and forgive my sins? For I will soon lie down in the dust; you will search for me, but I will be no more.\""
+      }
+    ],
+    "8": [
+      {
+        "verse": 1,
+        "zh": "书亚人比勒达回答说：",
+        "en": "Then Bildad the Shuhite replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "这些话你要说到几时？口中的言语如狂风要到几时呢？",
+        "en": "\"How long will you say such things? Your words are a blustering wind."
+      },
+      {
+        "verse": 3,
+        "zh": "神岂能偏离公平？全能者岂能偏离公义？",
+        "en": "Does God pervert justice? Does the Almighty pervert what is right?"
+      },
+      {
+        "verse": 4,
+        "zh": "或者你的儿女得罪了他；他使他们受报应。",
+        "en": "When your children sinned against him, he gave them over to the penalty of their sin."
+      },
+      {
+        "verse": 5,
+        "zh": "你若殷勤地寻求神，向全能者恳求；",
+        "en": "But if you will look to God and plead with the Almighty,"
+      },
+      {
+        "verse": 6,
+        "zh": "你若清洁正直，他必定为你起来，使你公义的居所兴旺。",
+        "en": "if you are pure and upright, even now he will rouse himself on your behalf and restore you to your rightful place."
+      },
+      {
+        "verse": 7,
+        "zh": "你起初虽然微小，终久必甚发达。",
+        "en": "Your beginnings will seem humble, so prosperous will your future be."
+      },
+      {
+        "verse": 8,
+        "zh": "请你考问前代，追念他们的列祖所查究的。",
+        "en": "\"Ask the former generations and find out what their fathers learned,"
+      },
+      {
+        "verse": 9,
+        "zh": "我们不过从昨日才有，一无所知；我们在世的日子好像影儿。",
+        "en": "for we were born only yesterday and know nothing, and our days on earth are but a shadow."
+      },
+      {
+        "verse": 10,
+        "zh": "他们岂不指教你，告诉你，从心里发出言语来呢？",
+        "en": "Will they not instruct you and tell you? Will they not bring forth words from their understanding?"
+      },
+      {
+        "verse": 11,
+        "zh": "蒲草没有泥岂能发长？芦荻没有水岂能生发？",
+        "en": "Can papyrus grow tall where there is no marsh? Can reeds thrive without water?"
+      },
+      {
+        "verse": 12,
+        "zh": "尚青的时候，还没有割下，比百样的草先枯槁。",
+        "en": "While still growing and uncut, they wither more quickly than grass."
+      },
+      {
+        "verse": 13,
+        "zh": "凡忘记神的人，景况也是这样；不虔敬人的指望要灭没。",
+        "en": "Such is the destiny of all who forget God; so perishes the hope of the godless."
+      },
+      {
+        "verse": 14,
+        "zh": "他所仰赖的必折断；他所倚靠的是蜘蛛网。",
+        "en": "What he trusts in is fragile ; what he relies on is a spider's web."
+      },
+      {
+        "verse": 15,
+        "zh": "他要倚靠房屋，房屋却站立不住；他要抓住房屋，房屋却不能存留。",
+        "en": "He leans on his web, but it gives way; he clings to it, but it does not hold."
+      },
+      {
+        "verse": 16,
+        "zh": "他在日光之下发青，蔓子爬满了园子；",
+        "en": "He is like a well-watered plant in the sunshine, spreading its shoots over the garden;"
+      },
+      {
+        "verse": 17,
+        "zh": "他的根盘绕石堆，扎入石地。",
+        "en": "it entwines its roots around a pile of rocks and looks for a place among the stones."
+      },
+      {
+        "verse": 18,
+        "zh": "他若从本地被拔出，那地就不认识他，说：我没有见过你。",
+        "en": "But when it is torn from its spot, that place disowns it and says, 'I never saw you.'"
+      },
+      {
+        "verse": 19,
+        "zh": "看哪，这就是他道中之乐；以后必另有人从地而生。",
+        "en": "Surely its life withers away, and from the soil other plants grow."
+      },
+      {
+        "verse": 20,
+        "zh": "神必不丢弃完全人，也不扶助邪恶人。",
+        "en": "\"Surely God does not reject a blameless man or strengthen the hands of evildoers."
+      },
+      {
+        "verse": 21,
+        "zh": "他还要以喜笑充满你的口，以欢呼充满你的嘴。",
+        "en": "He will yet fill your mouth with laughter and your lips with shouts of joy."
+      },
+      {
+        "verse": 22,
+        "zh": "恨恶你的要披戴惭愧；恶人的帐棚必归于无有。",
+        "en": "Your enemies will be clothed in shame, and the tents of the wicked will be no more.\""
+      }
+    ],
+    "9": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "我真知道是这样；但人在神面前怎能成为义呢？",
+        "en": "\"Indeed, I know that this is true. But how can a mortal be righteous before God?"
+      },
+      {
+        "verse": 3,
+        "zh": "若愿意与他争辩，千中之一也不能回答。",
+        "en": "Though one wished to dispute with him, he could not answer him one time out of a thousand."
+      },
+      {
+        "verse": 4,
+        "zh": "他心里有智慧，且大有能力。谁向神刚硬而得亨通呢？",
+        "en": "His wisdom is profound, his power is vast. Who has resisted him and come out unscathed?"
+      },
+      {
+        "verse": 5,
+        "zh": "他发怒，把山翻倒挪移，山并不知觉。",
+        "en": "He moves mountains without their knowing it and overturns them in his anger."
+      },
+      {
+        "verse": 6,
+        "zh": "他使地震动，离其本位，地的柱子就摇撼。",
+        "en": "He shakes the earth from its place and makes its pillars tremble."
+      },
+      {
+        "verse": 7,
+        "zh": "他吩咐日头不出来，就不出来，又封闭众星。",
+        "en": "He speaks to the sun and it does not shine; he seals off the light of the stars."
+      },
+      {
+        "verse": 8,
+        "zh": "他独自铺张苍天，步行在海浪之上。",
+        "en": "He alone stretches out the heavens and treads on the waves of the sea."
+      },
+      {
+        "verse": 9,
+        "zh": "他造北斗 、 参星 、 昴星，并南方的密宫；",
+        "en": "He is the Maker of the Bear and Orion, the Pleiades and the constellations of the south."
+      },
+      {
+        "verse": 10,
+        "zh": "他行大事，不可测度，行奇事，不可胜数。",
+        "en": "He performs wonders that cannot be fathomed, miracles that cannot be counted."
+      },
+      {
+        "verse": 11,
+        "zh": "他从我旁边经过，我却不看见；他在我面前行走，我倒不知觉。",
+        "en": "When he passes me, I cannot see him; when he goes by, I cannot perceive him."
+      },
+      {
+        "verse": 12,
+        "zh": "他夺取，谁能阻挡？谁敢问他：你做甚么？",
+        "en": "If he snatches away, who can stop him? Who can say to him, 'What are you doing?'"
+      },
+      {
+        "verse": 13,
+        "zh": "神必不收回他的怒气；扶助拉哈伯的，屈身在他以下。",
+        "en": "God does not restrain his anger; even the cohorts of Rahab cowered at his feet."
+      },
+      {
+        "verse": 14,
+        "zh": "既是这样，我怎敢回答他，怎敢选择言语与他辩论呢？",
+        "en": "\"How then can I dispute with him? How can I find words to argue with him?"
+      },
+      {
+        "verse": 15,
+        "zh": "我虽有义，也不回答他，只要向那审判我的恳求。",
+        "en": "Though I were innocent, I could not answer him; I could only plead with my Judge for mercy."
+      },
+      {
+        "verse": 16,
+        "zh": "我若呼吁，他应允我；我仍不信他真听我的声音。",
+        "en": "Even if I summoned him and he responded, I do not believe he would give me a hearing."
+      },
+      {
+        "verse": 17,
+        "zh": "他用暴风折断我，无故地加增我的损伤。",
+        "en": "He would crush me with a storm and multiply my wounds for no reason."
+      },
+      {
+        "verse": 18,
+        "zh": "我就是喘一口气，他都不容，倒使我满心苦恼。",
+        "en": "He would not let me regain my breath but would overwhelm me with misery."
+      },
+      {
+        "verse": 19,
+        "zh": "若论力量，他真有能力！若论审判，他说谁能将我传来呢？",
+        "en": "If it is a matter of strength, he is mighty! And if it is a matter of justice, who will summon him ?"
+      },
+      {
+        "verse": 20,
+        "zh": "我虽有义，自己的口要定我为有罪；我虽完全，我口必显我为弯曲。",
+        "en": "Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty."
+      },
+      {
+        "verse": 21,
+        "zh": "我本完全，不顾自己；我厌恶我的性命。",
+        "en": "\"Although I am blameless, I have no concern for myself; I despise my own life."
+      },
+      {
+        "verse": 22,
+        "zh": "善恶无分，都是一样；所以我说，完全人和恶人，他都灭绝。",
+        "en": "It is all the same; that is why I say, 'He destroys both the blameless and the wicked.'"
+      },
+      {
+        "verse": 23,
+        "zh": "若忽然遭杀害之祸，他必戏笑无辜的人遇难。",
+        "en": "When a scourge brings sudden death, he mocks the despair of the innocent."
+      },
+      {
+        "verse": 24,
+        "zh": "世界交在恶人手中；蒙蔽世界审判官的脸，若不是他，是谁呢？",
+        "en": "When a land falls into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?"
+      },
+      {
+        "verse": 25,
+        "zh": "我的日子比跑信的更快，急速过去，不见福乐。",
+        "en": "\"My days are swifter than a runner; they fly away without a glimpse of joy."
+      },
+      {
+        "verse": 26,
+        "zh": "我的日子过去如快船，如急落抓食的鹰。",
+        "en": "They skim past like boats of papyrus, like eagles swooping down on their prey."
+      },
+      {
+        "verse": 27,
+        "zh": "我若说：我要忘记我的哀情，除去我的愁容，心中畅快；",
+        "en": "If I say, 'I will forget my complaint, I will change my expression, and smile,'"
+      },
+      {
+        "verse": 28,
+        "zh": "我因愁苦而惧怕，知道你必不以我为无辜。",
+        "en": "I still dread all my sufferings, for I know you will not hold me innocent."
+      },
+      {
+        "verse": 29,
+        "zh": "我必被你定为有罪，我何必徒然劳苦呢？",
+        "en": "Since I am already found guilty, why should I struggle in vain?"
+      },
+      {
+        "verse": 30,
+        "zh": "我若用雪水洗身，用碱洁净我的手，",
+        "en": "Even if I washed myself with soap and my hands with washing soda,"
+      },
+      {
+        "verse": 31,
+        "zh": "你还要扔我在坑里，我的衣服都憎恶我。",
+        "en": "you would plunge me into a slime pit so that even my clothes would detest me."
+      },
+      {
+        "verse": 32,
+        "zh": "他本不像我是人，使我可以回答他，又使我们可以同听审判。",
+        "en": "\"He is not a man like me that I might answer him, that we might confront each other in court."
+      },
+      {
+        "verse": 33,
+        "zh": "我们中间没有听讼的人可以向我们两造按手。",
+        "en": "If only there were someone to arbitrate between us, to lay his hand upon us both,"
+      },
+      {
+        "verse": 34,
+        "zh": "愿他把杖离开我，不使惊惶威吓我。",
+        "en": "someone to remove God's rod from me, so that his terror would frighten me no more."
+      },
+      {
+        "verse": 35,
+        "zh": "我就说话，也不惧怕他，现在我却不是那样。",
+        "en": "Then I would speak up without fear of him, but as it now stands with me, I cannot."
+      }
+    ],
+    "10": [
+      {
+        "verse": 1,
+        "zh": "我厌烦我的性命，必由著自己述说我的哀情；因心里苦恼，我要说话，",
+        "en": "\"I loathe my very life; therefore I will give free rein to my complaint and speak out in the bitterness of my soul."
+      },
+      {
+        "verse": 2,
+        "zh": "对神说：不要定我有罪，要指示我，你为何与我争辩？",
+        "en": "I will say to God: Do not condemn me, but tell me what charges you have against me."
+      },
+      {
+        "verse": 3,
+        "zh": "你手所造的，你又欺压，又藐视，却光照恶人的计谋。这事你以为美么？",
+        "en": "Does it please you to oppress me, to spurn the work of your hands, while you smile on the schemes of the wicked?"
+      },
+      {
+        "verse": 4,
+        "zh": "你的眼岂是肉眼？你查看岂像人查看么？",
+        "en": "Do you have eyes of flesh? Do you see as a mortal sees?"
+      },
+      {
+        "verse": 5,
+        "zh": "你的日子岂像人的日子，你的年岁岂像人的年岁，",
+        "en": "Are your days like those of a mortal or your years like those of a man,"
+      },
+      {
+        "verse": 6,
+        "zh": "就追问我的罪孽，寻察我的罪过么？",
+        "en": "that you must search out my faults and probe after my sin-"
+      },
+      {
+        "verse": 7,
+        "zh": "其实，你知道我没有罪恶，并没有能救我脱离你手的。",
+        "en": "though you know that I am not guilty and that no one can rescue me from your hand?"
+      },
+      {
+        "verse": 8,
+        "zh": "你的手创造我，造就我的四肢百体，你还要毁灭我。",
+        "en": "\"Your hands shaped me and made me. Will you now turn and destroy me?"
+      },
+      {
+        "verse": 9,
+        "zh": "求你记念 ─ 制造我如抟泥一般，你还要使我归于尘土么？",
+        "en": "Remember that you molded me like clay. Will you now turn me to dust again?"
+      },
+      {
+        "verse": 10,
+        "zh": "你不是倒出我来好像奶，使我凝结如同奶饼么？",
+        "en": "Did you not pour me out like milk and curdle me like cheese,"
+      },
+      {
+        "verse": 11,
+        "zh": "你以皮和肉为衣给我穿上，用骨与筋把我全体联络。",
+        "en": "clothe me with skin and flesh and knit me together with bones and sinews?"
+      },
+      {
+        "verse": 12,
+        "zh": "你将生命和慈爱赐给我；你也眷顾保全我的心灵。",
+        "en": "You gave me life and showed me kindness, and in your providence watched over my spirit."
+      },
+      {
+        "verse": 13,
+        "zh": "然而，你待我的这些事早已藏在你心里；我知道你久有此意。",
+        "en": "\"But this is what you concealed in your heart, and I know that this was in your mind:"
+      },
+      {
+        "verse": 14,
+        "zh": "我若犯罪，你就察看我，并不赦免我的罪孽。",
+        "en": "If I sinned, you would be watching me and would not let my offense go unpunished."
+      },
+      {
+        "verse": 15,
+        "zh": "我若行恶，便有了祸；我若为义，也不敢抬头，正是满心羞愧，眼见我的苦情。",
+        "en": "If I am guilty-woe to me! Even if I am innocent, I cannot lift my head, for I am full of shame and drowned in my affliction."
+      },
+      {
+        "verse": 16,
+        "zh": "我若昂首自得，你就追捕我如狮子，又在我身上显出奇能。",
+        "en": "If I hold my head high, you stalk me like a lion and again display your awesome power against me."
+      },
+      {
+        "verse": 17,
+        "zh": "你重立见证攻击我，向我加增恼怒，如军兵更换著攻击我。",
+        "en": "You bring new witnesses against me and increase your anger toward me; your forces come against me wave upon wave."
+      },
+      {
+        "verse": 18,
+        "zh": "你为何使我出母胎呢？不如我当时气绝，无人得见我；",
+        "en": "\"Why then did you bring me out of the womb? I wish I had died before any eye saw me."
+      },
+      {
+        "verse": 19,
+        "zh": "这样，就如没有我一般，一出母胎就被送入坟墓。",
+        "en": "If only I had never come into being, or had been carried straight from the womb to the grave!"
+      },
+      {
+        "verse": 20,
+        "zh": "我的日子不是甚少么？求你停手宽容我，叫我在往而不返之先 ─ 就是往黑暗和死荫之地以先 ─ 可以稍得畅快。",
+        "en": "Are not my few days almost over? Turn away from me so I can have a moment's joy"
+      },
+      {
+        "verse": 21,
+        "zh": "a",
+        "en": "before I go to the place of no return, to the land of gloom and deep shadow,"
+      },
+      {
+        "verse": 22,
+        "zh": "那地甚是幽暗，是死荫混沌之地；那里的光好像幽暗。",
+        "en": "to the land of deepest night, of deep shadow and disorder, where even the light is like darkness.\""
+      }
+    ],
+    "11": [
+      {
+        "verse": 1,
+        "zh": "拿玛人琐法回答说：",
+        "en": "Then Zophar the Naamathitereplied:"
+      },
+      {
+        "verse": 2,
+        "zh": "这许多的言语岂不该回答么？多嘴多舌的人岂可称为义么？",
+        "en": "\"Are all these words to go unanswered? Is this talker to be vindicated?"
+      },
+      {
+        "verse": 3,
+        "zh": "你夸大的话岂能使人不作声么？你戏笑的时候岂没有人叫你害羞么？",
+        "en": "Will your idle talk reduce men to silence? Will no one rebuke you when you mock?"
+      },
+      {
+        "verse": 4,
+        "zh": "你说：我的道理纯全；我在你眼前洁净。",
+        "en": "You say to God, 'My beliefs are flawless and I am pure in your sight.'"
+      },
+      {
+        "verse": 5,
+        "zh": "惟愿神说话；愿他开口攻击你，",
+        "en": "Oh, how I wish that God would speak, that he would open his lips against you"
+      },
+      {
+        "verse": 6,
+        "zh": "并将智慧的奥秘指示你；他有诸般的智识。所以当知道神追讨你比你罪孽该得的还少。",
+        "en": "and disclose to you the secrets of wisdom, for true wisdom has two sides. Know this: God has even forgotten some of your sin."
+      },
+      {
+        "verse": 7,
+        "zh": "你考察就能测透神吗？你岂能尽情测透全能者吗？",
+        "en": "\"Can you fathom the mysteries of God? Can you probe the limits of the Almighty?"
+      },
+      {
+        "verse": 8,
+        "zh": "他的智慧高于天，你还能做甚么？深于阴间，你还能知道甚么？",
+        "en": "They are higher than the heavens-what can you do? They are deeper than the depths of the grave -what can you know?"
+      },
+      {
+        "verse": 9,
+        "zh": "其量比地长，比海宽。",
+        "en": "Their measure is longer than the earth and wider than the sea."
+      },
+      {
+        "verse": 10,
+        "zh": "他若经过，将人拘禁，招人受审，谁能阻挡他呢？",
+        "en": "\"If he comes along and confines you in prison and convenes a court, who can oppose him?"
+      },
+      {
+        "verse": 11,
+        "zh": "他本知道虚妄的人；人的罪孽，他虽不留意，还是无所不见。",
+        "en": "Surely he recognizes deceitful men; and when he sees evil, does he not take note?"
+      },
+      {
+        "verse": 12,
+        "zh": "空虚的人却毫无知识；人生在世好像野驴的驹子。",
+        "en": "But a witless man can no more become wise than a wild donkey's colt can be born a man."
+      },
+      {
+        "verse": 13,
+        "zh": "你若将心安正，又向主举手；",
+        "en": "\"Yet if you devote your heart to him and stretch out your hands to him,"
+      },
+      {
+        "verse": 14,
+        "zh": "你手里若有罪孽，就当远远地除掉，也不容非义住在你帐棚之中。",
+        "en": "if you put away the sin that is in your hand and allow no evil to dwell in your tent,"
+      },
+      {
+        "verse": 15,
+        "zh": "那时，你必仰起脸来毫无斑点；你也必坚固，无所惧怕。",
+        "en": "then you will lift up your face without shame; you will stand firm and without fear."
+      },
+      {
+        "verse": 16,
+        "zh": "你必忘记你的苦楚，就是想起也如流过去的水一样。",
+        "en": "You will surely forget your trouble, recalling it only as waters gone by."
+      },
+      {
+        "verse": 17,
+        "zh": "你在世的日子要比正午更明，虽有黑暗仍像早晨。",
+        "en": "Life will be brighter than noonday, and darkness will become like morning."
+      },
+      {
+        "verse": 18,
+        "zh": "你因有指望就必稳固，也必四围巡查，坦然安息。",
+        "en": "You will be secure, because there is hope; you will look about you and take your rest in safety."
+      },
+      {
+        "verse": 19,
+        "zh": "你躺卧，无人惊吓，且有许多人向你求恩。",
+        "en": "You will lie down, with no one to make you afraid, and many will court your favor."
+      },
+      {
+        "verse": 20,
+        "zh": "但恶人的眼目必要失明。他们无路可逃；他们的指望就是气绝。",
+        "en": "But the eyes of the wicked will fail, and escape will elude them; their hope will become a dying gasp.\""
+      }
+    ],
+    "12": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "你们真是子民哪，你们死亡，智慧也就灭没了。",
+        "en": "\"Doubtless you are the people, and wisdom will die with you!"
+      },
+      {
+        "verse": 3,
+        "zh": "但我也有聪明，与你们一样，并非不及你们。你们所说的，谁不知道呢？",
+        "en": "But I have a mind as well as you; I am not inferior to you. Who does not know all these things?"
+      },
+      {
+        "verse": 4,
+        "zh": "我这求告神 、 蒙他应允的人竟成了朋友所讥笑的；公义完全人竟受了人的讥笑。",
+        "en": "\"I have become a laughingstock to my friends, though I called upon God and he answered- a mere laughingstock, though righteous and blameless!"
+      },
+      {
+        "verse": 5,
+        "zh": "安逸的人心里藐视灾祸；这灾祸常常等待滑脚的人。",
+        "en": "Men at ease have contempt for misfortune as the fate of those whose feet are slipping."
+      },
+      {
+        "verse": 6,
+        "zh": "强盗的帐棚兴旺，惹神的人稳固，神多将财物送到他们手中。",
+        "en": "The tents of marauders are undisturbed, and those who provoke God are secure-those who carry their god in their hands."
+      },
+      {
+        "verse": 7,
+        "zh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你；",
+        "en": "\"But ask the animals, and they will teach you, or the birds of the air, and they will tell you;"
+      },
+      {
+        "verse": 8,
+        "zh": "或与地说话，地必指教你；海中的鱼也必向你说明。",
+        "en": "or speak to the earth, and it will teach you, or let the fish of the sea inform you."
+      },
+      {
+        "verse": 9,
+        "zh": "看这一切，谁不知道是耶和华的手做成的呢？",
+        "en": "Which of all these does not know that the hand of the Lord has done this?"
+      },
+      {
+        "verse": 10,
+        "zh": "凡活物的生命和人类的气息都在他手中。",
+        "en": "In his hand is the life of every creature and the breath of all mankind."
+      },
+      {
+        "verse": 11,
+        "zh": "耳朵岂不试验言语，正如上膛尝食物么？",
+        "en": "Does not the ear test words as the tongue tastes food?"
+      },
+      {
+        "verse": 12,
+        "zh": "年老的有智慧；寿高的有知识。",
+        "en": "Is not wisdom found among the aged? Does not long life bring understanding?"
+      },
+      {
+        "verse": 13,
+        "zh": "在神有智慧和能力；他有谋略和知识。",
+        "en": "\"To God belong wisdom and power; counsel and understanding are his."
+      },
+      {
+        "verse": 14,
+        "zh": "他拆毁的，就不能再建造；他捆住人，便不得开释。",
+        "en": "What he tears down cannot be rebuilt; the man he imprisons cannot be released."
+      },
+      {
+        "verse": 15,
+        "zh": "他把水留住，水便枯干；他再发出水来，水就翻地。",
+        "en": "If he holds back the waters, there is drought; if he lets them loose, they devastate the land."
+      },
+      {
+        "verse": 16,
+        "zh": "在他有能力和智慧，被诱惑的与诱惑人的都是属他。",
+        "en": "To him belong strength and victory; both deceived and deceiver are his."
+      },
+      {
+        "verse": 17,
+        "zh": "他把谋士剥衣掳去，又使审判官变成愚人。",
+        "en": "He leads counselors away stripped and makes fools of judges."
+      },
+      {
+        "verse": 18,
+        "zh": "他放松君王的绑，又用带子捆他们的腰。",
+        "en": "He takes off the shackles put on by kings and ties a loincloth around their waist."
+      },
+      {
+        "verse": 19,
+        "zh": "他把祭司剥衣掳去，又使有能的人倾败。",
+        "en": "He leads priests away stripped and overthrows men long established."
+      },
+      {
+        "verse": 20,
+        "zh": "他废去忠信人的讲论，又夺去老人的聪明。",
+        "en": "He silences the lips of trusted advisers and takes away the discernment of elders."
+      },
+      {
+        "verse": 21,
+        "zh": "他使君王蒙羞被辱，放松有力之人的腰带。",
+        "en": "He pours contempt on nobles and disarms the mighty."
+      },
+      {
+        "verse": 22,
+        "zh": "他将深奥的事从黑暗中彰显，使死荫显为光明。",
+        "en": "He reveals the deep things of darkness and brings deep shadows into the light."
+      },
+      {
+        "verse": 23,
+        "zh": "他使邦国兴旺而又毁灭；他使邦国开广而又掳去。",
+        "en": "He makes nations great, and destroys them; he enlarges nations, and disperses them."
+      },
+      {
+        "verse": 24,
+        "zh": "他将地上民中首领的聪明夺去，使他们在荒废无路之地漂流；",
+        "en": "He deprives the leaders of the earth of their reason; he sends them wandering through a trackless waste."
+      },
+      {
+        "verse": 25,
+        "zh": "他们无光，在黑暗中摸索，又使他们东倒西歪，像醉酒的人一样。",
+        "en": "They grope in darkness with no light; he makes them stagger like drunkards."
+      }
+    ],
+    "13": [
+      {
+        "verse": 1,
+        "zh": "这一切，我眼都见过；我耳都听过，而且明白。",
+        "en": "\"My eyes have seen all this, myears have heard and understood it."
+      },
+      {
+        "verse": 2,
+        "zh": "你们所知道的，我也知道，并非不及你们。",
+        "en": "What you know, I also know; I am not inferior to you."
+      },
+      {
+        "verse": 3,
+        "zh": "我真要对全能者说话；我愿与神理论。",
+        "en": "But I desire to speak to the Almighty and to argue my case with God."
+      },
+      {
+        "verse": 4,
+        "zh": "你们是编造谎言的，都是无用的医生。",
+        "en": "You, however, smear me with lies; you are worthless physicians, all of you!"
+      },
+      {
+        "verse": 5,
+        "zh": "惟愿你们全然不作声；这就算为你们的智慧！",
+        "en": "If only you would be altogether silent! For you, that would be wisdom."
+      },
+      {
+        "verse": 6,
+        "zh": "请你们听我的辩论，留心听我口中的分诉。",
+        "en": "Hear now my argument; listen to the plea of my lips."
+      },
+      {
+        "verse": 7,
+        "zh": "你们要为神说不义的话么？为他说诡诈的言语么？",
+        "en": "Will you speak wickedly on God's behalf? Will you speak deceitfully for him?"
+      },
+      {
+        "verse": 8,
+        "zh": "你们要为神徇情么？要为他争论么？",
+        "en": "Will you show him partiality? Will you argue the case for God?"
+      },
+      {
+        "verse": 9,
+        "zh": "他查出你们来，这岂是好么？人欺哄人，你们也要照样欺哄他么？",
+        "en": "Would it turn out well if he examined you? Could you deceive him as you might deceive men?"
+      },
+      {
+        "verse": 10,
+        "zh": "你们若暗中徇情，他必要责备你们。",
+        "en": "He would surely rebuke you if you secretly showed partiality."
+      },
+      {
+        "verse": 11,
+        "zh": "他的尊荣岂不叫你们惧怕么？他的惊吓岂不临到你们么？",
+        "en": "Would not his splendor terrify you? Would not the dread of him fall on you?"
+      },
+      {
+        "verse": 12,
+        "zh": "你们以为可记念的箴言是炉灰的箴言；你们以为可靠的坚垒是淤泥的坚垒。",
+        "en": "Your maxims are proverbs of ashes; your defenses are defenses of clay."
+      },
+      {
+        "verse": 13,
+        "zh": "你们不要作声，任凭我罢！让我说话，无论如何我都承当。",
+        "en": "\"Keep silent and let me speak; then let come to me what may."
+      },
+      {
+        "verse": 14,
+        "zh": "我何必把我的肉挂在牙上，将我的命放在手中。",
+        "en": "Why do I put myself in jeopardy and take my life in my hands?"
+      },
+      {
+        "verse": 15,
+        "zh": "他必杀我；我虽无指望，然而我在他面前还要辩明我所行的。",
+        "en": "Though he slay me, yet will I hope in him; I will surely defend my ways to his face."
+      },
+      {
+        "verse": 16,
+        "zh": "这要成为我的拯救，因为不虔诚的人不得到他面前。",
+        "en": "Indeed, this will turn out for my deliverance, for no godless man would dare come before him!"
+      },
+      {
+        "verse": 17,
+        "zh": "你们要细听我的言语，使我所辩论的入你们的耳中。",
+        "en": "Listen carefully to my words; let your ears take in what I say."
+      },
+      {
+        "verse": 18,
+        "zh": "我已陈明我的案，知道自己有义。",
+        "en": "Now that I have prepared my case, I know I will be vindicated."
+      },
+      {
+        "verse": 19,
+        "zh": "有谁与我争论，我就情愿缄默不言，气绝而亡。",
+        "en": "Can anyone bring charges against me? If so, I will be silent and die."
+      },
+      {
+        "verse": 20,
+        "zh": "惟有两件不要向我施行，我就不躲开你的面：",
+        "en": "\"Only grant me these two things, O God, and then I will not hide from you:"
+      },
+      {
+        "verse": 21,
+        "zh": "就是把你的手缩回，远离我身；又不使你的惊惶威吓我。",
+        "en": "Withdraw your hand far from me, and stop frightening me with your terrors."
+      },
+      {
+        "verse": 22,
+        "zh": "这样，你呼叫，我就回答；或是让我说话，你回答我。",
+        "en": "Then summon me and I will answer, or let me speak, and you reply."
+      },
+      {
+        "verse": 23,
+        "zh": "我的罪孽和罪过有多少呢？求你叫我知道我的过犯与罪愆。",
+        "en": "How many wrongs and sins have I committed? Show me my offense and my sin."
+      },
+      {
+        "verse": 24,
+        "zh": "你为何掩面 、 拿我当仇敌呢？",
+        "en": "Why do you hide your face and consider me your enemy?"
+      },
+      {
+        "verse": 25,
+        "zh": "你要惊动被风吹的叶子么？要追赶枯干的碎秸么？",
+        "en": "Will you torment a windblown leaf? Will you chase after dry chaff?"
+      },
+      {
+        "verse": 26,
+        "zh": "你按罪状刑罚我，又使我担当幼年的罪孽；",
+        "en": "For you write down bitter things against me and make me inherit the sins of my youth."
+      },
+      {
+        "verse": 27,
+        "zh": "也把我的脚上了木狗，并窥察我一切的道路，为我的脚掌划定界限。",
+        "en": "You fasten my feet in shackles; you keep close watch on all my paths by putting marks on the soles of my feet."
+      },
+      {
+        "verse": 28,
+        "zh": "我已经像灭绝的烂物，像虫蛀的衣裳。",
+        "en": "\"So man wastes away like something rotten, like a garment eaten by moths."
+      }
+    ],
+    "14": [
+      {
+        "verse": 1,
+        "zh": "人为妇人所生，日子短少，多有患难；",
+        "en": "\"Man born of woman is of fewdays and full of trouble."
+      },
+      {
+        "verse": 2,
+        "zh": "出来如花，又被割下，飞去如影，不能存留。",
+        "en": "He springs up like a flower and withers away; like a fleeting shadow, he does not endure."
+      },
+      {
+        "verse": 3,
+        "zh": "这样的人你岂睁眼看他么？又叫我来受审么？",
+        "en": "Do you fix your eye on such a one? Will you bring him before you for judgment?"
+      },
+      {
+        "verse": 4,
+        "zh": "谁能使洁净之物出于污秽之中呢？无论谁也不能！",
+        "en": "Who can bring what is pure from the impure? No one!"
+      },
+      {
+        "verse": 5,
+        "zh": "人的日子既然限定，他的月数在你那里，你也派定他的界限，使他不能越过，",
+        "en": "Man's days are determined; you have decreed the number of his months and have set limits he cannot exceed."
+      },
+      {
+        "verse": 6,
+        "zh": "便求你转眼不看他，使他得歇息，直等他像雇工人完毕他的日子。",
+        "en": "So look away from him and let him alone, till he has put in his time like a hired man."
+      },
+      {
+        "verse": 7,
+        "zh": "树若被砍下，还可指望发芽，嫩枝生长不息；",
+        "en": "\"At least there is hope for a tree: If it is cut down, it will sprout again, and its new shoots will not fail."
+      },
+      {
+        "verse": 8,
+        "zh": "其根虽然衰老在地里，干也死在土中，",
+        "en": "Its roots may grow old in the ground and its stump die in the soil,"
+      },
+      {
+        "verse": 9,
+        "zh": "及至得了水气，还要发芽，又长枝条，像新栽的树一样。",
+        "en": "yet at the scent of water it will bud and put forth shoots like a plant."
+      },
+      {
+        "verse": 10,
+        "zh": "但人死亡而消灭；他气绝，竟在何处呢？",
+        "en": "But man dies and is laid low; he breathes his last and is no more."
+      },
+      {
+        "verse": 11,
+        "zh": "海中的水绝尽，江河消散干涸。",
+        "en": "As water disappears from the sea or a riverbed becomes parched and dry,"
+      },
+      {
+        "verse": 12,
+        "zh": "人也是如此，躺下不再起来，等到天没有了，仍不得复醒，也不得从睡中唤醒。",
+        "en": "so man lies down and does not rise; till the heavens are no more, men will not awake or be roused from their sleep."
+      },
+      {
+        "verse": 13,
+        "zh": "惟愿你把我藏在阴间，存于隐密处，等你的忿怒过去；愿你为我定了日期，记念我。",
+        "en": "\"If only you would hide me in the grave and conceal me till your anger has passed! If only you would set me a time and then remember me!"
+      },
+      {
+        "verse": 14,
+        "zh": "人若死了岂能再活呢？我只要在我一切争战的日子，等我被释放（或译：改变）的时候来到。",
+        "en": "If a man dies, will he live again? All the days of my hard service I will wait for my renewal to come."
+      },
+      {
+        "verse": 15,
+        "zh": "你呼叫，我便回答；你手所做的，你必羡慕。",
+        "en": "You will call and I will answer you; you will long for the creature your hands have made."
+      },
+      {
+        "verse": 16,
+        "zh": "但如今你数点我的脚步，岂不窥察我的罪过么？",
+        "en": "Surely then you will count my steps but not keep track of my sin."
+      },
+      {
+        "verse": 17,
+        "zh": "我的过犯被你封在囊中，也缝严了我的罪孽。",
+        "en": "My offenses will be sealed up in a bag; you will cover over my sin."
+      },
+      {
+        "verse": 18,
+        "zh": "山崩变为无有；磐石挪开原处。",
+        "en": "\"But as a mountain erodes and crumbles and as a rock is moved from its place,"
+      },
+      {
+        "verse": 19,
+        "zh": "水流消磨石头，所流溢的洗去地上的尘土；你也照样灭绝人的指望。",
+        "en": "as water wears away stones and torrents wash away the soil, so you destroy man's hope."
+      },
+      {
+        "verse": 20,
+        "zh": "你攻击人常常得胜，使他去世；你改变他的容貌，叫他往而不回。",
+        "en": "You overpower him once for all, and he is gone; you change his countenance and send him away."
+      },
+      {
+        "verse": 21,
+        "zh": "他儿子得尊荣，他也不知道，降为卑，他也不觉得。",
+        "en": "If his sons are honored, he does not know it; if they are brought low, he does not see it."
+      },
+      {
+        "verse": 22,
+        "zh": "但知身上疼痛，心中悲哀。",
+        "en": "He feels but the pain of his own body and mourns only for himself.\""
+      }
+    ],
+    "15": [
+      {
+        "verse": 1,
+        "zh": "提幔人以利法回答说：",
+        "en": "Then Eliphaz the Temanitereplied:"
+      },
+      {
+        "verse": 2,
+        "zh": "智慧人岂可用虚空的知识回答，用东风充满肚腹呢？",
+        "en": "\"Would a wise man answer with empty notions or fill his belly with the hot east wind?"
+      },
+      {
+        "verse": 3,
+        "zh": "他岂可用无益的话和无济于事的言语理论呢？",
+        "en": "Would he argue with useless words, with speeches that have no value?"
+      },
+      {
+        "verse": 4,
+        "zh": "你是废弃敬畏的意，在神面前阻止敬虔的心。",
+        "en": "But you even undermine piety and hinder devotion to God."
+      },
+      {
+        "verse": 5,
+        "zh": "你的罪孽指教你的口；你选用诡诈人的舌头。",
+        "en": "Your sin prompts your mouth; you adopt the tongue of the crafty."
+      },
+      {
+        "verse": 6,
+        "zh": "你自己的口定你有罪，并非是我；你自己的嘴见证你的不是。",
+        "en": "Your own mouth condemns you, not mine; your own lips testify against you."
+      },
+      {
+        "verse": 7,
+        "zh": "你岂是头一个被生的人么？你受造在诸山之先么？",
+        "en": "\"Are you the first man ever born? Were you brought forth before the hills?"
+      },
+      {
+        "verse": 8,
+        "zh": "你曾听见神的密旨么？你还将智慧独自得尽么？",
+        "en": "Do you listen in on God's council? Do you limit wisdom to yourself?"
+      },
+      {
+        "verse": 9,
+        "zh": "你知道甚么是我们不知道的呢？你明白甚么是我们不明白的呢？",
+        "en": "What do you know that we do not know? What insights do you have that we do not have?"
+      },
+      {
+        "verse": 10,
+        "zh": "我们这里有白发的和年纪老迈的，比你父亲还老。",
+        "en": "The gray-haired and the aged are on our side, men even older than your father."
+      },
+      {
+        "verse": 11,
+        "zh": "神用温和的话安慰你，你以为太小么？",
+        "en": "Are God's consolations not enough for you, words spoken gently to you?"
+      },
+      {
+        "verse": 12,
+        "zh": "你的心为何将你逼去？你的眼为何冒出火星，",
+        "en": "Why has your heart carried you away, and why do your eyes flash,"
+      },
+      {
+        "verse": 13,
+        "zh": "使你的灵反对神，也任你的口发这言语？",
+        "en": "so that you vent your rage against God and pour out such words from your mouth?"
+      },
+      {
+        "verse": 14,
+        "zh": "人是甚么，竟算为洁净呢？妇人所生的是甚么，竟算为义呢？",
+        "en": "\"What is man, that he could be pure, or one born of woman, that he could be righteous?"
+      },
+      {
+        "verse": 15,
+        "zh": "神不信靠他的众圣者；在他眼前，天也不洁净，",
+        "en": "If God places no trust in his holy ones, if even the heavens are not pure in his eyes,"
+      },
+      {
+        "verse": 16,
+        "zh": "何况那污秽可憎 、 喝罪孽如水的世人呢！",
+        "en": "how much less man, who is vile and corrupt, who drinks up evil like water!"
+      },
+      {
+        "verse": 17,
+        "zh": "我指示你，你要听；我要述说所看见的，",
+        "en": "\"Listen to me and I will explain to you; let me tell you what I have seen,"
+      },
+      {
+        "verse": 18,
+        "zh": "就是智慧人从列祖所受，传说而不隐瞒的。",
+        "en": "what wise men have declared, hiding nothing received from their fathers"
+      },
+      {
+        "verse": 19,
+        "zh": "（这地惟独赐给他们，并没有外人从他们中间经过。）",
+        "en": "(to whom alone the land was given when no alien passed among them):"
+      },
+      {
+        "verse": 20,
+        "zh": "恶人一生之日劬劳痛苦；强暴人一生的年数也是如此。",
+        "en": "All his days the wicked man suffers torment, the ruthless through all the years stored up for him."
+      },
+      {
+        "verse": 21,
+        "zh": "惊吓的声音常在他耳中；在平安时，抢夺的必临到他那里。",
+        "en": "Terrifying sounds fill his ears; when all seems well, marauders attack him."
+      },
+      {
+        "verse": 22,
+        "zh": "他不信自己能从黑暗中转回；他被刀剑等候。",
+        "en": "He despairs of escaping the darkness; he is marked for the sword."
+      },
+      {
+        "verse": 23,
+        "zh": "他漂流在外求食，说：哪里有食物呢？他知道黑暗的日子在他手边预备好了。",
+        "en": "He wanders about-food for vultures ; he knows the day of darkness is at hand."
+      },
+      {
+        "verse": 24,
+        "zh": "急难困苦叫他害怕，而且胜了他，好像君王预备上阵一样。",
+        "en": "Distress and anguish fill him with terror; they overwhelm him, like a king poised to attack,"
+      },
+      {
+        "verse": 25,
+        "zh": "他伸手攻击神，以骄傲攻击全能者，",
+        "en": "because he shakes his fist at God and vaunts himself against the Almighty,"
+      },
+      {
+        "verse": 26,
+        "zh": "挺著颈项，用盾牌的厚凸面向全能者直闯；",
+        "en": "defiantly charging against him with a thick, strong shield."
+      },
+      {
+        "verse": 27,
+        "zh": "是因他的脸蒙上脂油，腰积成肥肉。",
+        "en": "\"Though his face is covered with fat and his waist bulges with flesh,"
+      },
+      {
+        "verse": 28,
+        "zh": "他曾住在荒凉城邑，无人居住 、 将成乱堆的房屋。",
+        "en": "he will inhabit ruined towns and houses where no one lives, houses crumbling to rubble."
+      },
+      {
+        "verse": 29,
+        "zh": "他不得富足，财物不得常存，产业在地上也不加增。",
+        "en": "He will no longer be rich and his wealth will not endure, nor will his possessions spread over the land."
+      },
+      {
+        "verse": 30,
+        "zh": "他不得出离黑暗。火焰要将他的枝子烧干；因神口中的气，他要灭亡（原文是走去）。",
+        "en": "He will not escape the darkness; a flame will wither his shoots, and the breath of God's mouth will carry him away."
+      },
+      {
+        "verse": 31,
+        "zh": "他不用倚靠虚假欺哄自己，因虚假必成为他的报应。",
+        "en": "Let him not deceive himself by trusting what is worthless, for he will get nothing in return."
+      },
+      {
+        "verse": 32,
+        "zh": "他的日期未到之先，这事必成就；他的枝子不得青绿。",
+        "en": "Before his time he will be paid in full, and his branches will not flourish."
+      },
+      {
+        "verse": 33,
+        "zh": "他必像葡萄树的葡萄，未熟而落；又像橄榄树的花，一开而谢。",
+        "en": "He will be like a vine stripped of its unripe grapes, like an olive tree shedding its blossoms."
+      },
+      {
+        "verse": 34,
+        "zh": "原来不敬虔之辈必无生育；受贿赂之人的帐棚必被火烧。",
+        "en": "For the company of the godless will be barren, and fire will consume the tents of those who love bribes."
+      },
+      {
+        "verse": 35,
+        "zh": "他们所怀的是毒害，所生的是罪孽；心里所预备的是诡诈。",
+        "en": "They conceive trouble and give birth to evil; their womb fashions deceit.\""
+      }
+    ],
+    "16": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "这样的话我听了许多；你们安慰人，反叫人愁烦。",
+        "en": "\"I have heard many things like these; miserable comforters are you all!"
+      },
+      {
+        "verse": 3,
+        "zh": "虚空的言语有穷尽么？有甚么话惹动你回答呢？",
+        "en": "Will your long-winded speeches never end? What ails you that you keep on arguing?"
+      },
+      {
+        "verse": 4,
+        "zh": "我也能说你们那样的话；你们若处在我的境遇，我也会联络言语攻击你们，又能向你们摇头。",
+        "en": "I also could speak like you, if you were in my place; I could make fine speeches against you and shake my head at you."
+      },
+      {
+        "verse": 5,
+        "zh": "但我必用口坚固你们，用嘴消解你们的忧愁。",
+        "en": "But my mouth would encourage you; comfort from my lips would bring you relief."
+      },
+      {
+        "verse": 6,
+        "zh": "我虽说话，忧愁仍不得消解；我虽停住不说，忧愁就离开我么？",
+        "en": "\"Yet if I speak, my pain is not relieved; and if I refrain, it does not go away."
+      },
+      {
+        "verse": 7,
+        "zh": "但现在神使我困倦，使亲友远离我，",
+        "en": "Surely, O God, you have worn me out; you have devastated my entire household."
+      },
+      {
+        "verse": 8,
+        "zh": "又抓住我，作见证攻击我；我身体的枯瘦也当面见证我的不是。",
+        "en": "You have bound me-and it has become a witness; my gauntness rises up and testifies against me."
+      },
+      {
+        "verse": 9,
+        "zh": "主发怒撕裂我，逼迫我，向我切齿；我的敌人怒目看我。",
+        "en": "God assails me and tears me in his anger and gnashes his teeth at me; my opponent fastens on me his piercing eyes."
+      },
+      {
+        "verse": 10,
+        "zh": "他们向我开口，打我的脸羞辱我，聚会攻击我。",
+        "en": "Men open their mouths to jeer at me; they strike my cheek in scorn and unite together against me."
+      },
+      {
+        "verse": 11,
+        "zh": "神把我交给不敬虔的人，把我扔到恶人的手中。",
+        "en": "God has turned me over to evil men and thrown me into the clutches of the wicked."
+      },
+      {
+        "verse": 12,
+        "zh": "我素来安逸，他折断我，掐住我的颈项，把我摔碎，又立我为他的箭靶子。",
+        "en": "All was well with me, but he shattered me; he seized me by the neck and crushed me. He has made me his target;"
+      },
+      {
+        "verse": 13,
+        "zh": "他的弓箭手四面围绕我；他破裂我的肺腑，并不留情，把我的胆倾倒在地上，",
+        "en": "his archers surround me. Without pity, he pierces my kidneys and spills my gall on the ground."
+      },
+      {
+        "verse": 14,
+        "zh": "将我破裂又破裂，如同勇士向我直闯。",
+        "en": "Again and again he bursts upon me; he rushes at me like a warrior."
+      },
+      {
+        "verse": 15,
+        "zh": "我缝麻布在我皮肤上，把我的角放在尘土中。",
+        "en": "\"I have sewed sackcloth over my skin and buried my brow in the dust."
+      },
+      {
+        "verse": 16,
+        "zh": "我的脸因哭泣发紫，在我的眼皮上有死荫。",
+        "en": "My face is red with weeping, deep shadows ring my eyes;"
+      },
+      {
+        "verse": 17,
+        "zh": "我的手中却无强暴；我的祈祷也是清洁。",
+        "en": "yet my hands have been free of violence and my prayer is pure."
+      },
+      {
+        "verse": 18,
+        "zh": "地啊，不要遮盖我的血！不要阻挡我的哀求！",
+        "en": "\"O earth, do not cover my blood; may my cry never be laid to rest!"
+      },
+      {
+        "verse": 19,
+        "zh": "现今，在天有我的见证，在上有我的中保。",
+        "en": "Even now my witness is in heaven; my advocate is on high."
+      },
+      {
+        "verse": 20,
+        "zh": "我的朋友讥诮我，我却向神眼泪汪汪。",
+        "en": "My intercessor is my friend as my eyes pour out tears to God;"
+      },
+      {
+        "verse": 21,
+        "zh": "愿人得与神辩白，如同人与朋友辩白一样；",
+        "en": "on behalf of a man he pleads with God as a man pleads for his friend."
+      },
+      {
+        "verse": 22,
+        "zh": "因为再过几年，我必走那往而不返之路。",
+        "en": "\"Only a few years will pass before I go on the journey of no return."
+      }
+    ],
+    "17": [
+      {
+        "verse": 1,
+        "zh": "我的心灵消耗，我的日子灭尽；坟墓为我预备好了。",
+        "en": "My spirit is broken, my days arecut short, the grave awaits me."
+      },
+      {
+        "verse": 2,
+        "zh": "真有戏笑我的在我这里，我眼常见他们惹动我。",
+        "en": "Surely mockers surround me; my eyes must dwell on their hostility."
+      },
+      {
+        "verse": 3,
+        "zh": "愿主拿凭据给我，自己为我作保。在你以外谁肯与我击掌呢？",
+        "en": "\"Give me, O God, the pledge you demand. Who else will put up security for me?"
+      },
+      {
+        "verse": 4,
+        "zh": "因你使他们心不明理，所以你必不高举他们。",
+        "en": "You have closed their minds to understanding; therefore you will not let them triumph."
+      },
+      {
+        "verse": 5,
+        "zh": "控告他的朋友 、 以朋友为可抢夺的，连他儿女的眼睛也要失明。",
+        "en": "If a man denounces his friends for reward, the eyes of his children will fail."
+      },
+      {
+        "verse": 6,
+        "zh": "神使我作了民中的笑谈；他们也吐唾沫在我脸上。",
+        "en": "\"God has made me a byword to everyone, a man in whose face people spit."
+      },
+      {
+        "verse": 7,
+        "zh": "我的眼睛因忧愁昏花；我的百体好像影儿。",
+        "en": "My eyes have grown dim with grief; my whole frame is but a shadow."
+      },
+      {
+        "verse": 8,
+        "zh": "正直人因此必惊奇；无辜的人要兴起攻击不敬虔之辈。",
+        "en": "Upright men are appalled at this; the innocent are aroused against the ungodly."
+      },
+      {
+        "verse": 9,
+        "zh": "然而，义人要持守所行的道；手洁的人要力上加力。",
+        "en": "Nevertheless, the righteous will hold to their ways, and those with clean hands will grow stronger."
+      },
+      {
+        "verse": 10,
+        "zh": "至于你们众人，可以再来辩论罢！你们中间，我找不著一个智慧人。",
+        "en": "\"But come on, all of you, try again! I will not find a wise man among you."
+      },
+      {
+        "verse": 11,
+        "zh": "我的日子已经过了；我的谋算 、 我心所想望的已经断绝。",
+        "en": "My days have passed, my plans are shattered, and so are the desires of my heart."
+      },
+      {
+        "verse": 12,
+        "zh": "他们以黑夜为白昼，说：亮光近乎黑暗。",
+        "en": "These men turn night into day; in the face of darkness they say, 'Light is near.'"
+      },
+      {
+        "verse": 13,
+        "zh": "我若盼望阴间为我的房屋，若下榻在黑暗中，",
+        "en": "If the only home I hope for is the grave, if I spread out my bed in darkness,"
+      },
+      {
+        "verse": 14,
+        "zh": "若对朽坏说：你是我的父；对虫说：你是我的母亲姊妹；",
+        "en": "if I say to corruption, 'You are my father,' and to the worm, 'My mother' or 'My sister,'"
+      },
+      {
+        "verse": 15,
+        "zh": "这样，我的指望在哪里呢？我所指望的谁能看见呢？",
+        "en": "where then is my hope? Who can see any hope for me?"
+      },
+      {
+        "verse": 16,
+        "zh": "等到安息在尘土中，这指望必下到阴间的门闩那里了。",
+        "en": "Will it go down to the gates of death ? Will we descend together into the dust?\""
+      }
+    ],
+    "18": [
+      {
+        "verse": 1,
+        "zh": "书亚人比勒达回答说：",
+        "en": "Then Bildad the Shuhite replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "你寻索言语要到几时呢？你可以揣摩思想，然后我们就说话。",
+        "en": "\"When will you end these speeches? Be sensible, and then we can talk."
+      },
+      {
+        "verse": 3,
+        "zh": "我们为何算为畜生，在你眼中看作污秽呢？",
+        "en": "Why are we regarded as cattle and considered stupid in your sight?"
+      },
+      {
+        "verse": 4,
+        "zh": "你这恼怒将自己撕裂的，难道大地为你见弃 、 磐石挪开原处么？",
+        "en": "You who tear yourself to pieces in your anger, is the earth to be abandoned for your sake? Or must the rocks be moved from their place?"
+      },
+      {
+        "verse": 5,
+        "zh": "恶人的亮光必要熄灭；他的火焰必不照耀。",
+        "en": "\"The lamp of the wicked is snuffed out; the flame of his fire stops burning."
+      },
+      {
+        "verse": 6,
+        "zh": "他帐棚中的亮光要变为黑暗；他以上的灯也必熄灭。",
+        "en": "The light in his tent becomes dark; the lamp beside him goes out."
+      },
+      {
+        "verse": 7,
+        "zh": "他坚强的脚步必见狭窄；自己的计谋必将他绊倒。",
+        "en": "The vigor of his step is weakened; his own schemes throw him down."
+      },
+      {
+        "verse": 8,
+        "zh": "因为他被自己的脚陷入网中，走在缠人的网罗上。",
+        "en": "His feet thrust him into a net and he wanders into its mesh."
+      },
+      {
+        "verse": 9,
+        "zh": "圈套必抓住他的脚跟；机关必擒获他。",
+        "en": "A trap seizes him by the heel; a snare holds him fast."
+      },
+      {
+        "verse": 10,
+        "zh": "活扣为他藏在土内；羁绊为他藏在路上。",
+        "en": "A noose is hidden for him on the ground; a trap lies in his path."
+      },
+      {
+        "verse": 11,
+        "zh": "四面的惊吓要使他害怕，并且追赶他的脚跟。",
+        "en": "Terrors startle him on every side and dog his every step."
+      },
+      {
+        "verse": 12,
+        "zh": "他的力量必因饥饿衰败；祸患要在他旁边等候。",
+        "en": "Calamity is hungry for him; disaster is ready for him when he falls."
+      },
+      {
+        "verse": 13,
+        "zh": "他本身的肢体要被吞吃；死亡的长子要吞吃他的肢体。",
+        "en": "It eats away parts of his skin; death's firstborn devours his limbs."
+      },
+      {
+        "verse": 14,
+        "zh": "他要从所倚靠的帐棚被拔出来，带到惊吓的王那里。",
+        "en": "He is torn from the security of his tent and marched off to the king of terrors."
+      },
+      {
+        "verse": 15,
+        "zh": "不属他的必住在他的帐棚里；硫磺必撒在他所住之处。",
+        "en": "Fire resides in his tent; burning sulfur is scattered over his dwelling."
+      },
+      {
+        "verse": 16,
+        "zh": "下边，他的根本要枯干；上边，他的枝子要剪除。",
+        "en": "His roots dry up below and his branches wither above."
+      },
+      {
+        "verse": 17,
+        "zh": "他的记念在地上必然灭亡；他的名字在街上也不存留。",
+        "en": "The memory of him perishes from the earth; he has no name in the land."
+      },
+      {
+        "verse": 18,
+        "zh": "他必从光明中被撵到黑暗里，必被赶出世界。",
+        "en": "He is driven from light into darkness and is banished from the world."
+      },
+      {
+        "verse": 19,
+        "zh": "在本民中必无子无孙；在寄居之地也无一人存留。",
+        "en": "He has no offspring or descendants among his people, no survivor where once he lived."
+      },
+      {
+        "verse": 20,
+        "zh": "以后来的要惊奇他的日子，好像以前去的受了惊骇。",
+        "en": "Men of the west are appalled at his fate; men of the east are seized with horror."
+      },
+      {
+        "verse": 21,
+        "zh": "不义之人的住处总是这样；此乃不认识神之人的地步。",
+        "en": "Surely such is the dwelling of an evil man; such is the place of one who knows not God.\""
+      }
+    ],
+    "19": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "你们搅扰我的心，用言语压碎我要到几时呢？",
+        "en": "\"How long will you torment me and crush me with words?"
+      },
+      {
+        "verse": 3,
+        "zh": "你们这十次羞辱我；你们苦待我也不以为耻。",
+        "en": "Ten times now you have reproached me; shamelessly you attack me."
+      },
+      {
+        "verse": 4,
+        "zh": "果真我有错，这错乃是在我。",
+        "en": "If it is true that I have gone astray, my error remains my concern alone."
+      },
+      {
+        "verse": 5,
+        "zh": "你们果然要向我夸大，以我的羞辱为证指责我，",
+        "en": "If indeed you would exalt yourselves above me and use my humiliation against me,"
+      },
+      {
+        "verse": 6,
+        "zh": "就该知道是神倾覆我，用网罗围绕我。",
+        "en": "then know that God has wronged me and drawn his net around me."
+      },
+      {
+        "verse": 7,
+        "zh": "我因委曲呼叫，却不蒙应允；我呼求，却不得公断。",
+        "en": "\"Though I cry, 'I've been wronged!' I get no response; though I call for help, there is no justice."
+      },
+      {
+        "verse": 8,
+        "zh": "神用篱笆拦住我的道路，使我不得经过；又使我的路径黑暗。",
+        "en": "He has blocked my way so I cannot pass; he has shrouded my paths in darkness."
+      },
+      {
+        "verse": 9,
+        "zh": "他剥去我的荣光，摘去我头上的冠冕。",
+        "en": "He has stripped me of my honor and removed the crown from my head."
+      },
+      {
+        "verse": 10,
+        "zh": "他在四围攻击我，我便归于死亡，将我的指望如树拔出来。",
+        "en": "He tears me down on every side till I am gone; he uproots my hope like a tree."
+      },
+      {
+        "verse": 11,
+        "zh": "他的忿怒向我发作，以我为敌人。",
+        "en": "His anger burns against me; he counts me among his enemies."
+      },
+      {
+        "verse": 12,
+        "zh": "他的军旅一齐上来，修筑战路攻击我，在我帐棚的四围安营。",
+        "en": "His troops advance in force; they build a siege ramp against me and encamp around my tent."
+      },
+      {
+        "verse": 13,
+        "zh": "他把我的弟兄隔在远处，使我所认识的全然与我生疏。",
+        "en": "\"He has alienated my brothers from me; my acquaintances are completely estranged from me."
+      },
+      {
+        "verse": 14,
+        "zh": "我的亲戚与我断绝；我的密友都忘记我。",
+        "en": "My kinsmen have gone away; my friends have forgotten me."
+      },
+      {
+        "verse": 15,
+        "zh": "在我家寄居的，和我的使女都以我为外人；我在他们眼中看为外邦人。",
+        "en": "My guests and my maidservants count me a stranger; they look upon me as an alien."
+      },
+      {
+        "verse": 16,
+        "zh": "我呼唤仆人，虽用口求他，他还是不回答。",
+        "en": "I summon my servant, but he does not answer, though I beg him with my own mouth."
+      },
+      {
+        "verse": 17,
+        "zh": "我口的气味，我妻子厌恶；我的恳求，我同胞也憎嫌。",
+        "en": "My breath is offensive to my wife; I am loathsome to my own brothers."
+      },
+      {
+        "verse": 18,
+        "zh": "连小孩子也藐视我；我若起来，他们都嘲笑我。",
+        "en": "Even the little boys scorn me; when I appear, they ridicule me."
+      },
+      {
+        "verse": 19,
+        "zh": "我的密友都憎恶我；我平日所爱的人向我翻脸。",
+        "en": "All my intimate friends detest me; those I love have turned against me."
+      },
+      {
+        "verse": 20,
+        "zh": "我的皮肉紧贴骨头；我只剩牙皮逃脱了。",
+        "en": "I am nothing but skin and bones; I have escaped with only the skin of my teeth."
+      },
+      {
+        "verse": 21,
+        "zh": "我朋友啊，可怜我！可怜我！因为神的手攻击我。",
+        "en": "\"Have pity on me, my friends, have pity, for the hand of God has struck me."
+      },
+      {
+        "verse": 22,
+        "zh": "你们为甚么彷佛神逼迫我，吃我的肉还以为不足呢？",
+        "en": "Why do you pursue me as God does? Will you never get enough of my flesh?"
+      },
+      {
+        "verse": 23,
+        "zh": "惟愿我的言语现在写上，都记录在书上；",
+        "en": "\"Oh, that my words were recorded, that they were written on a scroll,"
+      },
+      {
+        "verse": 24,
+        "zh": "用铁笔镌刻，用铅灌在磐石上，直存到永远。",
+        "en": "that they were inscribed with an iron tool on lead, or engraved in rock forever!"
+      },
+      {
+        "verse": 25,
+        "zh": "我知道我的救赎主活著，末了必站立在地上。",
+        "en": "I know that my Redeemer lives, and that in the end he will stand upon the earth."
+      },
+      {
+        "verse": 26,
+        "zh": "我这皮肉灭绝之后，我必在肉体之外得见神。",
+        "en": "And after my skin has been destroyed, yet in my flesh I will see God;"
+      },
+      {
+        "verse": 27,
+        "zh": "我自己要见他，亲眼要看他，并不像外人。我的心肠在我里面消灭了！",
+        "en": "I myself will see him with my own eyes-I, and not another. How my heart yearns within me!"
+      },
+      {
+        "verse": 28,
+        "zh": "你们若说：我们逼迫他要何等地重呢？惹事的根乃在乎他；",
+        "en": "\"If you say, 'How we will hound him, since the root of the trouble lies in him, '"
+      },
+      {
+        "verse": 29,
+        "zh": "你们就当惧怕刀剑；因为忿怒惹动刀剑的刑罚，使你们知道有报应（原文是审判）。",
+        "en": "you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment. \""
+      }
+    ],
+    "20": [
+      {
+        "verse": 1,
+        "zh": "拿玛人琐法回答说：",
+        "en": "Then Zophar the Naamathitereplied:"
+      },
+      {
+        "verse": 2,
+        "zh": "我心中急躁，所以我的思念叫我回答。",
+        "en": "\"My troubled thoughts prompt me to answer because I am greatly disturbed."
+      },
+      {
+        "verse": 3,
+        "zh": "我已听见那羞辱我，责备我的话；我的悟性叫我回答。",
+        "en": "I hear a rebuke that dishonors me, and my understanding inspires me to reply."
+      },
+      {
+        "verse": 4,
+        "zh": "你岂不知亘古以来，自从人生在地，",
+        "en": "\"Surely you know how it has been from of old, ever since man was placed on the earth,"
+      },
+      {
+        "verse": 5,
+        "zh": "恶人夸胜是暂时的，不敬虔人的喜乐不过转眼之间么？",
+        "en": "that the mirth of the wicked is brief, the joy of the godless lasts but a moment."
+      },
+      {
+        "verse": 6,
+        "zh": "他的尊荣虽达到天上，头虽顶到云中，",
+        "en": "Though his pride reaches to the heavens and his head touches the clouds,"
+      },
+      {
+        "verse": 7,
+        "zh": "他终必灭亡，像自己的粪一样；素来见他的人要说：他在哪里呢？",
+        "en": "he will perish forever, like his own dung; those who have seen him will say, 'Where is he?'"
+      },
+      {
+        "verse": 8,
+        "zh": "他必飞去如梦，不再寻见，速被赶去，如夜间的异象。",
+        "en": "Like a dream he flies away, no more to be found, banished like a vision of the night."
+      },
+      {
+        "verse": 9,
+        "zh": "亲眼见过他的，必不再见他；他的本处也再见不著他。",
+        "en": "The eye that saw him will not see him again; his place will look on him no more."
+      },
+      {
+        "verse": 10,
+        "zh": "他的儿女要求穷人的恩；他的手要赔还不义之财。",
+        "en": "His children must make amends to the poor; his own hands must give back his wealth."
+      },
+      {
+        "verse": 11,
+        "zh": "他的骨头虽然有青年之力，却要和他一同躺卧在尘土中。",
+        "en": "The youthful vigor that fills his bones will lie with him in the dust."
+      },
+      {
+        "verse": 12,
+        "zh": "他口内虽以恶为甘甜，藏在舌头底下，",
+        "en": "\"Though evil is sweet in his mouth and he hides it under his tongue,"
+      },
+      {
+        "verse": 13,
+        "zh": "爱恋不舍，含在口中；",
+        "en": "though he cannot bear to let it go and keeps it in his mouth,"
+      },
+      {
+        "verse": 14,
+        "zh": "他的食物在肚里却要化为酸，在他里面成为虺蛇的恶毒。",
+        "en": "yet his food will turn sour in his stomach; it will become the venom of serpents within him."
+      },
+      {
+        "verse": 15,
+        "zh": "他吞了财宝，还要吐出；神要从他腹中掏出来。",
+        "en": "He will spit out the riches he swallowed; God will make his stomach vomit them up."
+      },
+      {
+        "verse": 16,
+        "zh": "他必吸饮虺蛇的毒气；蝮蛇的舌头也必杀他。",
+        "en": "He will suck the poison of serpents; the fangs of an adder will kill him."
+      },
+      {
+        "verse": 17,
+        "zh": "流奶与蜜之河，他不得再见。",
+        "en": "He will not enjoy the streams, the rivers flowing with honey and cream."
+      },
+      {
+        "verse": 18,
+        "zh": "他劳碌得来的要赔还，不得享用（原文是吞下）；不能照所得的财货欢乐。",
+        "en": "What he toiled for he must give back uneaten; he will not enjoy the profit from his trading."
+      },
+      {
+        "verse": 19,
+        "zh": "他欺压穷人，且又离弃；强取非自己所盖的房屋（或译：强取房屋不得再建造）。",
+        "en": "For he has oppressed the poor and left them destitute; he has seized houses he did not build."
+      },
+      {
+        "verse": 20,
+        "zh": "他因贪而无厌，所喜悦的连一样也不能保守。",
+        "en": "\"Surely he will have no respite from his craving; he cannot save himself by his treasure."
+      },
+      {
+        "verse": 21,
+        "zh": "其余的没有一样他不吞灭，所以他的福乐不能长久。",
+        "en": "Nothing is left for him to devour; his prosperity will not endure."
+      },
+      {
+        "verse": 22,
+        "zh": "他在满足有余的时候，必到狭窄的地步；凡受苦楚的人都必加手在他身上。",
+        "en": "In the midst of his plenty, distress will overtake him; the full force of misery will come upon him."
+      },
+      {
+        "verse": 23,
+        "zh": "他正要充满肚腹的时候，神必将猛烈的忿怒降在他身上；正在他吃饭的时候，要将这忿怒像雨降在他身上。",
+        "en": "When he has filled his belly, God will vent his burning anger against him and rain down his blows upon him."
+      },
+      {
+        "verse": 24,
+        "zh": "他要躲避铁器；铜弓的箭要将他射透。",
+        "en": "Though he flees from an iron weapon, a bronze-tipped arrow pierces him."
+      },
+      {
+        "verse": 25,
+        "zh": "他把箭一抽，就从他身上出来；发光的箭头从他胆中出来，有惊惶临在他身上。",
+        "en": "He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him;"
+      },
+      {
+        "verse": 26,
+        "zh": "他的财宝归于黑暗；人所不吹的火要把他烧灭，要把他帐棚中所剩下的烧毁。",
+        "en": "total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent."
+      },
+      {
+        "verse": 27,
+        "zh": "天要显明他的罪孽；地要兴起攻击他。",
+        "en": "The heavens will expose his guilt; the earth will rise up against him."
+      },
+      {
+        "verse": 28,
+        "zh": "他的家产必然过去；神发怒的日子，他的货物都要消灭。",
+        "en": "A flood will carry off his house, rushing waters on the day of God's wrath."
+      },
+      {
+        "verse": 29,
+        "zh": "这是恶人从神所得的分，是神为他所定的产业。",
+        "en": "Such is the fate God allots the wicked, the heritage appointed for them by God.\""
+      }
+    ],
+    "21": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "你们要细听我的言语，就算是你们安慰我。",
+        "en": "\"Listen carefully to my words; let this be the consolation you give me."
+      },
+      {
+        "verse": 3,
+        "zh": "请宽容我，我又要说话；说了以后，任凭你们嗤笑罢！",
+        "en": "Bear with me while I speak, and after I have spoken, mock on."
+      },
+      {
+        "verse": 4,
+        "zh": "我岂是向人诉冤？为何不焦急呢？",
+        "en": "\"Is my complaint directed to man? Why should I not be impatient?"
+      },
+      {
+        "verse": 5,
+        "zh": "你们要看著我而惊奇，用手摀口。",
+        "en": "Look at me and be astonished; clap your hand over your mouth."
+      },
+      {
+        "verse": 6,
+        "zh": "我每逢思想，心就惊惶，浑身战兢。",
+        "en": "When I think about this, I am terrified; trembling seizes my body."
+      },
+      {
+        "verse": 7,
+        "zh": "恶人为何存活，享大寿数，势力强盛呢？",
+        "en": "Why do the wicked live on, growing old and increasing in power?"
+      },
+      {
+        "verse": 8,
+        "zh": "他们眼见儿孙，和他们一同坚立。",
+        "en": "They see their children established around them, their offspring before their eyes."
+      },
+      {
+        "verse": 9,
+        "zh": "他们的家宅平安无惧；神的杖也不加在他们身上。",
+        "en": "Their homes are safe and free from fear; the rod of God is not upon them."
+      },
+      {
+        "verse": 10,
+        "zh": "他们的公牛孳生而不断绝；母牛下犊而不掉胎。",
+        "en": "Their bulls never fail to breed; their cows calve and do not miscarry."
+      },
+      {
+        "verse": 11,
+        "zh": "他们打发小孩子出去，多如羊群；他们的儿女踊跃跳舞。",
+        "en": "They send forth their children as a flock; their little ones dance about."
+      },
+      {
+        "verse": 12,
+        "zh": "他们随著琴鼓歌唱，又因箫声欢喜。",
+        "en": "They sing to the music of tambourine and harp; they make merry to the sound of the flute."
+      },
+      {
+        "verse": 13,
+        "zh": "他们度日诸事亨通，转眼下入阴间。",
+        "en": "They spend their years in prosperity and go down to the grave in peace."
+      },
+      {
+        "verse": 14,
+        "zh": "他们对神说：离开我们罢！我们不愿晓得你的道。",
+        "en": "Yet they say to God, 'Leave us alone! We have no desire to know your ways."
+      },
+      {
+        "verse": 15,
+        "zh": "全能者是谁，我们何必事奉他呢？求告他有甚么益处呢？",
+        "en": "Who is the Almighty, that we should serve him? What would we gain by praying to him?'"
+      },
+      {
+        "verse": 16,
+        "zh": "看哪，他们亨通不在乎自己；恶人所谋定的离我好远。",
+        "en": "But their prosperity is not in their own hands, so I stand aloof from the counsel of the wicked."
+      },
+      {
+        "verse": 17,
+        "zh": "恶人的灯何尝熄灭？患难何尝临到他们呢？神何尝发怒，向他们分散灾祸呢？",
+        "en": "\"Yet how often is the lamp of the wicked snuffed out? How often does calamity come upon them, the fate God allots in his anger?"
+      },
+      {
+        "verse": 18,
+        "zh": "他们何尝像风前的碎秸，如暴风刮去的糠秕呢？",
+        "en": "How often are they like straw before the wind, like chaff swept away by a gale?"
+      },
+      {
+        "verse": 19,
+        "zh": "你们说：神为恶人的儿女积蓄罪孽；我说：不如本人受报，好使他亲自知道。",
+        "en": "It is said, 'God stores up a man's punishment for his sons.' Let him repay the man himself, so that he will know it!"
+      },
+      {
+        "verse": 20,
+        "zh": "愿他亲眼看见自己败亡，亲自饮全能者的忿怒。",
+        "en": "Let his own eyes see his destruction; let him drink of the wrath of the Almighty."
+      },
+      {
+        "verse": 21,
+        "zh": "他的岁月既尽，他还顾他本家么？",
+        "en": "For what does he care about the family he leaves behind when his allotted months come to an end?"
+      },
+      {
+        "verse": 22,
+        "zh": "神既审判那在高位的，谁能将知识教训他呢？",
+        "en": "\"Can anyone teach knowledge to God, since he judges even the highest?"
+      },
+      {
+        "verse": 23,
+        "zh": "有人至死身体强壮，尽得平靖安逸；",
+        "en": "One man dies in full vigor, completely secure and at ease,"
+      },
+      {
+        "verse": 24,
+        "zh": "他的奶桶充满，他的骨髓滋润。",
+        "en": "his body well nourished, his bones rich with marrow."
+      },
+      {
+        "verse": 25,
+        "zh": "有人至死心中痛苦，终身未尝福乐的滋味；",
+        "en": "Another man dies in bitterness of soul, never having enjoyed anything good."
+      },
+      {
+        "verse": 26,
+        "zh": "他们一样躺卧在尘土中，都被虫子遮盖。",
+        "en": "Side by side they lie in the dust, and worms cover them both."
+      },
+      {
+        "verse": 27,
+        "zh": "我知道你们的意思，并诬害我的计谋。",
+        "en": "\"I know full well what you are thinking, the schemes by which you would wrong me."
+      },
+      {
+        "verse": 28,
+        "zh": "你们说：霸者的房屋在哪里？恶人住过的帐棚在哪里？",
+        "en": "You say, 'Where now is the great man's house, the tents where wicked men lived?'"
+      },
+      {
+        "verse": 29,
+        "zh": "你们岂没有询问过路的人么？不知道他们所引的证据么？",
+        "en": "Have you never questioned those who travel? Have you paid no regard to their accounts-"
+      },
+      {
+        "verse": 30,
+        "zh": "就是恶人在祸患的日子得存留，在发怒的日子得逃脱。",
+        "en": "that the evil man is spared from the day of calamity, that he is delivered from the day of wrath?"
+      },
+      {
+        "verse": 31,
+        "zh": "他所行的，有谁当面给他说明；他所做的，有谁报应他呢？",
+        "en": "Who denounces his conduct to his face? Who repays him for what he has done?"
+      },
+      {
+        "verse": 32,
+        "zh": "然而他要被抬到茔地；并有人看守坟墓。",
+        "en": "He is carried to the grave, and watch is kept over his tomb."
+      },
+      {
+        "verse": 33,
+        "zh": "他要以谷中的土块为甘甜；在他以先去的无数，在他以后去的更多。",
+        "en": "The soil in the valley is sweet to him; all men follow after him, and a countless throng goes before him."
+      },
+      {
+        "verse": 34,
+        "zh": "你们对答的话中既都错谬，怎么徒然安慰我呢？",
+        "en": "\"So how can you console me with your nonsense? Nothing is left of your answers but falsehood!\""
+      }
+    ],
+    "22": [
+      {
+        "verse": 1,
+        "zh": "提幔人以利法回答说：",
+        "en": "Then Eliphaz the Temanitereplied:"
+      },
+      {
+        "verse": 2,
+        "zh": "人岂能使神有益呢？智慧人但能有益于己。",
+        "en": "\"Can a man be of benefit to God? Can even a wise man benefit him?"
+      },
+      {
+        "verse": 3,
+        "zh": "你为人公义，岂叫全能者喜悦呢？你行为完全，岂能使他得利呢？",
+        "en": "What pleasure would it give the Almighty if you were righteous? What would he gain if your ways were blameless?"
+      },
+      {
+        "verse": 4,
+        "zh": "岂是因你敬畏他就责备你 、 审判你么？",
+        "en": "\"Is it for your piety that he rebukes you and brings charges against you?"
+      },
+      {
+        "verse": 5,
+        "zh": "你的罪恶岂不是大么？你的罪孽也没有穷尽；",
+        "en": "Is not your wickedness great? Are not your sins endless?"
+      },
+      {
+        "verse": 6,
+        "zh": "因你无故强取弟兄的物为当头，剥去贫寒人的衣服。",
+        "en": "You demanded security from your brothers for no reason; you stripped men of their clothing, leaving them naked."
+      },
+      {
+        "verse": 7,
+        "zh": "困乏的人，你没有给他水喝；饥饿的人，你没有给他食物。",
+        "en": "You gave no water to the weary and you withheld food from the hungry,"
+      },
+      {
+        "verse": 8,
+        "zh": "有能力的人就得地土；尊贵的人也住在其中。",
+        "en": "though you were a powerful man, owning land- an honored man, living on it."
+      },
+      {
+        "verse": 9,
+        "zh": "你打发寡妇空手回去，折断孤儿的膀臂。",
+        "en": "And you sent widows away empty-handed and broke the strength of the fatherless."
+      },
+      {
+        "verse": 10,
+        "zh": "因此，有网罗环绕你，有恐惧忽然使你惊惶；",
+        "en": "That is why snares are all around you, why sudden peril terrifies you,"
+      },
+      {
+        "verse": 11,
+        "zh": "或有黑暗蒙蔽你，并有洪水淹没你。",
+        "en": "why it is so dark you cannot see, and why a flood of water covers you."
+      },
+      {
+        "verse": 12,
+        "zh": "神岂不是在高天么？你看星宿何其高呢！",
+        "en": "\"Is not God in the heights of heaven? And see how lofty are the highest stars!"
+      },
+      {
+        "verse": 13,
+        "zh": "你说：神知道甚么？他岂能看透幽暗施行审判呢？",
+        "en": "Yet you say, 'What does God know? Does he judge through such darkness?"
+      },
+      {
+        "verse": 14,
+        "zh": "密云将他遮盖，使他不能看见；他周游穹苍。",
+        "en": "Thick clouds veil him, so he does not see us as he goes about in the vaulted heavens.'"
+      },
+      {
+        "verse": 15,
+        "zh": "你要依从上古的道么？这道是恶人所行的。",
+        "en": "Will you keep to the old path that evil men have trod?"
+      },
+      {
+        "verse": 16,
+        "zh": "他们未到死期，忽然除灭；根基毁坏，好像被江河冲去。",
+        "en": "They were carried off before their time, their foundations washed away by a flood."
+      },
+      {
+        "verse": 17,
+        "zh": "他们向神说：离开我们罢！又说：全能者能把我们怎么样呢？",
+        "en": "They said to God, 'Leave us alone! What can the Almighty do to us?'"
+      },
+      {
+        "verse": 18,
+        "zh": "哪知神以美物充满他们的房屋；但恶人所谋定的离我好远。",
+        "en": "Yet it was he who filled their houses with good things, so I stand aloof from the counsel of the wicked."
+      },
+      {
+        "verse": 19,
+        "zh": "义人看见他们的结局就欢喜；无辜的人嗤笑他们，",
+        "en": "\"The righteous see their ruin and rejoice; the innocent mock them, saying,"
+      },
+      {
+        "verse": 20,
+        "zh": "说：那起来攻击我们的果然被剪除，其余的都被火烧灭。",
+        "en": "'Surely our foes are destroyed, and fire devours their wealth.'"
+      },
+      {
+        "verse": 21,
+        "zh": "你要认识神，就得平安；福气也必临到你。",
+        "en": "\"Submit to God and be at peace with him; in this way prosperity will come to you."
+      },
+      {
+        "verse": 22,
+        "zh": "你当领受他口中的教训，将他的言语存在心里。",
+        "en": "Accept instruction from his mouth and lay up his words in your heart."
+      },
+      {
+        "verse": 23,
+        "zh": "你若归向全能者，从你帐棚中远除不义，就必得建立。",
+        "en": "If you return to the Almighty, you will be restored: If you remove wickedness far from your tent"
+      },
+      {
+        "verse": 24,
+        "zh": "要将你的珍宝丢在尘土里，将俄斐的黄金丢在溪河石头之间；",
+        "en": "and assign your nuggets to the dust, your gold of Ophir to the rocks in the ravines,"
+      },
+      {
+        "verse": 25,
+        "zh": "全能者就必为你的珍宝，作你的宝银。",
+        "en": "then the Almighty will be your gold, the choicest silver for you."
+      },
+      {
+        "verse": 26,
+        "zh": "你就要以全能者为喜乐，向神仰起脸来。",
+        "en": "Surely then you will find delight in the Almighty and will lift up your face to God."
+      },
+      {
+        "verse": 27,
+        "zh": "你要祷告他，他就听你；你也要还你的愿。",
+        "en": "You will pray to him, and he will hear you, and you will fulfill your vows."
+      },
+      {
+        "verse": 28,
+        "zh": "你定意要做何事，必然给你成就；亮光也必照耀你的路。",
+        "en": "What you decide on will be done, and light will shine on your ways."
+      },
+      {
+        "verse": 29,
+        "zh": "人使你降卑，你仍可说：必得高升；谦卑的人，神必然拯救。",
+        "en": "When men are brought low and you say, 'Lift them up!' then he will save the downcast."
+      },
+      {
+        "verse": 30,
+        "zh": "人非无辜，神且要搭救他；他因你手中清洁，必蒙拯救。",
+        "en": "He will deliver even one who is not innocent, who will be delivered through the cleanness of your hands.\""
+      }
+    ],
+    "23": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "如今我的哀告还算为悖逆；我的责罚比我的唉哼还重。",
+        "en": "\"Even today my complaint is bitter; his hand is heavy in spite of my groaning."
+      },
+      {
+        "verse": 3,
+        "zh": "惟愿我能知道在哪里可以寻见神，能到他的台前，",
+        "en": "If only I knew where to find him; if only I could go to his dwelling!"
+      },
+      {
+        "verse": 4,
+        "zh": "我就在他面前将我的案件陈明，满口辩白。",
+        "en": "I would state my case before him and fill my mouth with arguments."
+      },
+      {
+        "verse": 5,
+        "zh": "我必知道他回答我的言语，明白他向我所说的话。",
+        "en": "I would find out what he would answer me, and consider what he would say."
+      },
+      {
+        "verse": 6,
+        "zh": "他岂用大能与我争辩么？必不这样！他必理会我。",
+        "en": "Would he oppose me with great power? No, he would not press charges against me."
+      },
+      {
+        "verse": 7,
+        "zh": "在他那里正直人可以与他辩论；这样，我必永远脱离那审判我的。",
+        "en": "There an upright man could present his case before him, and I would be delivered forever from my judge."
+      },
+      {
+        "verse": 8,
+        "zh": "只是，我往前行，他不在那里，往后退，也不能见他。",
+        "en": "\"But if I go to the east, he is not there; if I go to the west, I do not find him."
+      },
+      {
+        "verse": 9,
+        "zh": "他在左边行事，我却不能看见，在右边隐藏，我也不能见他。",
+        "en": "When he is at work in the north, I do not see him; when he turns to the south, I catch no glimpse of him."
+      },
+      {
+        "verse": 10,
+        "zh": "然而他知道我所行的路；他试炼我之后，我必如精金。",
+        "en": "But he knows the way that I take; when he has tested me, I will come forth as gold."
+      },
+      {
+        "verse": 11,
+        "zh": "我脚追随他的步履；我谨守他的道，并不偏离。",
+        "en": "My feet have closely followed his steps; I have kept to his way without turning aside."
+      },
+      {
+        "verse": 12,
+        "zh": "他嘴唇的命令，我未曾背弃；我看重他口中的言语，过于我需用的饮食。",
+        "en": "I have not departed from the commands of his lips; I have treasured the words of his mouth more than my daily bread."
+      },
+      {
+        "verse": 13,
+        "zh": "只是他心志已定，谁能使他转意呢？他心里所愿的，就行出来。",
+        "en": "\"But he stands alone, and who can oppose him? He does whatever he pleases."
+      },
+      {
+        "verse": 14,
+        "zh": "他向我所定的，就必做成；这类的事他还有许多。",
+        "en": "He carries out his decree against me, and many such plans he still has in store."
+      },
+      {
+        "verse": 15,
+        "zh": "所以我在他面前惊惶；我思念这事便惧怕他。",
+        "en": "That is why I am terrified before him; when I think of all this, I fear him."
+      },
+      {
+        "verse": 16,
+        "zh": "神使我丧胆；全能者使我惊惶。",
+        "en": "God has made my heart faint; the Almighty has terrified me."
+      },
+      {
+        "verse": 17,
+        "zh": "我的恐惧不是因为黑暗，也不是因为幽暗蒙蔽我的脸。",
+        "en": "Yet I am not silenced by the darkness, by the thick darkness that covers my face."
+      }
+    ],
+    "24": [
+      {
+        "verse": 1,
+        "zh": "全能者既定期罚恶，为何不使认识他的人看见那日子呢？",
+        "en": "\"Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?"
+      },
+      {
+        "verse": 2,
+        "zh": "有人挪移地界，抢夺群畜而牧养。",
+        "en": "Men move boundary stones; they pasture flocks they have stolen."
+      },
+      {
+        "verse": 3,
+        "zh": "他们拉去孤儿的驴，强取寡妇的牛为当头。",
+        "en": "They drive away the orphan's donkey and take the widow's ox in pledge."
+      },
+      {
+        "verse": 4,
+        "zh": "他们使穷人离开正道；世上的贫民尽都隐藏。",
+        "en": "They thrust the needy from the path and force all the poor of the land into hiding."
+      },
+      {
+        "verse": 5,
+        "zh": "这些贫穷人如同野驴出到旷野，殷勤寻找食物；他们靠著野地给儿女糊口，",
+        "en": "Like wild donkeys in the desert, the poor go about their labor of foraging food; the wasteland provides food for their children."
+      },
+      {
+        "verse": 6,
+        "zh": "收割别人田间的禾稼，摘取恶人余剩的葡萄，",
+        "en": "They gather fodder in the fields and glean in the vineyards of the wicked."
+      },
+      {
+        "verse": 7,
+        "zh": "终夜赤身无衣，天气寒冷毫无遮盖，",
+        "en": "Lacking clothes, they spend the night naked; they have nothing to cover themselves in the cold."
+      },
+      {
+        "verse": 8,
+        "zh": "在山上被大雨淋湿，因没有避身之处就挨近磐石。",
+        "en": "They are drenched by mountain rains and hug the rocks for lack of shelter."
+      },
+      {
+        "verse": 9,
+        "zh": "又有人从母怀中抢夺孤儿，强取穷人的衣服为当头，",
+        "en": "The fatherless child is snatched from the breast; the infant of the poor is seized for a debt."
+      },
+      {
+        "verse": 10,
+        "zh": "使人赤身无衣，到处流行，且因饥饿扛抬禾捆，",
+        "en": "Lacking clothes, they go about naked; they carry the sheaves, but still go hungry."
+      },
+      {
+        "verse": 11,
+        "zh": "在那些人的围墙内造油，醡酒，自己还口渴。",
+        "en": "They crush olives among the terraces ; they tread the winepresses, yet suffer thirst."
+      },
+      {
+        "verse": 12,
+        "zh": "在多民的城内有人唉哼，受伤的人哀号；神却不理会那恶人的愚妄。",
+        "en": "The groans of the dying rise from the city, and the souls of the wounded cry out for help. But God charges no one with wrongdoing."
+      },
+      {
+        "verse": 13,
+        "zh": "又有人背弃光明，不认识光明的道，不住在光明的路上。",
+        "en": "\"There are those who rebel against the light, who do not know its ways or stay in its paths."
+      },
+      {
+        "verse": 14,
+        "zh": "杀人的黎明起来，杀害困苦穷乏人，夜间又作盗贼。",
+        "en": "When daylight is gone, the murderer rises up and kills the poor and needy; in the night he steals forth like a thief."
+      },
+      {
+        "verse": 15,
+        "zh": "奸夫等候黄昏，说：必无眼能见我，就把脸蒙蔽。",
+        "en": "The eye of the adulterer watches for dusk; he thinks, 'No eye will see me,' and he keeps his face concealed."
+      },
+      {
+        "verse": 16,
+        "zh": "盗贼黑夜挖窟窿；白日躲藏，并不认识光明。",
+        "en": "In the dark, men break into houses, but by day they shut themselves in; they want nothing to do with the light."
+      },
+      {
+        "verse": 17,
+        "zh": "他们看早晨如幽暗，因为他们晓得幽暗的惊骇。",
+        "en": "For all of them, deep darkness is their morning ; they make friends with the terrors of darkness."
+      },
+      {
+        "verse": 18,
+        "zh": "这些恶人犹如浮萍快快飘去。他们所得的分在世上被咒诅；他们不得再走葡萄园的路。",
+        "en": "\"Yet they are foam on the surface of the water; their portion of the land is cursed, so that no one goes to the vineyards."
+      },
+      {
+        "verse": 19,
+        "zh": "干旱炎热消没雪水；阴间也如此消没犯罪之辈。",
+        "en": "As heat and drought snatch away the melted snow, so the grave snatches away those who have sinned."
+      },
+      {
+        "verse": 20,
+        "zh": "怀他的母（原文是胎）要忘记他；虫子要吃他，觉得甘甜；他不再被人记念。不义的人必如树折断。",
+        "en": "The womb forgets them, the worm feasts on them; evil men are no longer remembered but are broken like a tree."
+      },
+      {
+        "verse": 21,
+        "zh": "他恶待（或译：他吞灭）不怀孕不生养的妇人，不善待寡妇。",
+        "en": "They prey on the barren and childless woman, and to the widow show no kindness."
+      },
+      {
+        "verse": 22,
+        "zh": "然而神用能力保全有势力的人；那性命难保的人仍然兴起。",
+        "en": "But God drags away the mighty by his power; though they become established, they have no assurance of life."
+      },
+      {
+        "verse": 23,
+        "zh": "神使他们安稳，他们就有所倚靠；神的眼目也看顾他们的道路。",
+        "en": "He may let them rest in a feeling of security, but his eyes are on their ways."
+      },
+      {
+        "verse": 24,
+        "zh": "他们被高举，不过片时就没有了；他们降为卑，被除灭，与众人一样，又如谷穗被割。",
+        "en": "For a little while they are exalted, and then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain."
+      },
+      {
+        "verse": 25,
+        "zh": "若不是这样，谁能证实我是说谎的，将我的言语驳为虚空呢？",
+        "en": "\"If this is not so, who can prove me false and reduce my words to nothing?\""
+      }
+    ],
+    "25": [
+      {
+        "verse": 1,
+        "zh": "书亚人比勒达回答说：",
+        "en": "Then Bildad the Shuhite replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "神有治理之权，有威严可畏；他在高处施行和平。",
+        "en": "\"Dominion and awe belong to God; he establishes order in the heights of heaven."
+      },
+      {
+        "verse": 3,
+        "zh": "他的诸军岂能数算？他的光亮一发，谁不蒙照呢？",
+        "en": "Can his forces be numbered? Upon whom does his light not rise?"
+      },
+      {
+        "verse": 4,
+        "zh": "这样在神面前，人怎能称义？妇人所生的怎能洁净？",
+        "en": "How then can a man be righteous before God? How can one born of woman be pure?"
+      },
+      {
+        "verse": 5,
+        "zh": "在神眼前，月亮也无光亮，星宿也不清洁。",
+        "en": "If even the moon is not bright and the stars are not pure in his eyes,"
+      },
+      {
+        "verse": 6,
+        "zh": "何况如虫的人，如蛆的世人呢！",
+        "en": "how much less man, who is but a maggot- a son of man, who is only a worm!\""
+      }
+    ],
+    "26": [
+      {
+        "verse": 1,
+        "zh": "约伯回答说：",
+        "en": "Then Job replied:"
+      },
+      {
+        "verse": 2,
+        "zh": "无能的人蒙你何等的帮助！膀臂无力的人蒙你何等的拯救！",
+        "en": "\"How you have helped the powerless! How you have saved the arm that is feeble!"
+      },
+      {
+        "verse": 3,
+        "zh": "无智慧的人蒙你何等的指教！你向他多显大知识！",
+        "en": "What advice you have offered to one without wisdom! And what great insight you have displayed!"
+      },
+      {
+        "verse": 4,
+        "zh": "你向谁发出言语来？谁的灵从你而出？",
+        "en": "Who has helped you utter these words? And whose spirit spoke from your mouth?"
+      },
+      {
+        "verse": 5,
+        "zh": "在大水和水族以下的阴魂战兢。",
+        "en": "\"The dead are in deep anguish, those beneath the waters and all that live in them."
+      },
+      {
+        "verse": 6,
+        "zh": "在神面前，阴间显露；灭亡也不得遮掩。",
+        "en": "Death is naked before God; Destruction lies uncovered."
+      },
+      {
+        "verse": 7,
+        "zh": "神将北极铺在空中，将大地悬在虚空；",
+        "en": "He spreads out the northern skies over empty space; he suspends the earth over nothing."
+      },
+      {
+        "verse": 8,
+        "zh": "将水包在密云中，云却不破裂；",
+        "en": "He wraps up the waters in his clouds, yet the clouds do not burst under their weight."
+      },
+      {
+        "verse": 9,
+        "zh": "遮蔽他的宝座，将云铺在其上；",
+        "en": "He covers the face of the full moon, spreading his clouds over it."
+      },
+      {
+        "verse": 10,
+        "zh": "在水面的周围划出界限，直到光明黑暗的交界。",
+        "en": "He marks out the horizon on the face of the waters for a boundary between light and darkness."
+      },
+      {
+        "verse": 11,
+        "zh": "天的柱子因他的斥责震动惊奇。",
+        "en": "The pillars of the heavens quake, aghast at his rebuke."
+      },
+      {
+        "verse": 12,
+        "zh": "他以能力搅动（或译：平静）大海；他藉知识打伤拉哈伯，",
+        "en": "By his power he churned up the sea; by his wisdom he cut Rahab to pieces."
+      },
+      {
+        "verse": 13,
+        "zh": "藉他的灵使天有妆饰；他的手刺杀快蛇。",
+        "en": "By his breath the skies became fair; his hand pierced the gliding serpent."
+      },
+      {
+        "verse": 14,
+        "zh": "看哪，这不过是神工作的些微；我们所听于他的是何等细微的声音！他大能的雷声谁能明透呢？",
+        "en": "And these are but the outer fringe of his works; how faint the whisper we hear of him! Who then can understand the thunder of his power?\""
+      }
+    ],
+    "27": [
+      {
+        "verse": 1,
+        "zh": "约伯接著说：",
+        "en": "And Job continued his discourse:"
+      },
+      {
+        "verse": 2,
+        "zh": "神夺去我的理，全能者使我心中愁苦。我指著永生的神起誓：",
+        "en": "\"As surely as God lives, who has denied me justice, the Almighty, who has made me taste bitterness of soul,"
+      },
+      {
+        "verse": 3,
+        "zh": "我的生命尚在我里面；神所赐呼吸之气仍在我的鼻孔内。",
+        "en": "as long as I have life within me, the breath of God in my nostrils,"
+      },
+      {
+        "verse": 4,
+        "zh": "我的嘴决不说非义之言；我的舌也不说诡诈之语。",
+        "en": "my lips will not speak wickedness, and my tongue will utter no deceit."
+      },
+      {
+        "verse": 5,
+        "zh": "我断不以你们为是；我至死必不以自己为不正！",
+        "en": "I will never admit you are in the right; till I die, I will not deny my integrity."
+      },
+      {
+        "verse": 6,
+        "zh": "我持定我的义，必不放松；在世的日子，我心必不责备我。",
+        "en": "I will maintain my righteousness and never let go of it; my conscience will not reproach me as long as I live."
+      },
+      {
+        "verse": 7,
+        "zh": "愿我的仇敌如恶人一样；愿那起来攻击我的，如不义之人一般。",
+        "en": "\"May my enemies be like the wicked, my adversaries like the unjust!"
+      },
+      {
+        "verse": 8,
+        "zh": "不敬虔的人虽然得利，神夺取其命的时候还有甚么指望呢？",
+        "en": "For what hope has the godless when he is cut off, when God takes away his life?"
+      },
+      {
+        "verse": 9,
+        "zh": "患难临到他，神岂能听他的呼求？",
+        "en": "Does God listen to his cry when distress comes upon him?"
+      },
+      {
+        "verse": 10,
+        "zh": "他岂以全能者为乐，随时求告神呢？",
+        "en": "Will he find delight in the Almighty? Will he call upon God at all times?"
+      },
+      {
+        "verse": 11,
+        "zh": "神的作为，我要指教你们；全能者所行的，我也不隐瞒。",
+        "en": "\"I will teach you about the power of God; the ways of the Almighty I will not conceal."
+      },
+      {
+        "verse": 12,
+        "zh": "你们自己也都见过，为何全然变为虚妄呢？",
+        "en": "You have all seen this yourselves. Why then this meaningless talk?"
+      },
+      {
+        "verse": 13,
+        "zh": "神为恶人所定的分，强暴人从全能者所得的报（原文是产业）乃是这样：",
+        "en": "\"Here is the fate God allots to the wicked, the heritage a ruthless man receives from the Almighty:"
+      },
+      {
+        "verse": 14,
+        "zh": "倘或他的儿女增多，还是被刀所杀；他的子孙必不得饱食。",
+        "en": "However many his children, their fate is the sword; his offspring will never have enough to eat."
+      },
+      {
+        "verse": 15,
+        "zh": "他所遗留的人必死而埋葬；他的寡妇也不哀哭。",
+        "en": "The plague will bury those who survive him, and their widows will not weep for them."
+      },
+      {
+        "verse": 16,
+        "zh": "他虽积蓄银子如尘沙，预备衣服如泥土；",
+        "en": "Though he heaps up silver like dust and clothes like piles of clay,"
+      },
+      {
+        "verse": 17,
+        "zh": "他只管预备，义人却要穿上；他的银子，无辜的人要分取。",
+        "en": "what he lays up the righteous will wear, and the innocent will divide his silver."
+      },
+      {
+        "verse": 18,
+        "zh": "他建造房屋如虫做窝，又如守望者所搭的棚。",
+        "en": "The house he builds is like a moth's cocoon, like a hut made by a watchman."
+      },
+      {
+        "verse": 19,
+        "zh": "他虽富足躺卧，却不得收殓，转眼之间就不在了。",
+        "en": "He lies down wealthy, but will do so no more; when he opens his eyes, all is gone."
+      },
+      {
+        "verse": 20,
+        "zh": "惊恐如波涛将他追上；暴风在夜间将他刮去。",
+        "en": "Terrors overtake him like a flood; a tempest snatches him away in the night."
+      },
+      {
+        "verse": 21,
+        "zh": "东风把他飘去，又刮他离开本处。",
+        "en": "The east wind carries him off, and he is gone; it sweeps him out of his place."
+      },
+      {
+        "verse": 22,
+        "zh": "神要向他射箭，并不留情；他恨不得逃脱神的手。",
+        "en": "It hurls itself against him without mercy as he flees headlong from its power."
+      },
+      {
+        "verse": 23,
+        "zh": "人要向他拍掌，并要发叱声，使他离开本处。",
+        "en": "It claps its hands in derision and hisses him out of his place."
+      }
+    ],
+    "28": [
+      {
+        "verse": 1,
+        "zh": "银子有矿；炼金有方。",
+        "en": "\"There is a mine for silver and aplace where gold is refined."
+      },
+      {
+        "verse": 2,
+        "zh": "铁从地里挖出；铜从石中镕化。",
+        "en": "Iron is taken from the earth, and copper is smelted from ore."
+      },
+      {
+        "verse": 3,
+        "zh": "人为黑暗定界限，查究幽暗阴翳的石头，直到极处，",
+        "en": "Man puts an end to the darkness; he searches the farthest recesses for ore in the blackest darkness."
+      },
+      {
+        "verse": 4,
+        "zh": "在无人居住之处刨开矿穴，过路的人也想不到他们；又与人远离，悬在空中摇来摇去。",
+        "en": "Far from where people dwell he cuts a shaft, in places forgotten by the foot of man; far from men he dangles and sways."
+      },
+      {
+        "verse": 5,
+        "zh": "至于地，能出粮食，地内好像被火翻起来。",
+        "en": "The earth, from which food comes, is transformed below as by fire;"
+      },
+      {
+        "verse": 6,
+        "zh": "地中的石头有蓝宝石，并有金沙。",
+        "en": "sapphires come from its rocks, and its dust contains nuggets of gold."
+      },
+      {
+        "verse": 7,
+        "zh": "矿中的路鸷鸟不得知道；鹰眼也未见过。",
+        "en": "No bird of prey knows that hidden path, no falcon's eye has seen it."
+      },
+      {
+        "verse": 8,
+        "zh": "狂傲的野兽未曾行过；猛烈的狮子也未曾经过。",
+        "en": "Proud beasts do not set foot on it, and no lion prowls there."
+      },
+      {
+        "verse": 9,
+        "zh": "人伸手凿开坚石，倾倒山根，",
+        "en": "Man's hand assaults the flinty rock and lays bare the roots of the mountains."
+      },
+      {
+        "verse": 10,
+        "zh": "在磐石中凿出水道，亲眼看见各样宝物。",
+        "en": "He tunnels through the rock; his eyes see all its treasures."
+      },
+      {
+        "verse": 11,
+        "zh": "他封闭水不得滴流，使隐藏的物显露出来。",
+        "en": "He searches the sources of the rivers and brings hidden things to light."
+      },
+      {
+        "verse": 12,
+        "zh": "然而，智慧有何处可寻？聪明之处在哪里呢？",
+        "en": "\"But where can wisdom be found? Where does understanding dwell?"
+      },
+      {
+        "verse": 13,
+        "zh": "智慧的价值无人能知，在活人之地也无处可寻。",
+        "en": "Man does not comprehend its worth; it cannot be found in the land of the living."
+      },
+      {
+        "verse": 14,
+        "zh": "深渊说：不在我内；沧海说：不在我中。",
+        "en": "The deep says, 'It is not in me'; the sea says, 'It is not with me.'"
+      },
+      {
+        "verse": 15,
+        "zh": "智慧非用黄金可得，也不能平白银为他的价值。",
+        "en": "It cannot be bought with the finest gold, nor can its price be weighed in silver."
+      },
+      {
+        "verse": 16,
+        "zh": "俄斐金和贵重的红玛瑙，并蓝宝石，不足与较量；",
+        "en": "It cannot be bought with the gold of Ophir, with precious onyx or sapphires."
+      },
+      {
+        "verse": 17,
+        "zh": "黄金和玻璃不足与比较；精金的器皿不足与兑换。",
+        "en": "Neither gold nor crystal can compare with it, nor can it be had for jewels of gold."
+      },
+      {
+        "verse": 18,
+        "zh": "珊瑚 、 水晶都不足论；智慧的价值胜过珍珠（或译：红宝石）。",
+        "en": "Coral and jasper are not worthy of mention; the price of wisdom is beyond rubies."
+      },
+      {
+        "verse": 19,
+        "zh": "古实的红璧玺不足与比较；精金也不足与较量。",
+        "en": "The topaz of Cush cannot compare with it; it cannot be bought with pure gold."
+      },
+      {
+        "verse": 20,
+        "zh": "智慧从何处来呢？聪明之处在哪里呢？",
+        "en": "\"Where then does wisdom come from? Where does understanding dwell?"
+      },
+      {
+        "verse": 21,
+        "zh": "是向一切有生命的眼目隐藏，向空中的飞鸟掩蔽。",
+        "en": "It is hidden from the eyes of every living thing, concealed even from the birds of the air."
+      },
+      {
+        "verse": 22,
+        "zh": "灭没和死亡说：我们风闻其名。",
+        "en": "Destruction and Death say, 'Only a rumor of it has reached our ears.'"
+      },
+      {
+        "verse": 23,
+        "zh": "神明白智慧的道路，晓得智慧的所在。",
+        "en": "God understands the way to it and he alone knows where it dwells,"
+      },
+      {
+        "verse": 24,
+        "zh": "因他鉴察直到地极，遍观普天之下，",
+        "en": "for he views the ends of the earth and sees everything under the heavens."
+      },
+      {
+        "verse": 25,
+        "zh": "要为风定轻重，又度量诸水；",
+        "en": "When he established the force of the wind and measured out the waters,"
+      },
+      {
+        "verse": 26,
+        "zh": "他为雨露定命令，为雷电定道路。",
+        "en": "when he made a decree for the rain and a path for the thunderstorm,"
+      },
+      {
+        "verse": 27,
+        "zh": "那时他看见智慧，而且述说；他坚定，并且查究。",
+        "en": "then he looked at wisdom and appraised it; he confirmed it and tested it."
+      },
+      {
+        "verse": 28,
+        "zh": "他对人说：敬畏主就是智慧；远离恶便是聪明。",
+        "en": "And he said to man, 'The fear of the Lord-that is wisdom, and to shun evil is understanding.' \""
+      }
+    ],
+    "29": [
+      {
+        "verse": 1,
+        "zh": "约伯又接著说：",
+        "en": "Job continued his discourse:"
+      },
+      {
+        "verse": 2,
+        "zh": "惟愿我的景况如从前的月份，如神保守我的日子。",
+        "en": "\"How I long for the months gone by, for the days when God watched over me,"
+      },
+      {
+        "verse": 3,
+        "zh": "那时他的灯照在我头上；我藉他的光行过黑暗。",
+        "en": "when his lamp shone upon my head and by his light I walked through darkness!"
+      },
+      {
+        "verse": 4,
+        "zh": "我愿如壮年的时候：那时我在帐棚中，神待我有密友之情；",
+        "en": "Oh, for the days when I was in my prime, when God's intimate friendship blessed my house,"
+      },
+      {
+        "verse": 5,
+        "zh": "全能者仍与我同在；我的儿女都环绕我。",
+        "en": "when the Almighty was still with me and my children were around me,"
+      },
+      {
+        "verse": 6,
+        "zh": "奶多可洗我的脚；磐石为我出油成河。",
+        "en": "when my path was drenched with cream and the rock poured out for me streams of olive oil."
+      },
+      {
+        "verse": 7,
+        "zh": "我出到城门，在街上设立座位；",
+        "en": "\"When I went to the gate of the city and took my seat in the public square,"
+      },
+      {
+        "verse": 8,
+        "zh": "少年人见我而回避，老年人也起身站立；",
+        "en": "the young men saw me and stepped aside and the old men rose to their feet;"
+      },
+      {
+        "verse": 9,
+        "zh": "王子都停止说话，用手摀口；",
+        "en": "the chief men refrained from speaking and covered their mouths with their hands;"
+      },
+      {
+        "verse": 10,
+        "zh": "首领静默无声，舌头贴住上膛。",
+        "en": "the voices of the nobles were hushed, and their tongues stuck to the roof of their mouths."
+      },
+      {
+        "verse": 11,
+        "zh": "耳朵听我的，就称我有福；眼睛看我的，便称赞我；",
+        "en": "Whoever heard me spoke well of me, and those who saw me commended me,"
+      },
+      {
+        "verse": 12,
+        "zh": "因我拯救哀求的困苦人和无人帮助的孤儿。",
+        "en": "because I rescued the poor who cried for help, and the fatherless who had none to assist him."
+      },
+      {
+        "verse": 13,
+        "zh": "将要灭亡的为我祝福；我也使寡妇心中欢乐。",
+        "en": "The man who was dying blessed me; I made the widow's heart sing."
+      },
+      {
+        "verse": 14,
+        "zh": "我以公义为衣服，以公平为外袍和冠冕。",
+        "en": "I put on righteousness as my clothing; justice was my robe and my turban."
+      },
+      {
+        "verse": 15,
+        "zh": "我为瞎子的眼，瘸子的脚。",
+        "en": "I was eyes to the blind and feet to the lame."
+      },
+      {
+        "verse": 16,
+        "zh": "我为穷乏人的父；素不认识的人，我查明他的案件。",
+        "en": "I was a father to the needy; I took up the case of the stranger."
+      },
+      {
+        "verse": 17,
+        "zh": "我打破不义之人的牙床，从他牙齿中夺了所抢的。",
+        "en": "I broke the fangs of the wicked and snatched the victims from their teeth."
+      },
+      {
+        "verse": 18,
+        "zh": "我便说：我必死在家中（原文是窝中），必增添我的日子，多如尘沙。",
+        "en": "\"I thought, 'I will die in my own house, my days as numerous as the grains of sand."
+      },
+      {
+        "verse": 19,
+        "zh": "我的根长到水边；露水终夜沾在我的枝上。",
+        "en": "My roots will reach to the water, and the dew will lie all night on my branches."
+      },
+      {
+        "verse": 20,
+        "zh": "我的荣耀在身上增新；我的弓在手中日强。",
+        "en": "My glory will remain fresh in me, the bow ever new in my hand.'"
+      },
+      {
+        "verse": 21,
+        "zh": "人听见我而仰望，静默等候我的指教。",
+        "en": "\"Men listened to me expectantly, waiting in silence for my counsel."
+      },
+      {
+        "verse": 22,
+        "zh": "我说话之后，他们就不再说；我的言语像雨露滴在他们身上。",
+        "en": "After I had spoken, they spoke no more; my words fell gently on their ears."
+      },
+      {
+        "verse": 23,
+        "zh": "他们仰望我如仰望雨，又张开口如切慕春雨。",
+        "en": "They waited for me as for showers and drank in my words as the spring rain."
+      },
+      {
+        "verse": 24,
+        "zh": "他们不敢自信，我就向他们含笑；他们不使我脸上的光改变。",
+        "en": "When I smiled at them, they scarcely believed it; the light of my face was precious to them."
+      },
+      {
+        "verse": 25,
+        "zh": "我为他们选择道路，又坐首位；我如君王在军队中居住，又如吊丧的安慰伤心的人。",
+        "en": "I chose the way for them and sat as their chief; I dwelt as a king among his troops; I was like one who comforts mourners."
+      }
+    ],
+    "30": [
+      {
+        "verse": 1,
+        "zh": "但如今，比我年少的人戏笑我；其人之父我曾藐视，不肯安在看守我羊群的狗中。",
+        "en": "\"But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs."
+      },
+      {
+        "verse": 2,
+        "zh": "他们壮年的气力既已衰败，其手之力与我何益呢？",
+        "en": "Of what use was the strength of their hands to me, since their vigor had gone from them?"
+      },
+      {
+        "verse": 3,
+        "zh": "他们因穷乏饥饿，身体枯瘦，在荒废凄凉的幽暗中，龈干燥之地，",
+        "en": "Haggard from want and hunger, they roamed the parched land in desolate wastelands at night."
+      },
+      {
+        "verse": 4,
+        "zh": "在草丛之中采咸草，罗腾（小树名，松类）的根为他们的食物。",
+        "en": "In the brush they gathered salt herbs, and their food was the root of the broom tree."
+      },
+      {
+        "verse": 5,
+        "zh": "他们从人中被赶出；人追喊他们如贼一般，",
+        "en": "They were banished from their fellow men, shouted at as if they were thieves."
+      },
+      {
+        "verse": 6,
+        "zh": "以致他们住在荒谷之间，在地洞和岩穴中；",
+        "en": "They were forced to live in the dry stream beds, among the rocks and in holes in the ground."
+      },
+      {
+        "verse": 7,
+        "zh": "在草丛中叫唤，在荆棘下聚集。",
+        "en": "They brayed among the bushes and huddled in the undergrowth."
+      },
+      {
+        "verse": 8,
+        "zh": "这都是愚顽下贱人的儿女；他们被鞭打，赶出境外。",
+        "en": "A base and nameless brood, they were driven out of the land."
+      },
+      {
+        "verse": 9,
+        "zh": "现在这些人以我为歌曲，以我为笑谈。",
+        "en": "\"And now their sons mock me in song; I have become a byword among them."
+      },
+      {
+        "verse": 10,
+        "zh": "他们厌恶我，躲在旁边站著，不住地吐唾沫在我脸上。",
+        "en": "They detest me and keep their distance; they do not hesitate to spit in my face."
+      },
+      {
+        "verse": 11,
+        "zh": "松开他们的绳索苦待我，在我面前脱去辔头。",
+        "en": "Now that God has unstrung my bow and afflicted me, they throw off restraint in my presence."
+      },
+      {
+        "verse": 12,
+        "zh": "这等下流人在我右边起来，推开我的脚，筑成战路来攻击我。",
+        "en": "On my right the tribe attacks; they lay snares for my feet, they build their siege ramps against me."
+      },
+      {
+        "verse": 13,
+        "zh": "这些无人帮助的，毁坏我的道，加增我的灾。",
+        "en": "They break up my road; they succeed in destroying me- without anyone's helping them."
+      },
+      {
+        "verse": 14,
+        "zh": "他们来如同闯进大破口，在毁坏之间滚在我身上。",
+        "en": "They advance as through a gaping breach; amid the ruins they come rolling in."
+      },
+      {
+        "verse": 15,
+        "zh": "惊恐临到我，驱逐我的尊荣如风；我的福禄如云过去。",
+        "en": "Terrors overwhelm me; my dignity is driven away as by the wind, my safety vanishes like a cloud."
+      },
+      {
+        "verse": 16,
+        "zh": "现在我心极其悲伤；困苦的日子将我抓住。",
+        "en": "\"And now my life ebbs away; days of suffering grip me."
+      },
+      {
+        "verse": 17,
+        "zh": "夜间，我里面的骨头刺我，疼痛不止，好像龈我。",
+        "en": "Night pierces my bones; my gnawing pains never rest."
+      },
+      {
+        "verse": 18,
+        "zh": "因神的大力，我的外衣污秽不堪，又如里衣的领子将我缠住。",
+        "en": "In his great power God becomes like clothing to me ; he binds me like the neck of my garment."
+      },
+      {
+        "verse": 19,
+        "zh": "神把我扔在淤泥中，我就像尘土和炉灰一般。",
+        "en": "He throws me into the mud, and I am reduced to dust and ashes."
+      },
+      {
+        "verse": 20,
+        "zh": "主啊，我呼求你，你不应允我；我站起来，你就定睛看我。",
+        "en": "\"I cry out to you, O God, but you do not answer; I stand up, but you merely look at me."
+      },
+      {
+        "verse": 21,
+        "zh": "你向我变心，待我残忍，又用大能追逼我，",
+        "en": "You turn on me ruthlessly; with the might of your hand you attack me."
+      },
+      {
+        "verse": 22,
+        "zh": "把我提在风中，使我驾风而行，又使我消灭在烈风中。",
+        "en": "You snatch me up and drive me before the wind; you toss me about in the storm."
+      },
+      {
+        "verse": 23,
+        "zh": "我知道要使我临到死地，到那为众生所定的阴宅。",
+        "en": "I know you will bring me down to death, to the place appointed for all the living."
+      },
+      {
+        "verse": 24,
+        "zh": "然而，人仆倒岂不伸手？遇灾难岂不求救呢？",
+        "en": "\"Surely no one lays a hand on a broken man when he cries for help in his distress."
+      },
+      {
+        "verse": 25,
+        "zh": "人遭难，我岂不为他哭泣呢？人穷乏，我岂不为他忧愁呢？",
+        "en": "Have I not wept for those in trouble? Has not my soul grieved for the poor?"
+      },
+      {
+        "verse": 26,
+        "zh": "我仰望得好处，灾祸就到了；我等待光明，黑暗便来了。",
+        "en": "Yet when I hoped for good, evil came; when I looked for light, then came darkness."
+      },
+      {
+        "verse": 27,
+        "zh": "我心里烦扰不安，困苦的日子临到我身。",
+        "en": "The churning inside me never stops; days of suffering confront me."
+      },
+      {
+        "verse": 28,
+        "zh": "我没有日光就哀哭行去（或译：我面发黑并非因日晒）；我在会中站著求救。",
+        "en": "I go about blackened, but not by the sun; I stand up in the assembly and cry for help."
+      },
+      {
+        "verse": 29,
+        "zh": "我与野狗为弟兄，与鸵鸟为同伴。",
+        "en": "I have become a brother of jackals, a companion of owls."
+      },
+      {
+        "verse": 30,
+        "zh": "我的皮肤黑而脱落；我的骨头因热烧焦。",
+        "en": "My skin grows black and peels; my body burns with fever."
+      },
+      {
+        "verse": 31,
+        "zh": "所以，我的琴音变为悲音；我的箫声变为哭声。",
+        "en": "My harp is tuned to mourning, and my flute to the sound of wailing."
+      }
+    ],
+    "31": [
+      {
+        "verse": 1,
+        "zh": "我与眼睛立约，怎能恋恋瞻望处女呢？",
+        "en": "\"I made a covenant with my eyesnot to look lustfully at a girl."
+      },
+      {
+        "verse": 2,
+        "zh": "从至上的神所得之分，从至高全能者所得之业是甚么呢？",
+        "en": "For what is man's lot from God above, his heritage from the Almighty on high?"
+      },
+      {
+        "verse": 3,
+        "zh": "岂不是祸患临到不义的，灾害临到作孽的呢？",
+        "en": "Is it not ruin for the wicked, disaster for those who do wrong?"
+      },
+      {
+        "verse": 4,
+        "zh": "神岂不是察看我的道路，数点我的脚步呢？",
+        "en": "Does he not see my ways and count my every step?"
+      },
+      {
+        "verse": 5,
+        "zh": "我若与虚谎同行，脚若追随诡诈；",
+        "en": "\"If I have walked in falsehood or my foot has hurried after deceit-"
+      },
+      {
+        "verse": 6,
+        "zh": "（我若被公道的天平称度，使神可以知道我的纯正；）",
+        "en": "let God weigh me in honest scales and he will know that I am blameless-"
+      },
+      {
+        "verse": 7,
+        "zh": "我的脚步若偏离正路，我的心若随著我的眼目，若有玷污粘在我手上；",
+        "en": "if my steps have turned from the path, if my heart has been led by my eyes, or if my hands have been defiled,"
+      },
+      {
+        "verse": 8,
+        "zh": "就愿我所种的有别人吃，我田所产的被拔出来。",
+        "en": "then may others eat what I have sown, and may my crops be uprooted."
+      },
+      {
+        "verse": 9,
+        "zh": "我若受迷惑，向妇人起淫念，在邻舍的门外蹲伏，",
+        "en": "\"If my heart has been enticed by a woman, or if I have lurked at my neighbor's door,"
+      },
+      {
+        "verse": 10,
+        "zh": "就愿我的妻子给别人推磨，别人也与他同室。",
+        "en": "then may my wife grind another man's grain, and may other men sleep with her."
+      },
+      {
+        "verse": 11,
+        "zh": "因为这是大罪，是审判官当罚的罪孽。",
+        "en": "For that would have been shameful, a sin to be judged."
+      },
+      {
+        "verse": 12,
+        "zh": "这本是火焚烧，直到毁灭，必拔除我所有的家产。",
+        "en": "It is a fire that burns to Destruction ; it would have uprooted my harvest."
+      },
+      {
+        "verse": 13,
+        "zh": "我的仆婢与我争辩的时候，我若藐视不听他们的情节；",
+        "en": "\"If I have denied justice to my menservants and maidservants when they had a grievance against me,"
+      },
+      {
+        "verse": 14,
+        "zh": "神兴起，我怎样行呢？他察问，我怎样回答呢？",
+        "en": "what will I do when God confronts me? What will I answer when called to account?"
+      },
+      {
+        "verse": 15,
+        "zh": "造我在腹中的，不也是造他么？将他与我抟在腹中的岂不是一位么？",
+        "en": "Did not he who made me in the womb make them? Did not the same one form us both within our mothers?"
+      },
+      {
+        "verse": 16,
+        "zh": "我若不容贫寒人得其所愿，或叫寡妇眼中失望，",
+        "en": "\"If I have denied the desires of the poor or let the eyes of the widow grow weary,"
+      },
+      {
+        "verse": 17,
+        "zh": "或独自吃我一点食物，孤儿没有与我同吃；",
+        "en": "if I have kept my bread to myself, not sharing it with the fatherless-"
+      },
+      {
+        "verse": 18,
+        "zh": "（从幼年时孤儿与我同长，好像父子一样；我从出母腹就扶助寡妇。）",
+        "en": "but from my youth I reared him as would a father, and from my birth I guided the widow-"
+      },
+      {
+        "verse": 19,
+        "zh": "我若见人因无衣死亡，或见穷乏人身无遮盖；",
+        "en": "if I have seen anyone perishing for lack of clothing, or a needy man without a garment,"
+      },
+      {
+        "verse": 20,
+        "zh": "我若不使他因我羊的毛得暖，为我祝福；",
+        "en": "and his heart did not bless me for warming him with the fleece from my sheep,"
+      },
+      {
+        "verse": 21,
+        "zh": "我若在城门口见有帮助我的，举手攻击孤儿；",
+        "en": "if I have raised my hand against the fatherless, knowing that I had influence in court,"
+      },
+      {
+        "verse": 22,
+        "zh": "情愿我的肩头从缺盆骨脱落，我的膀臂从羊矢骨折断。",
+        "en": "then let my arm fall from the shoulder, let it be broken off at the joint."
+      },
+      {
+        "verse": 23,
+        "zh": "因神降的灾祸使我恐惧；因他的威严，我不能妄为。",
+        "en": "For I dreaded destruction from God, and for fear of his splendor I could not do such things."
+      },
+      {
+        "verse": 24,
+        "zh": "我若以黄金为指望，对精金说：你是我的倚靠；",
+        "en": "\"If I have put my trust in gold or said to pure gold, 'You are my security,'"
+      },
+      {
+        "verse": 25,
+        "zh": "我若因财物丰裕，因我手多得资财而欢喜；",
+        "en": "if I have rejoiced over my great wealth, the fortune my hands had gained,"
+      },
+      {
+        "verse": 26,
+        "zh": "我若见太阳发光，明月行在空中，",
+        "en": "if I have regarded the sun in its radiance or the moon moving in splendor,"
+      },
+      {
+        "verse": 27,
+        "zh": "心就暗暗被引诱，口便亲手；",
+        "en": "so that my heart was secretly enticed and my hand offered them a kiss of homage,"
+      },
+      {
+        "verse": 28,
+        "zh": "这也是审判官当罚的罪孽，又是我背弃在上的神。",
+        "en": "then these also would be sins to be judged, for I would have been unfaithful to God on high."
+      },
+      {
+        "verse": 29,
+        "zh": "我若见恨我的遭报就欢喜，见他遭灾便高兴；",
+        "en": "\"If I have rejoiced at my enemy's misfortune or gloated over the trouble that came to him-"
+      },
+      {
+        "verse": 30,
+        "zh": "（我没有容口犯罪，咒诅他的生命；）",
+        "en": "I have not allowed my mouth to sin by invoking a curse against his life-"
+      },
+      {
+        "verse": 31,
+        "zh": "若我帐棚的人未尝说，谁不以主人的食物吃饱呢？",
+        "en": "if the men of my household have never said, 'Who has not had his fill of Job's meat?'-"
+      },
+      {
+        "verse": 32,
+        "zh": "（从来我没有容客旅在街上住宿，却开门迎接行路的人；）",
+        "en": "but no stranger had to spend the night in the street, for my door was always open to the traveler-"
+      },
+      {
+        "verse": 33,
+        "zh": "我若像亚当（或译：别人）遮掩我的过犯，将罪孽藏在怀中；",
+        "en": "if I have concealed my sin as men do, by hiding my guilt in my heart"
+      },
+      {
+        "verse": 34,
+        "zh": "因惧怕大众，又因宗族藐视我使我惊恐，以致闭口无言，杜门不出；",
+        "en": "because I so feared the crowd and so dreaded the contempt of the clans that I kept silent and would not go outside"
+      },
+      {
+        "verse": 35,
+        "zh": "惟愿有一位肯听我！（看哪，在这里有我所划的押，愿全能者回答我！）",
+        "en": "(\"Oh, that I had someone to hear me! I sign now my defense-let the Almighty answer me; let my accuser put his indictment in writing."
+      },
+      {
+        "verse": 36,
+        "zh": "愿那敌我者所写的状词在我这里！我必带在肩上，又绑在头上为冠冕。",
+        "en": "Surely I would wear it on my shoulder, I would put it on like a crown."
+      },
+      {
+        "verse": 37,
+        "zh": "我必向他述说我脚步的数目，必如君王进到他面前。",
+        "en": "I would give him an account of my every step; like a prince I would approach him.)-"
+      },
+      {
+        "verse": 38,
+        "zh": "我若夺取田地，这地向我喊冤，犁沟一同哭泣；",
+        "en": "\"if my land cries out against me and all its furrows are wet with tears,"
+      },
+      {
+        "verse": 39,
+        "zh": "我若吃地的出产不给价值，或叫原主丧命；",
+        "en": "if I have devoured its yield without payment or broken the spirit of its tenants,"
+      },
+      {
+        "verse": 40,
+        "zh": "愿这地长蒺藜代替麦子，长恶草代替大麦。约伯的话说完了。",
+        "en": "then let briers come up instead of wheat and weeds instead of barley.\" The words of Job are ended."
+      }
+    ],
+    "32": [
+      {
+        "verse": 1,
+        "zh": "于是这三个人，因约伯自以为义就不再回答他。",
+        "en": "So these three men stopped answering Job, because he was righteous in his own eyes."
+      },
+      {
+        "verse": 2,
+        "zh": "那时有布西人兰族巴拉迦的儿子以利户向约伯发怒；因约伯自以为义，不以神为义。",
+        "en": "But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God."
+      },
+      {
+        "verse": 3,
+        "zh": "他又向约伯的三个朋友发怒；因为他们想不出回答的话来，仍以约伯为有罪。",
+        "en": "He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him."
+      },
+      {
+        "verse": 4,
+        "zh": "以利户要与约伯说话，就等候他们，因为他们比自己年老。",
+        "en": "Now Elihu had waited before speaking to Job because they were older than he."
+      },
+      {
+        "verse": 5,
+        "zh": "以利户见这三个人口中无话回答，就怒气发作。",
+        "en": "But when he saw that the three men had nothing more to say, his anger was aroused."
+      },
+      {
+        "verse": 6,
+        "zh": "布西人巴拉迦的儿子以利户回答说：我年轻，你们老迈；因此我退让，不敢向你们陈说我的意见。",
+        "en": "So Elihu son of Barakel the Buzite said: \"I am young in years, and you are old; that is why I was fearful, not daring to tell you what I know."
+      },
+      {
+        "verse": 7,
+        "zh": "我说，年老的当先说话；寿高的当以智慧 . 教训人。",
+        "en": "I thought, 'Age should speak; advanced years should teach wisdom.'"
+      },
+      {
+        "verse": 8,
+        "zh": "但在人里面有灵；全能者的气使人有聪明。",
+        "en": "But it is the spirit in a man, the breath of the Almighty, that gives him understanding."
+      },
+      {
+        "verse": 9,
+        "zh": "尊贵的不都有智慧；寿高的不都能明白公平。",
+        "en": "It is not only the old who are wise, not only the aged who understand what is right."
+      },
+      {
+        "verse": 10,
+        "zh": "因此我说：你们要听我言；我也要陈说我的意见。",
+        "en": "\"Therefore I say: Listen to me; I too will tell you what I know."
+      },
+      {
+        "verse": 11,
+        "zh": "你们查究所要说的话；那时我等候你们的话，侧耳听你们的辩论，",
+        "en": "I waited while you spoke, I listened to your reasoning; while you were searching for words,"
+      },
+      {
+        "verse": 12,
+        "zh": "留心听你们；谁知你们中间无一人折服约伯，驳倒他的话。",
+        "en": "I gave you my full attention. But not one of you has proved Job wrong; none of you has answered his arguments."
+      },
+      {
+        "verse": 13,
+        "zh": "你们切不可说：我们寻得智慧；神能胜他，人却不能。",
+        "en": "Do not say, 'We have found wisdom; let God refute him, not man.'"
+      },
+      {
+        "verse": 14,
+        "zh": "约伯没有向我争辩；我也不用你们的话回答他。",
+        "en": "But Job has not marshaled his words against me, and I will not answer him with your arguments."
+      },
+      {
+        "verse": 15,
+        "zh": "他们惊奇不再回答，一言不发。",
+        "en": "\"They are dismayed and have no more to say; words have failed them."
+      },
+      {
+        "verse": 16,
+        "zh": "我岂因他们不说话，站住不再回答，仍旧等候呢？",
+        "en": "Must I wait, now that they are silent, now that they stand there with no reply?"
+      },
+      {
+        "verse": 17,
+        "zh": "我也要回答我的一分话，陈说我的意见。",
+        "en": "I too will have my say; I too will tell what I know."
+      },
+      {
+        "verse": 18,
+        "zh": "因为我的言语满怀；我里面的灵激动我。",
+        "en": "For I am full of words, and the spirit within me compels me;"
+      },
+      {
+        "verse": 19,
+        "zh": "我的胸怀如盛酒之囊没有出气之缝，又如新皮袋快要破裂。",
+        "en": "inside I am like bottled-up wine, like new wineskins ready to burst."
+      },
+      {
+        "verse": 20,
+        "zh": "我要说话，使我舒畅；我要开口回答。",
+        "en": "I must speak and find relief; I must open my lips and reply."
+      },
+      {
+        "verse": 21,
+        "zh": "我必不看人的情面，也不奉承人。",
+        "en": "I will show partiality to no one, nor will I flatter any man;"
+      },
+      {
+        "verse": 22,
+        "zh": "我不晓得奉承；若奉承，造我的主必快快除灭我。",
+        "en": "for if I were skilled in flattery, my Maker would soon take me away."
+      }
+    ],
+    "33": [
+      {
+        "verse": 1,
+        "zh": "约伯啊，请听我的话，留心听我一切的言语。",
+        "en": "\"But now, Job, listen to my words;pay attention to everything I say."
+      },
+      {
+        "verse": 2,
+        "zh": "我现在开口，用舌发言。",
+        "en": "I am about to open my mouth; my words are on the tip of my tongue."
+      },
+      {
+        "verse": 3,
+        "zh": "我的言语要发明心中所存的正直；我所知道的，我嘴唇要诚实地说出。",
+        "en": "My words come from an upright heart; my lips sincerely speak what I know."
+      },
+      {
+        "verse": 4,
+        "zh": "神的灵造我；全能者的气使我得生。",
+        "en": "The Spirit of God has made me; the breath of the Almighty gives me life."
+      },
+      {
+        "verse": 5,
+        "zh": "你若回答我，就站起来，在我面前陈明。",
+        "en": "Answer me then, if you can; prepare yourself and confront me."
+      },
+      {
+        "verse": 6,
+        "zh": "我在神面前与你一样，也是用土造成。",
+        "en": "I am just like you before God; I too have been taken from clay."
+      },
+      {
+        "verse": 7,
+        "zh": "我不用威严惊吓你，也不用势力重压你。",
+        "en": "No fear of me should alarm you, nor should my hand be heavy upon you."
+      },
+      {
+        "verse": 8,
+        "zh": "你所说的，我听见了，也听见你的言语，说：",
+        "en": "\"But you have said in my hearing- I heard the very words-"
+      },
+      {
+        "verse": 9,
+        "zh": "我是清洁无过的，我是无辜的；在我里面也没有罪孽。",
+        "en": "'I am pure and without sin; I am clean and free from guilt."
+      },
+      {
+        "verse": 10,
+        "zh": "神找机会攻击我，以我为仇敌，",
+        "en": "Yet God has found fault with me; he considers me his enemy."
+      },
+      {
+        "verse": 11,
+        "zh": "把我的脚上了木狗，窥察我一切的道路。",
+        "en": "He fastens my feet in shackles; he keeps close watch on all my paths.'"
+      },
+      {
+        "verse": 12,
+        "zh": "我要回答你说：你这话无理，因神比世人更大。",
+        "en": "\"But I tell you, in this you are not right, for God is greater than man."
+      },
+      {
+        "verse": 13,
+        "zh": "你为何与他争论呢？因他的事都不对人解说？",
+        "en": "Why do you complain to him that he answers none of man's words ?"
+      },
+      {
+        "verse": 14,
+        "zh": "神说一次 、 两次，世人却不理会。",
+        "en": "For God does speak-now one way, now another- though man may not perceive it."
+      },
+      {
+        "verse": 15,
+        "zh": "人躺在床上沉睡的时候，神就用梦和夜间的异象，",
+        "en": "In a dream, in a vision of the night, when deep sleep falls on men as they slumber in their beds,"
+      },
+      {
+        "verse": 16,
+        "zh": "开通他们的耳朵，将当受的教训印在他们心上，",
+        "en": "he may speak in their ears and terrify them with warnings,"
+      },
+      {
+        "verse": 17,
+        "zh": "好叫人不从自己的谋算，不行骄傲的事（原文是将骄傲向人隐藏），",
+        "en": "to turn man from wrongdoing and keep him from pride,"
+      },
+      {
+        "verse": 18,
+        "zh": "拦阻人不陷于坑里，不死在刀下。",
+        "en": "to preserve his soul from the pit, his life from perishing by the sword."
+      },
+      {
+        "verse": 19,
+        "zh": "人在床上被惩治，骨头中不住地疼痛，",
+        "en": "Or a man may be chastened on a bed of pain with constant distress in his bones,"
+      },
+      {
+        "verse": 20,
+        "zh": "以致他的口厌弃食物，心厌恶美味。",
+        "en": "so that his very being finds food repulsive and his soul loathes the choicest meal."
+      },
+      {
+        "verse": 21,
+        "zh": "他的肉消瘦，不得再见；先前不见的骨头都凸出来。",
+        "en": "His flesh wastes away to nothing, and his bones, once hidden, now stick out."
+      },
+      {
+        "verse": 22,
+        "zh": "他的灵魂临近深坑；他的生命近于灭命的。",
+        "en": "His soul draws near to the pit, and his life to the messengers of death."
+      },
+      {
+        "verse": 23,
+        "zh": "一千天使中，若有一个作传话的与神同在，指示人所当行的事，",
+        "en": "\"Yet if there is an angel on his side as a mediator, one out of a thousand, to tell a man what is right for him,"
+      },
+      {
+        "verse": 24,
+        "zh": "神就给他开恩，说：救赎他免得下坑；我已经得了赎价。",
+        "en": "to be gracious to him and say, 'Spare him from going down to the pit ; I have found a ransom for him'-"
+      },
+      {
+        "verse": 25,
+        "zh": "他的肉要比孩童的肉更嫩；他就返老还童。",
+        "en": "then his flesh is renewed like a child's; it is restored as in the days of his youth."
+      },
+      {
+        "verse": 26,
+        "zh": "他祷告神，神就喜悦他，使他欢呼朝见神的面；神又看他为义。",
+        "en": "He prays to God and finds favor with him, he sees God's face and shouts for joy; he is restored by God to his righteous state."
+      },
+      {
+        "verse": 27,
+        "zh": "他在人前歌唱说：我犯了罪，颠倒是非，这竟与我无益。",
+        "en": "Then he comes to men and says, 'I sinned, and perverted what was right, but I did not get what I deserved."
+      },
+      {
+        "verse": 28,
+        "zh": "神救赎我的灵魂免入深坑；我的生命也必见光。",
+        "en": "He redeemed my soul from going down to the pit, and I will live to enjoy the light.'"
+      },
+      {
+        "verse": 29,
+        "zh": "神两次 、 三次向人行这一切的事，",
+        "en": "\"God does all these things to a man-twice, even three times-"
+      },
+      {
+        "verse": 30,
+        "zh": "为要从深坑救回人的灵魂，使他被光照耀，与活人一样。",
+        "en": "to turn back his soul from the pit, that the light of life may shine on him."
+      },
+      {
+        "verse": 31,
+        "zh": "约伯啊，你当侧耳听我的话，不要作声，等我讲说。",
+        "en": "\"Pay attention, Job, and listen to me; be silent, and I will speak."
+      },
+      {
+        "verse": 32,
+        "zh": "你若有话说，就可以回答我；你只管说，因我愿以你为是。",
+        "en": "If you have anything to say, answer me; speak up, for I want you to be cleared."
+      },
+      {
+        "verse": 33,
+        "zh": "若不然，你就听我说；你不要作声，我便将智慧教训你。",
+        "en": "But if not, then listen to me; be silent, and I will teach you wisdom.\""
+      }
+    ],
+    "34": [
+      {
+        "verse": 1,
+        "zh": "以利户又说：",
+        "en": "Then Elihu said:"
+      },
+      {
+        "verse": 2,
+        "zh": "你们智慧人要听我的话；有知识的人要留心听我说。",
+        "en": "\"Hear my words, you wise men; listen to me, you men of learning."
+      },
+      {
+        "verse": 3,
+        "zh": "因为耳朵试验话语，好像上膛尝食物。",
+        "en": "For the ear tests words as the tongue tastes food."
+      },
+      {
+        "verse": 4,
+        "zh": "我们当选择何为是，彼此知道何为善。",
+        "en": "Let us discern for ourselves what is right; let us learn together what is good."
+      },
+      {
+        "verse": 5,
+        "zh": "约伯曾说：我是公义，神夺去我的理；",
+        "en": "\"Job says, 'I am innocent, but God denies me justice."
+      },
+      {
+        "verse": 6,
+        "zh": "我虽有理，还算为说谎言的；我虽无过，受的伤还不能医治。",
+        "en": "Although I am right, I am considered a liar; although I am guiltless, his arrow inflicts an incurable wound.'"
+      },
+      {
+        "verse": 7,
+        "zh": "谁像约伯，喝讥诮如同喝水呢？",
+        "en": "What man is like Job, who drinks scorn like water?"
+      },
+      {
+        "verse": 8,
+        "zh": "他与作孽的结伴，和恶人同行。",
+        "en": "He keeps company with evildoers; he associates with wicked men."
+      },
+      {
+        "verse": 9,
+        "zh": "他说：人以神为乐，总是无益。",
+        "en": "For he says, 'It profits a man nothing when he tries to please God.'"
+      },
+      {
+        "verse": 10,
+        "zh": "所以，你们明理的人要听我的话。神断不致行恶；全能者断不致作孽。",
+        "en": "\"So listen to me, you men of understanding. Far be it from God to do evil, from the Almighty to do wrong."
+      },
+      {
+        "verse": 11,
+        "zh": "他必按人所做的报应人，使各人照所行的得报。",
+        "en": "He repays a man for what he has done; he brings upon him what his conduct deserves."
+      },
+      {
+        "verse": 12,
+        "zh": "神必不作恶；全能者也不偏离公平。",
+        "en": "It is unthinkable that God would do wrong, that the Almighty would pervert justice."
+      },
+      {
+        "verse": 13,
+        "zh": "谁派他治理地，安定全世界呢？",
+        "en": "Who appointed him over the earth? Who put him in charge of the whole world?"
+      },
+      {
+        "verse": 14,
+        "zh": "他若专心为己，将灵和气收归自己，",
+        "en": "If it were his intention and he withdrew his spirit and breath,"
+      },
+      {
+        "verse": 15,
+        "zh": "凡有血气的就必一同死亡；世人必仍归尘土。",
+        "en": "all mankind would perish together and man would return to the dust."
+      },
+      {
+        "verse": 16,
+        "zh": "你若明理，就当听我的话，留心听我言语的声音。",
+        "en": "\"If you have understanding, hear this; listen to what I say."
+      },
+      {
+        "verse": 17,
+        "zh": "难道恨恶公平的可以掌权么？那有公义的 、 有大能的，岂可定他有罪么？",
+        "en": "Can he who hates justice govern? Will you condemn the just and mighty One?"
+      },
+      {
+        "verse": 18,
+        "zh": "他对君王说：你是鄙陋的；对贵臣说：你是邪恶的。",
+        "en": "Is he not the One who says to kings, 'You are worthless,' and to nobles, 'You are wicked,'"
+      },
+      {
+        "verse": 19,
+        "zh": "他待王子不徇情面，也不看重富足的过于贫穷的，因为都是他手所造。",
+        "en": "who shows no partiality to princes and does not favor the rich over the poor, for they are all the work of his hands?"
+      },
+      {
+        "verse": 20,
+        "zh": "在转眼之间，半夜之中，他们就死亡。百姓被震动而去世；有权力的被夺去非借人手。",
+        "en": "They die in an instant, in the middle of the night; the people are shaken and they pass away; the mighty are removed without human hand."
+      },
+      {
+        "verse": 21,
+        "zh": "神注目观看人的道路，看明人的脚步。",
+        "en": "\"His eyes are on the ways of men; he sees their every step."
+      },
+      {
+        "verse": 22,
+        "zh": "没有黑暗 、 阴翳能给作孽的藏身。",
+        "en": "There is no dark place, no deep shadow, where evildoers can hide."
+      },
+      {
+        "verse": 23,
+        "zh": "神审判人，不必使人到他面前再三鉴察。",
+        "en": "God has no need to examine men further, that they should come before him for judgment."
+      },
+      {
+        "verse": 24,
+        "zh": "他用难测之法打破有能力的人，设立别人代替他们。",
+        "en": "Without inquiry he shatters the mighty and sets up others in their place."
+      },
+      {
+        "verse": 25,
+        "zh": "他原知道他们的行为，使他们在夜间倾倒灭亡。",
+        "en": "Because he takes note of their deeds, he overthrows them in the night and they are crushed."
+      },
+      {
+        "verse": 26,
+        "zh": "他在众人眼前击打他们，如同击打恶人一样。",
+        "en": "He punishes them for their wickedness where everyone can see them,"
+      },
+      {
+        "verse": 27,
+        "zh": "因为他们偏行不跟从他，也不留心他的道，",
+        "en": "because they turned from following him and had no regard for any of his ways."
+      },
+      {
+        "verse": 28,
+        "zh": "甚至使贫穷人的哀声达到他那里；他也听了困苦人的哀声。",
+        "en": "They caused the cry of the poor to come before him, so that he heard the cry of the needy."
+      },
+      {
+        "verse": 29,
+        "zh": "他使人安静，谁能扰乱（或译：定罪）呢？他掩面，谁能见他呢？无论待一国或一人都是如此 ─",
+        "en": "But if he remains silent, who can condemn him? If he hides his face, who can see him? Yet he is over man and nation alike,"
+      },
+      {
+        "verse": 30,
+        "zh": "使不虔敬的人不得作王，免得有人牢笼百姓。",
+        "en": "to keep a godless man from ruling, from laying snares for the people."
+      },
+      {
+        "verse": 31,
+        "zh": "有谁对神说：我受了责罚，不再犯罪；",
+        "en": "\"Suppose a man says to God, 'I am guilty but will offend no more."
+      },
+      {
+        "verse": 32,
+        "zh": "我所看不明的，求你指教我；我若作了孽，必不再作？",
+        "en": "Teach me what I cannot see; if I have done wrong, I will not do so again.'"
+      },
+      {
+        "verse": 33,
+        "zh": "他施行报应，岂要随你的心愿 、 叫你推辞不受么？选定的是你，不是我。你所知道的只管说罢！",
+        "en": "Should God then reward you on your terms, when you refuse to repent? You must decide, not I; so tell me what you know."
+      },
+      {
+        "verse": 34,
+        "zh": "明理的人和听我话的智慧人必对我说：",
+        "en": "\"Men of understanding declare, wise men who hear me say to me,"
+      },
+      {
+        "verse": 35,
+        "zh": "约伯说话没有知识，言语中毫无智慧。",
+        "en": "'Job speaks without knowledge; his words lack insight.'"
+      },
+      {
+        "verse": 36,
+        "zh": "愿约伯被试验到底，因他回答像恶人一样。",
+        "en": "Oh, that Job might be tested to the utmost for answering like a wicked man!"
+      },
+      {
+        "verse": 37,
+        "zh": "他在罪上又加悖逆；在我们中间拍手，用许多言语轻慢神。",
+        "en": "To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God.\""
+      }
+    ],
+    "35": [
+      {
+        "verse": 1,
+        "zh": "以利户又说：",
+        "en": "Then Elihu said:"
+      },
+      {
+        "verse": 2,
+        "zh": "你以为有理，或以为你的公义胜于神的公义，",
+        "en": "\"Do you think this is just? You say, 'I will be cleared by God. '"
+      },
+      {
+        "verse": 3,
+        "zh": "才说这与我有甚么益处？我不犯罪比犯罪有甚么好处呢？",
+        "en": "Yet you ask him, 'What profit is it to me, and what do I gain by not sinning?'"
+      },
+      {
+        "verse": 4,
+        "zh": "我要回答你和在你这里的朋友。",
+        "en": "\"I would like to reply to you and to your friends with you."
+      },
+      {
+        "verse": 5,
+        "zh": "你要向天观看，瞻望那高于你的穹苍。",
+        "en": "Look up at the heavens and see; gaze at the clouds so high above you."
+      },
+      {
+        "verse": 6,
+        "zh": "你若犯罪，能使神受何害呢？你的过犯加增，能使神受何损呢？",
+        "en": "If you sin, how does that affect him? If your sins are many, what does that do to him?"
+      },
+      {
+        "verse": 7,
+        "zh": "你若是公义，还能加增他甚么呢？他从你手里还接受甚么呢？",
+        "en": "If you are righteous, what do you give to him, or what does he receive from your hand?"
+      },
+      {
+        "verse": 8,
+        "zh": "你的过恶或能害你这类的人；你的公义或能叫世人得益处。",
+        "en": "Your wickedness affects only a man like yourself, and your righteousness only the sons of men."
+      },
+      {
+        "verse": 9,
+        "zh": "人因多受欺压就哀求，因受能者的辖制（原文是膀臂）便求救，",
+        "en": "\"Men cry out under a load of oppression; they plead for relief from the arm of the powerful."
+      },
+      {
+        "verse": 10,
+        "zh": "却无人说：造我的神在哪里？他使人夜间歌唱，",
+        "en": "But no one says, 'Where is God my Maker, who gives songs in the night,"
+      },
+      {
+        "verse": 11,
+        "zh": "教训我们胜于地上的走兽，使我们有聪明胜于空中的飞鸟。",
+        "en": "who teaches more to us than to the beasts of the earth and makes us wiser than the birds of the air?'"
+      },
+      {
+        "verse": 12,
+        "zh": "他们在那里，因恶人的骄傲呼求，却无人答应。",
+        "en": "He does not answer when men cry out because of the arrogance of the wicked."
+      },
+      {
+        "verse": 13,
+        "zh": "虚妄的呼求，神必不垂听；全能者也必不眷顾。",
+        "en": "Indeed, God does not listen to their empty plea; the Almighty pays no attention to it."
+      },
+      {
+        "verse": 14,
+        "zh": "何况你说，你不得见他；你的案件在他面前，你等候他罢。",
+        "en": "How much less, then, will he listen when you say that you do not see him, that your case is before him and you must wait for him,"
+      },
+      {
+        "verse": 15,
+        "zh": "但如今因他未曾发怒降罚，也不甚理会狂傲，",
+        "en": "and further, that his anger never punishes and he does not take the least notice of wickedness."
+      },
+      {
+        "verse": 16,
+        "zh": "所以约伯开口说虚妄的话，多发无知识的言语。",
+        "en": "So Job opens his mouth with empty talk; without knowledge he multiplies words.\""
+      }
+    ],
+    "36": [
+      {
+        "verse": 1,
+        "zh": "以利户又接著说：",
+        "en": "Elihu continued:"
+      },
+      {
+        "verse": 2,
+        "zh": "你再容我片时，我就指示你，因我还有话为神说。",
+        "en": "\"Bear with me a little longer and I will show you that there is more to be said in God's behalf."
+      },
+      {
+        "verse": 3,
+        "zh": "我要将所知道的从远处引来，将公义归给造我的主。",
+        "en": "I get my knowledge from afar; I will ascribe justice to my Maker."
+      },
+      {
+        "verse": 4,
+        "zh": "我的言语真不虚谎；有知识全备的与你同在。",
+        "en": "Be assured that my words are not false; one perfect in knowledge is with you."
+      },
+      {
+        "verse": 5,
+        "zh": "神有大能，并不藐视人；他的智慧甚广。",
+        "en": "\"God is mighty, but does not despise men; he is mighty, and firm in his purpose."
+      },
+      {
+        "verse": 6,
+        "zh": "他不保护恶人的性命，却为困苦人伸冤。",
+        "en": "He does not keep the wicked alive but gives the afflicted their rights."
+      },
+      {
+        "verse": 7,
+        "zh": "他时常看顾义人，使他们和君王同坐宝座，永远要被高举。",
+        "en": "He does not take his eyes off the righteous; he enthrones them with kings and exalts them forever."
+      },
+      {
+        "verse": 8,
+        "zh": "他们若被锁炼捆住，被苦难的绳索缠住，",
+        "en": "But if men are bound in chains, held fast by cords of affliction,"
+      },
+      {
+        "verse": 9,
+        "zh": "他就把他们的作为和过犯指示他们，叫他们知道有骄傲的行动。",
+        "en": "he tells them what they have done- that they have sinned arrogantly."
+      },
+      {
+        "verse": 10,
+        "zh": "他也开通他们的耳朵得受教训，吩咐他们离开罪孽转回。",
+        "en": "He makes them listen to correction and commands them to repent of their evil."
+      },
+      {
+        "verse": 11,
+        "zh": "他们若听从事奉他，就必度日亨通，历年福乐；",
+        "en": "If they obey and serve him, they will spend the rest of their days in prosperity and their years in contentment."
+      },
+      {
+        "verse": 12,
+        "zh": "若不听从，就要被刀杀灭，无知无识而死。",
+        "en": "But if they do not listen, they will perish by the sword and die without knowledge."
+      },
+      {
+        "verse": 13,
+        "zh": "那心中不敬虔的人积蓄怒气；神捆绑他们，他们竟不求救；",
+        "en": "\"The godless in heart harbor resentment; even when he fetters them, they do not cry for help."
+      },
+      {
+        "verse": 14,
+        "zh": "必在青年时死亡，与污秽人一样丧命。",
+        "en": "They die in their youth, among male prostitutes of the shrines."
+      },
+      {
+        "verse": 15,
+        "zh": "神藉著困苦救拔困苦人，趁他们受欺压开通他们的耳朵。",
+        "en": "But those who suffer he delivers in their suffering; he speaks to them in their affliction."
+      },
+      {
+        "verse": 16,
+        "zh": "神也必引你出离患难，进入宽阔不狭窄之地；摆在你席上的必满有肥甘。",
+        "en": "\"He is wooing you from the jaws of distress to a spacious place free from restriction, to the comfort of your table laden with choice food."
+      },
+      {
+        "verse": 17,
+        "zh": "但你满口有恶人批评的言语；判断和刑罚抓住你。",
+        "en": "But now you are laden with the judgment due the wicked; judgment and justice have taken hold of you."
+      },
+      {
+        "verse": 18,
+        "zh": "不可容忿怒触动你，使你不服责罚；也不可因赎价大就偏行。",
+        "en": "Be careful that no one entices you by riches; do not let a large bribe turn you aside."
+      },
+      {
+        "verse": 19,
+        "zh": "你的呼求（或译：资财），或是你一切的势力，果有灵验，叫你不受患难么？",
+        "en": "Would your wealth or even all your mighty efforts sustain you so you would not be in distress?"
+      },
+      {
+        "verse": 20,
+        "zh": "不要切慕黑夜，就是众民在本处被除灭的时候。",
+        "en": "Do not long for the night, to drag people away from their homes."
+      },
+      {
+        "verse": 21,
+        "zh": "你要谨慎，不可重看罪孽，因你选择罪孽过于选择苦难。",
+        "en": "Beware of turning to evil, which you seem to prefer to affliction."
+      },
+      {
+        "verse": 22,
+        "zh": "神行事有高大的能力；教训人的有谁像他呢？",
+        "en": "\"God is exalted in his power. Who is a teacher like him?"
+      },
+      {
+        "verse": 23,
+        "zh": "谁派定他的道路？谁能说：你所行的不义？",
+        "en": "Who has prescribed his ways for him, or said to him, 'You have done wrong'?"
+      },
+      {
+        "verse": 24,
+        "zh": "你不可忘记称赞他所行的为大，就是人所歌颂的。",
+        "en": "Remember to extol his work, which men have praised in song."
+      },
+      {
+        "verse": 25,
+        "zh": "他所行的，万人都看见；世人也从远处观看。",
+        "en": "All mankind has seen it; men gaze on it from afar."
+      },
+      {
+        "verse": 26,
+        "zh": "神为大，我们不能全知；他的年数不能测度。",
+        "en": "How great is God-beyond our understanding! The number of his years is past finding out."
+      },
+      {
+        "verse": 27,
+        "zh": "他吸取水点，这水点从云雾中就变成雨；",
+        "en": "\"He draws up the drops of water, which distill as rain to the streams ;"
+      },
+      {
+        "verse": 28,
+        "zh": "云彩将雨落下，沛然降与世人。",
+        "en": "the clouds pour down their moisture and abundant showers fall on mankind."
+      },
+      {
+        "verse": 29,
+        "zh": "谁能明白云彩如何铺张，和神行宫的雷声呢？",
+        "en": "Who can understand how he spreads out the clouds, how he thunders from his pavilion?"
+      },
+      {
+        "verse": 30,
+        "zh": "他将亮光普照在自己的四围；他又遮覆海底。",
+        "en": "See how he scatters his lightning about him, bathing the depths of the sea."
+      },
+      {
+        "verse": 31,
+        "zh": "他用这些审判众民，且赐丰富的粮食。",
+        "en": "This is the way he governs the nations and provides food in abundance."
+      },
+      {
+        "verse": 32,
+        "zh": "他以电光遮手，命闪电击中敌人（或译：中了靶子）。",
+        "en": "He fills his hands with lightning and commands it to strike its mark."
+      },
+      {
+        "verse": 33,
+        "zh": "所发的雷声显明他的作为，又向牲畜指明要起暴风。",
+        "en": "His thunder announces the coming storm; even the cattle make known its approach."
+      }
+    ],
+    "37": [
+      {
+        "verse": 1,
+        "zh": "因此我心战兢，从原处移动。",
+        "en": "\"At this my heart pounds andleaps from its place."
+      },
+      {
+        "verse": 2,
+        "zh": "听啊，神轰轰的声音是他口中所发的响声。",
+        "en": "Listen! Listen to the roar of his voice, to the rumbling that comes from his mouth."
+      },
+      {
+        "verse": 3,
+        "zh": "他发响声震遍天下，发电光闪到地极。",
+        "en": "He unleashes his lightning beneath the whole heaven and sends it to the ends of the earth."
+      },
+      {
+        "verse": 4,
+        "zh": "随后人听见有雷声轰轰，大发威严，雷电接连不断。",
+        "en": "After that comes the sound of his roar; he thunders with his majestic voice. When his voice resounds, he holds nothing back."
+      },
+      {
+        "verse": 5,
+        "zh": "神发出奇妙的雷声；他行大事，我们不能测透。",
+        "en": "God's voice thunders in marvelous ways; he does great things beyond our understanding."
+      },
+      {
+        "verse": 6,
+        "zh": "他对雪说：要降在地上；对大雨和暴雨也是这样说。",
+        "en": "He says to the snow, 'Fall on the earth,' and to the rain shower, 'Be a mighty downpour.'"
+      },
+      {
+        "verse": 7,
+        "zh": "他封住各人的手，叫所造的万人都晓得他的作为。",
+        "en": "So that all men he has made may know his work, he stops every man from his labor."
+      },
+      {
+        "verse": 8,
+        "zh": "百兽进入穴中，卧在洞内。",
+        "en": "The animals take cover; they remain in their dens."
+      },
+      {
+        "verse": 9,
+        "zh": "暴风出于南宫；寒冷出于北方。",
+        "en": "The tempest comes out from its chamber, the cold from the driving winds."
+      },
+      {
+        "verse": 10,
+        "zh": "神嘘气成冰；宽阔之水也都凝结。",
+        "en": "The breath of God produces ice, and the broad waters become frozen."
+      },
+      {
+        "verse": 11,
+        "zh": "他使密云盛满水气，布散电光之云；",
+        "en": "He loads the clouds with moisture; he scatters his lightning through them."
+      },
+      {
+        "verse": 12,
+        "zh": "这云是藉他的指引游行旋转，得以在全地面上行他一切所吩咐的，",
+        "en": "At his direction they swirl around over the face of the whole earth to do whatever he commands them."
+      },
+      {
+        "verse": 13,
+        "zh": "或为责罚，或为润地，或为施行慈爱。",
+        "en": "He brings the clouds to punish men, or to water his earth and show his love."
+      },
+      {
+        "verse": 14,
+        "zh": "约伯啊，你要留心听，要站立思想神奇妙的作为。",
+        "en": "\"Listen to this, Job; stop and consider God's wonders."
+      },
+      {
+        "verse": 15,
+        "zh": "神如何吩咐这些，如何使云中的电光照耀，你知道么？",
+        "en": "Do you know how God controls the clouds and makes his lightning flash?"
+      },
+      {
+        "verse": 16,
+        "zh": "云彩如何浮于空中，那知识全备者奇妙的作为，你知道么？",
+        "en": "Do you know how the clouds hang poised, those wonders of him who is perfect in knowledge?"
+      },
+      {
+        "verse": 17,
+        "zh": "南风使地寂静，你的衣服就如火热，你知道么？",
+        "en": "You who swelter in your clothes when the land lies hushed under the south wind,"
+      },
+      {
+        "verse": 18,
+        "zh": "你岂能与神同铺穹苍么？这穹苍坚硬，如同铸成的镜子。",
+        "en": "can you join him in spreading out the skies, hard as a mirror of cast bronze?"
+      },
+      {
+        "verse": 19,
+        "zh": "我们愚昧不能陈说；请你指教我们该对他说甚么话。",
+        "en": "\"Tell us what we should say to him; we cannot draw up our case because of our darkness."
+      },
+      {
+        "verse": 20,
+        "zh": "人岂可说：我愿与他说话？岂有人自愿灭亡么？",
+        "en": "Should he be told that I want to speak? Would any man ask to be swallowed up?"
+      },
+      {
+        "verse": 21,
+        "zh": "现在有云遮蔽，人不得见穹苍的光亮；但风吹过，天又发晴。",
+        "en": "Now no one can look at the sun, bright as it is in the skies after the wind has swept them clean."
+      },
+      {
+        "verse": 22,
+        "zh": "金光出于北方，在神那里有可怕的威严。",
+        "en": "Out of the north he comes in golden splendor; God comes in awesome majesty."
+      },
+      {
+        "verse": 23,
+        "zh": "论到全能者，我们不能测度；他大有能力，有公平和大义，必不苦待人。",
+        "en": "The Almighty is beyond our reach and exalted in power; in his justice and great righteousness, he does not oppress."
+      },
+      {
+        "verse": 24,
+        "zh": "所以，人敬畏他；凡自以为心中有智慧的人，他都不顾念。",
+        "en": "Therefore, men revere him, for does he not have regard for all the wise in heart? \""
+      }
+    ],
+    "38": [
+      {
+        "verse": 1,
+        "zh": "那时，耶和华从旋风中回答约伯说：",
+        "en": "Then the Lord answered Job outof the storm. He said:"
+      },
+      {
+        "verse": 2,
+        "zh": "谁用无知的言语使我的旨意暗昧不明，",
+        "en": "\"Who is this that darkens my counsel with words without knowledge?"
+      },
+      {
+        "verse": 3,
+        "zh": "你要如勇士束腰；我问你，你可以指示我。",
+        "en": "Brace yourself like a man; I will question you, and you shall answer me."
+      },
+      {
+        "verse": 4,
+        "zh": "我立大地根基的时候，你在哪里呢？你若有聪明，只管说罢！",
+        "en": "\"Where were you when I laid the earth's foundation? Tell me, if you understand."
+      },
+      {
+        "verse": 5,
+        "zh": "你若晓得就说，是谁定地的尺度？是谁把准绳拉在其上？",
+        "en": "Who marked off its dimensions? Surely you know! Who stretched a measuring line across it?"
+      },
+      {
+        "verse": 6,
+        "zh": "地的根基安置在何处？地的角石是谁安放的？",
+        "en": "On what were its footings set, or who laid its cornerstone-"
+      },
+      {
+        "verse": 7,
+        "zh": "那时，晨星一同歌唱；神的众子也都欢呼。",
+        "en": "while the morning stars sang together and all the angels shouted for joy?"
+      },
+      {
+        "verse": 8,
+        "zh": "海水冲出，如出胎胞，那时谁将他关闭呢？",
+        "en": "\"Who shut up the sea behind doors when it burst forth from the womb,"
+      },
+      {
+        "verse": 9,
+        "zh": "是我用云彩当海的衣服，用幽暗当包裹他的布，",
+        "en": "when I made the clouds its garment and wrapped it in thick darkness,"
+      },
+      {
+        "verse": 10,
+        "zh": "为他定界限，又安门和闩，",
+        "en": "when I fixed limits for it and set its doors and bars in place,"
+      },
+      {
+        "verse": 11,
+        "zh": "说：你只可到这里，不可越过；你狂傲的浪要到此止住。",
+        "en": "when I said, 'This far you may come and no farther; here is where your proud waves halt'?"
+      },
+      {
+        "verse": 12,
+        "zh": "你自生以来，曾命定晨光，使清晨的日光知道本位，",
+        "en": "\"Have you ever given orders to the morning, or shown the dawn its place,"
+      },
+      {
+        "verse": 13,
+        "zh": "叫这光普照地的四极，将恶人从其中驱逐出来么？",
+        "en": "that it might take the earth by the edges and shake the wicked out of it?"
+      },
+      {
+        "verse": 14,
+        "zh": "因这光，地面改变如泥上印印，万物出现如衣服一样。",
+        "en": "The earth takes shape like clay under a seal; its features stand out like those of a garment."
+      },
+      {
+        "verse": 15,
+        "zh": "亮光不照恶人；强横的膀臂也必折断。",
+        "en": "The wicked are denied their light, and their upraised arm is broken."
+      },
+      {
+        "verse": 16,
+        "zh": "你曾进到海源，或在深渊的隐密处行走么？",
+        "en": "\"Have you journeyed to the springs of the sea or walked in the recesses of the deep?"
+      },
+      {
+        "verse": 17,
+        "zh": "死亡的门曾向你显露么？死荫的门你曾见过么？",
+        "en": "Have the gates of death been shown to you? Have you seen the gates of the shadow of death ?"
+      },
+      {
+        "verse": 18,
+        "zh": "地的广大你能明透么？你若全知道，只管说罢！",
+        "en": "Have you comprehended the vast expanses of the earth? Tell me, if you know all this."
+      },
+      {
+        "verse": 19,
+        "zh": "光明的居所从何而至？黑暗的本位在于何处？",
+        "en": "\"What is the way to the abode of light? And where does darkness reside?"
+      },
+      {
+        "verse": 20,
+        "zh": "你能带到本境，能看明其室之路么？",
+        "en": "Can you take them to their places? Do you know the paths to their dwellings?"
+      },
+      {
+        "verse": 21,
+        "zh": "你总知道，因为你早已生在世上，你日子的数目也多。",
+        "en": "Surely you know, for you were already born! You have lived so many years!"
+      },
+      {
+        "verse": 22,
+        "zh": "你曾进入雪库，或见过雹仓么？",
+        "en": "\"Have you entered the storehouses of the snow or seen the storehouses of the hail,"
+      },
+      {
+        "verse": 23,
+        "zh": "这雪雹乃是我为降灾，并打仗和争战的日子所预备的。",
+        "en": "which I reserve for times of trouble, for days of war and battle?"
+      },
+      {
+        "verse": 24,
+        "zh": "光亮从何路分开？东风从何路分散遍地？",
+        "en": "What is the way to the place where the lightning is dispersed, or the place where the east winds are scattered over the earth?"
+      },
+      {
+        "verse": 25,
+        "zh": "谁为雨水分道？谁为雷电开路？",
+        "en": "Who cuts a channel for the torrents of rain, and a path for the thunderstorm,"
+      },
+      {
+        "verse": 26,
+        "zh": "使雨降在无人之地 、 无人居住的旷野？",
+        "en": "to water a land where no man lives, a desert with no one in it,"
+      },
+      {
+        "verse": 27,
+        "zh": "使荒废凄凉之地得以丰足，青草得以发生？",
+        "en": "to satisfy a desolate wasteland and make it sprout with grass?"
+      },
+      {
+        "verse": 28,
+        "zh": "雨有父么？露水珠是谁生的呢？",
+        "en": "Does the rain have a father? Who fathers the drops of dew?"
+      },
+      {
+        "verse": 29,
+        "zh": "冰出于谁的胎？天上的霜是谁生的呢？",
+        "en": "From whose womb comes the ice? Who gives birth to the frost from the heavens"
+      },
+      {
+        "verse": 30,
+        "zh": "诸水坚硬（或译：隐藏）如石头；深渊之面凝结成冰。",
+        "en": "when the waters become hard as stone, when the surface of the deep is frozen?"
+      },
+      {
+        "verse": 31,
+        "zh": "你能系住昴星的结么？能解开参星的带么？",
+        "en": "\"Can you bind the beautiful Pleiades? Can you loose the cords of Orion?"
+      },
+      {
+        "verse": 32,
+        "zh": "你能按时领出十二宫么？能引导北斗和随他的众星（星：原文是子）么？",
+        "en": "Can you bring forth the constellations in their seasons or lead out the Bear with its cubs?"
+      },
+      {
+        "verse": 33,
+        "zh": "你知道天的定例么？能使地归在天的权下么？",
+        "en": "Do you know the laws of the heavens? Can you set up God's dominion over the earth?"
+      },
+      {
+        "verse": 34,
+        "zh": "你能向云彩扬起声来，使倾盆的雨遮盖你么？",
+        "en": "\"Can you raise your voice to the clouds and cover yourself with a flood of water?"
+      },
+      {
+        "verse": 35,
+        "zh": "你能发出闪电，叫他行去，使他对你说：我们在这里？",
+        "en": "Do you send the lightning bolts on their way? Do they report to you, 'Here we are'?"
+      },
+      {
+        "verse": 36,
+        "zh": "谁将智慧放在怀中？谁将聪明赐于心内？",
+        "en": "Who endowed the heart with wisdom or gave understanding to the mind ?"
+      },
+      {
+        "verse": 37,
+        "zh": "谁能用智慧数算云彩呢？尘土聚集成团，土块紧紧结连；那时，谁能倾倒天上的瓶呢？",
+        "en": "Who has the wisdom to count the clouds? Who can tip over the water jars of the heavens"
+      },
+      {
+        "verse": 38,
+        "zh": "a",
+        "en": "when the dust becomes hard and the clods of earth stick together?"
+      },
+      {
+        "verse": 39,
+        "zh": "母狮子在洞中蹲伏，少壮狮子在隐密处埋伏；你能为他们抓取食物，使他们饱足么？",
+        "en": "\"Do you hunt the prey for the lioness and satisfy the hunger of the lions"
+      },
+      {
+        "verse": 40,
+        "zh": "a",
+        "en": "when they crouch in their dens or lie in wait in a thicket?"
+      },
+      {
+        "verse": 41,
+        "zh": "乌鸦之雏因无食物飞来飞去，哀告神；那时，谁为他预备食物呢？",
+        "en": "Who provides food for the raven when its young cry out to God and wander about for lack of food?"
+      }
+    ],
+    "39": [
+      {
+        "verse": 1,
+        "zh": "山岩间的野山羊几时生产，你知道么？母鹿下犊之期，你能察定么？",
+        "en": "\"Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?"
+      },
+      {
+        "verse": 2,
+        "zh": "他们怀胎的月数，你能数算么？他们几时生产，你能晓得么？",
+        "en": "Do you count the months till they bear? Do you know the time they give birth?"
+      },
+      {
+        "verse": 3,
+        "zh": "他们屈身，将子生下，就除掉疼痛。",
+        "en": "They crouch down and bring forth their young; their labor pains are ended."
+      },
+      {
+        "verse": 4,
+        "zh": "这子渐渐肥壮，在荒野长大，去而不回。",
+        "en": "Their young thrive and grow strong in the wilds; they leave and do not return."
+      },
+      {
+        "verse": 5,
+        "zh": "谁放野驴出去自由？谁解开快驴的绳索？",
+        "en": "\"Who let the wild donkey go free? Who untied his ropes?"
+      },
+      {
+        "verse": 6,
+        "zh": "我使旷野作他的住处，使咸地当他的居所。",
+        "en": "I gave him the wasteland as his home, the salt flats as his habitat."
+      },
+      {
+        "verse": 7,
+        "zh": "他嗤笑城内的喧嚷，不听赶牲口的喝声。",
+        "en": "He laughs at the commotion in the town; he does not hear a driver's shout."
+      },
+      {
+        "verse": 8,
+        "zh": "遍山是他的草场；他寻找各样青绿之物。",
+        "en": "He ranges the hills for his pasture and searches for any green thing."
+      },
+      {
+        "verse": 9,
+        "zh": "野牛岂肯服事你？岂肯住在你的槽旁？",
+        "en": "\"Will the wild ox consent to serve you? Will he stay by your manger at night?"
+      },
+      {
+        "verse": 10,
+        "zh": "你岂能用套绳将野牛笼在犁沟之间？他岂肯随你耙山谷之地？",
+        "en": "Can you hold him to the furrow with a harness? Will he till the valleys behind you?"
+      },
+      {
+        "verse": 11,
+        "zh": "岂可因他的力大就倚靠他？岂可把你的工交给他做么？",
+        "en": "Will you rely on him for his great strength? Will you leave your heavy work to him?"
+      },
+      {
+        "verse": 12,
+        "zh": "岂可信靠他把你的粮食运到家，又收聚你禾场上的谷么？",
+        "en": "Can you trust him to bring in your grain and gather it to your threshing floor?"
+      },
+      {
+        "verse": 13,
+        "zh": "鸵鸟的翅膀欢然搧展，岂是显慈爱的翎毛和羽毛么？",
+        "en": "\"The wings of the ostrich flap joyfully, but they cannot compare with the pinions and feathers of the stork."
+      },
+      {
+        "verse": 14,
+        "zh": "因他把蛋留在地上，在尘土中使得温暖；",
+        "en": "She lays her eggs on the ground and lets them warm in the sand,"
+      },
+      {
+        "verse": 15,
+        "zh": "却想不到被脚踹碎，或被野兽践踏。",
+        "en": "unmindful that a foot may crush them, that some wild animal may trample them."
+      },
+      {
+        "verse": 16,
+        "zh": "他忍心待雏，似乎不是自己的；虽然徒受劳苦，也不为雏惧怕；",
+        "en": "She treats her young harshly, as if they were not hers; she cares not that her labor was in vain,"
+      },
+      {
+        "verse": 17,
+        "zh": "因为神使他没有智慧，也未将悟性赐给他。",
+        "en": "for God did not endow her with wisdom or give her a share of good sense."
+      },
+      {
+        "verse": 18,
+        "zh": "他几时挺身展开翅膀，就嗤笑马和骑马的人。",
+        "en": "Yet when she spreads her feathers to run, she laughs at horse and rider."
+      },
+      {
+        "verse": 19,
+        "zh": "马的大力是你所赐的么？他颈项上挓挲的鬃是你给他披上的么？",
+        "en": "\"Do you give the horse his strength or clothe his neck with a flowing mane?"
+      },
+      {
+        "verse": 20,
+        "zh": "是你叫他跳跃像蝗虫么？他喷气之威使人惊惶。",
+        "en": "Do you make him leap like a locust, striking terror with his proud snorting?"
+      },
+      {
+        "verse": 21,
+        "zh": "他在谷中刨地，自喜其力；他出去迎接佩带兵器的人。",
+        "en": "He paws fiercely, rejoicing in his strength, and charges into the fray."
+      },
+      {
+        "verse": 22,
+        "zh": "他嗤笑可怕的事并不惊惶，也不因刀剑退回。",
+        "en": "He laughs at fear, afraid of nothing; he does not shy away from the sword."
+      },
+      {
+        "verse": 23,
+        "zh": "箭袋和发亮的枪，并短枪在他身上铮铮有声。",
+        "en": "The quiver rattles against his side, along with the flashing spear and lance."
+      },
+      {
+        "verse": 24,
+        "zh": "他发猛烈的怒气将地吞下；一听角声就不耐站立。",
+        "en": "In frenzied excitement he eats up the ground; he cannot stand still when the trumpet sounds."
+      },
+      {
+        "verse": 25,
+        "zh": "角每发声，他说呵哈；他从远处闻著战气，又听见军长大发雷声和兵丁呐喊。",
+        "en": "At the blast of the trumpet he snorts, 'Aha!' He catches the scent of battle from afar, the shout of commanders and the battle cry."
+      },
+      {
+        "verse": 26,
+        "zh": "鹰雀飞翔，展开翅膀一直向南，岂是藉你的智慧么？",
+        "en": "\"Does the hawk take flight by your wisdom and spread his wings toward the south?"
+      },
+      {
+        "verse": 27,
+        "zh": "大鹰上腾在高处搭窝，岂是听你的吩咐么？",
+        "en": "Does the eagle soar at your command and build his nest on high?"
+      },
+      {
+        "verse": 28,
+        "zh": "他住在山岩，以山峰和坚固之所为家，",
+        "en": "He dwells on a cliff and stays there at night; a rocky crag is his stronghold."
+      },
+      {
+        "verse": 29,
+        "zh": "从那里窥看食物，眼睛远远观望。",
+        "en": "From there he seeks out his food; his eyes detect it from afar."
+      },
+      {
+        "verse": 30,
+        "zh": "他的雏也咂血；被杀的人在哪里，他也在那里。",
+        "en": "His young ones feast on blood, and where the slain are, there is he.\""
+      }
+    ],
+    "40": [
+      {
+        "verse": 1,
+        "zh": "耶和华又对约伯说：",
+        "en": "The Lord said to Job:"
+      },
+      {
+        "verse": 2,
+        "zh": "强辩的岂可与全能者争论么？与神辩驳的可以回答这些罢！",
+        "en": "\"Will the one who contends with the Almighty correct him? Let him who accuses God answer him!\""
+      },
+      {
+        "verse": 3,
+        "zh": "于是，约伯回答耶和华说：",
+        "en": "Then Job answered the Lord :"
+      },
+      {
+        "verse": 4,
+        "zh": "我是卑贱的！我用甚么回答你呢？只好用手摀口。",
+        "en": "\"I am unworthy-how can I reply to you? I put my hand over my mouth."
+      },
+      {
+        "verse": 5,
+        "zh": "我说了一次，再不回答；说了两次，就不再说。",
+        "en": "I spoke once, but I have no answer-twice, but I will say no more.\""
+      },
+      {
+        "verse": 6,
+        "zh": "于是，耶和华从旋风中回答约伯说：",
+        "en": "Then the Lord spoke to Job out of the storm:"
+      },
+      {
+        "verse": 7,
+        "zh": "你要如勇士束腰；我问你，你可以指示我。",
+        "en": "\"Brace yourself like a man; I will question you, and you shall answer me."
+      },
+      {
+        "verse": 8,
+        "zh": "你岂可废弃我所拟定的？岂可定我有罪，好显自己为义么？",
+        "en": "\"Would you discredit my justice? Would you condemn me to justify yourself?"
+      },
+      {
+        "verse": 9,
+        "zh": "你有神那样的膀臂么？你能像他发雷声么？",
+        "en": "Do you have an arm like God's, and can your voice thunder like his?"
+      },
+      {
+        "verse": 10,
+        "zh": "你要以荣耀庄严为妆饰，以尊荣威严为衣服；",
+        "en": "Then adorn yourself with glory and splendor, and clothe yourself in honor and majesty."
+      },
+      {
+        "verse": 11,
+        "zh": "要发出你满溢的怒气，见一切骄傲的人，使他降卑；",
+        "en": "Unleash the fury of your wrath, look at every proud man and bring him low,"
+      },
+      {
+        "verse": 12,
+        "zh": "见一切骄傲的人，将他制伏，把恶人践踏在本处；",
+        "en": "look at every proud man and humble him, crush the wicked where they stand."
+      },
+      {
+        "verse": 13,
+        "zh": "将他们一同隐藏在尘土中，把他们的脸蒙蔽在隐密处；",
+        "en": "Bury them all in the dust together; shroud their faces in the grave."
+      },
+      {
+        "verse": 14,
+        "zh": "我就认你右手能以救自己。",
+        "en": "Then I myself will admit to you that your own right hand can save you."
+      },
+      {
+        "verse": 15,
+        "zh": "你且观看河马；我造你也造他。他吃草与牛一样；",
+        "en": "\"Look at the behemoth, which I made along with you and which feeds on grass like an ox."
+      },
+      {
+        "verse": 16,
+        "zh": "他的气力在腰间，能力在肚腹的筋上。",
+        "en": "What strength he has in his loins, what power in the muscles of his belly!"
+      },
+      {
+        "verse": 17,
+        "zh": "他摇动尾巴如香柏树；他大腿的筋互相联络。",
+        "en": "His tail sways like a cedar; the sinews of his thighs are close-knit."
+      },
+      {
+        "verse": 18,
+        "zh": "他的骨头好像铜管；他的肢体彷佛铁棍。",
+        "en": "His bones are tubes of bronze, his limbs like rods of iron."
+      },
+      {
+        "verse": 19,
+        "zh": "他在神所造的物中为首；创造他的给他刀剑。",
+        "en": "He ranks first among the works of God, yet his Maker can approach him with his sword."
+      },
+      {
+        "verse": 20,
+        "zh": "诸山给他出食物，也是百兽游玩之处。",
+        "en": "The hills bring him their produce, and all the wild animals play nearby."
+      },
+      {
+        "verse": 21,
+        "zh": "他伏在莲叶之下，卧在芦苇隐密处和水洼子里。",
+        "en": "Under the lotus plants he lies, hidden among the reeds in the marsh."
+      },
+      {
+        "verse": 22,
+        "zh": "莲叶的阴凉遮蔽他；溪旁的柳树环绕他。",
+        "en": "The lotuses conceal him in their shadow; the poplars by the stream surround him."
+      },
+      {
+        "verse": 23,
+        "zh": "河水泛滥，他不发战；就是约但河的水涨到他口边，也是安然。",
+        "en": "When the river rages, he is not alarmed; he is secure, though the Jordan should surge against his mouth."
+      },
+      {
+        "verse": 24,
+        "zh": "在他防备的时候，谁能捉拿他？谁能牢笼他穿他的鼻子呢？",
+        "en": "Can anyone capture him by the eyes, or trap him and pierce his nose?"
+      }
+    ],
+    "41": [
+      {
+        "verse": 1,
+        "zh": "你能用鱼钩钓上鳄鱼么？能用绳子压下他的舌头么？",
+        "en": "\"Can you pull in the leviathan with a fishhook or tie down his tongue with a rope?"
+      },
+      {
+        "verse": 2,
+        "zh": "你能用绳索穿他的鼻子么？能用钩穿他的腮骨么？",
+        "en": "Can you put a cord through his nose or pierce his jaw with a hook?"
+      },
+      {
+        "verse": 3,
+        "zh": "他岂向你连连恳求，说柔和的话么？",
+        "en": "Will he keep begging you for mercy? Will he speak to you with gentle words?"
+      },
+      {
+        "verse": 4,
+        "zh": "岂肯与你立约，使你拿他永远作奴仆么？",
+        "en": "Will he make an agreement with you for you to take him as your slave for life?"
+      },
+      {
+        "verse": 5,
+        "zh": "你岂可拿他当雀鸟玩耍么？岂可为你的幼女将他拴住么？",
+        "en": "Can you make a pet of him like a bird or put him on a leash for your girls?"
+      },
+      {
+        "verse": 6,
+        "zh": "搭伙的渔夫岂可拿他当货物么？能把他分给商人么？",
+        "en": "Will traders barter for him? Will they divide him up among the merchants?"
+      },
+      {
+        "verse": 7,
+        "zh": "你能用倒钩枪扎满他的皮，能用鱼叉叉满他的头么？",
+        "en": "Can you fill his hide with harpoons or his head with fishing spears?"
+      },
+      {
+        "verse": 8,
+        "zh": "你按手在他身上，想与他争战，就不再这样行罢！",
+        "en": "If you lay a hand on him, you will remember the struggle and never do it again!"
+      },
+      {
+        "verse": 9,
+        "zh": "人指望捉拿他是徒然的；一见他，岂不丧胆么？",
+        "en": "Any hope of subduing him is false; the mere sight of him is overpowering."
+      },
+      {
+        "verse": 10,
+        "zh": "没有那么凶猛的人敢惹他。这样，谁能在我面前站立得住呢？",
+        "en": "No one is fierce enough to rouse him. Who then is able to stand against me?"
+      },
+      {
+        "verse": 11,
+        "zh": "谁先给我甚么，使我偿还呢？天下万物都是我的。",
+        "en": "Who has a claim against me that I must pay? Everything under heaven belongs to me."
+      },
+      {
+        "verse": 12,
+        "zh": "论到鳄鱼的肢体和其大力，并美好的骨骼，我不能缄默不言。",
+        "en": "\"I will not fail to speak of his limbs, his strength and his graceful form."
+      },
+      {
+        "verse": 13,
+        "zh": "谁能剥他的外衣？谁能进他上下牙骨之间呢？",
+        "en": "Who can strip off his outer coat? Who would approach him with a bridle?"
+      },
+      {
+        "verse": 14,
+        "zh": "谁能开他的腮颊？他牙齿四围是可畏的。",
+        "en": "Who dares open the doors of his mouth, ringed about with his fearsome teeth?"
+      },
+      {
+        "verse": 15,
+        "zh": "他以坚固的鳞甲为可夸，紧紧合闭，封得严密。",
+        "en": "His back has rows of shields tightly sealed together;"
+      },
+      {
+        "verse": 16,
+        "zh": "这鳞甲一一相连，甚至气不得透入其间，",
+        "en": "each is so close to the next that no air can pass between."
+      },
+      {
+        "verse": 17,
+        "zh": "都是互相联络 、 胶结，不能分离。",
+        "en": "They are joined fast to one another; they cling together and cannot be parted."
+      },
+      {
+        "verse": 18,
+        "zh": "他打喷嚏就发出光来；他眼睛好像早晨的光线（原文是眼皮）。",
+        "en": "His snorting throws out flashes of light; his eyes are like the rays of dawn."
+      },
+      {
+        "verse": 19,
+        "zh": "从他口中发出烧著的火把，与飞迸的火星；",
+        "en": "Firebrands stream from his mouth; sparks of fire shoot out."
+      },
+      {
+        "verse": 20,
+        "zh": "从他鼻孔冒出烟来，如烧开的锅和点著的芦苇。",
+        "en": "Smoke pours from his nostrils as from a boiling pot over a fire of reeds."
+      },
+      {
+        "verse": 21,
+        "zh": "他的气点著煤炭，有火焰从他口中发出。",
+        "en": "His breath sets coals ablaze, and flames dart from his mouth."
+      },
+      {
+        "verse": 22,
+        "zh": "他颈项中存著劲力；在他面前的都恐吓蹦跳。",
+        "en": "Strength resides in his neck; dismay goes before him."
+      },
+      {
+        "verse": 23,
+        "zh": "他的肉块互相联络，紧贴其身，不能摇动。",
+        "en": "The folds of his flesh are tightly joined; they are firm and immovable."
+      },
+      {
+        "verse": 24,
+        "zh": "他的心结实如石头，如下磨石那样结实。",
+        "en": "His chest is hard as rock, hard as a lower millstone."
+      },
+      {
+        "verse": 25,
+        "zh": "他一起来，勇士都惊恐，心里慌乱，便都昏迷。",
+        "en": "When he rises up, the mighty are terrified; they retreat before his thrashing."
+      },
+      {
+        "verse": 26,
+        "zh": "人若用刀，用枪，用标枪，用尖枪扎他，都是无用。",
+        "en": "The sword that reaches him has no effect, nor does the spear or the dart or the javelin."
+      },
+      {
+        "verse": 27,
+        "zh": "他以铁为干草，以铜为烂木。",
+        "en": "Iron he treats like straw and bronze like rotten wood."
+      },
+      {
+        "verse": 28,
+        "zh": "箭不能恐吓他使他逃避；弹石在他看为碎秸。",
+        "en": "Arrows do not make him flee; slingstones are like chaff to him."
+      },
+      {
+        "verse": 29,
+        "zh": "棍棒算为禾秸；他嗤笑短枪飕的响声。",
+        "en": "A club seems to him but a piece of straw; he laughs at the rattling of the lance."
+      },
+      {
+        "verse": 30,
+        "zh": "他肚腹下如尖瓦片；他如钉耙经过淤泥。",
+        "en": "His undersides are jagged potsherds, leaving a trail in the mud like a threshing sledge."
+      },
+      {
+        "verse": 31,
+        "zh": "他使深渊开滚如锅，使洋海如锅中的膏油。",
+        "en": "He makes the depths churn like a boiling caldron and stirs up the sea like a pot of ointment."
+      },
+      {
+        "verse": 32,
+        "zh": "他行的路随后发光，令人想深渊如同白发。",
+        "en": "Behind him he leaves a glistening wake; one would think the deep had white hair."
+      },
+      {
+        "verse": 33,
+        "zh": "在地上没有像他造的那样，无所惧怕。",
+        "en": "Nothing on earth is his equal- a creature without fear."
+      },
+      {
+        "verse": 34,
+        "zh": "凡高大的，他无不藐视；他在骄傲的水族上作王。",
+        "en": "He looks down on all that are haughty; he is king over all that are proud.\""
+      }
+    ],
+    "42": [
+      {
+        "verse": 1,
+        "zh": "约伯回答耶和华说：",
+        "en": "Then Job replied to the Lord :"
+      },
+      {
+        "verse": 2,
+        "zh": "我知道，你万事都能做；你的旨意不能拦阻。",
+        "en": "\"I know that you can do all things; no plan of yours can be thwarted."
+      },
+      {
+        "verse": 3,
+        "zh": "谁用无知的言语使你的旨意隐藏呢？我所说的是我不明白的；这些事太奇妙，是我不知道的。",
+        "en": "You asked, 'Who is this that obscures my counsel without knowledge?' Surely I spoke of things I did not understand, things too wonderful for me to know."
+      },
+      {
+        "verse": 4,
+        "zh": "求你听我，我要说话；我问你，求你指示我。",
+        "en": "\"You said, 'Listen now, and I will speak; I will question you, and you shall answer me.'"
+      },
+      {
+        "verse": 5,
+        "zh": "我从前风闻有你，现在亲眼看见你。",
+        "en": "My ears had heard of you but now my eyes have seen you."
+      },
+      {
+        "verse": 6,
+        "zh": "因此我厌恶自己（或译：我的言语），在尘土和炉灰中懊悔。",
+        "en": "Therefore I despise myself and repent in dust and ashes.\""
+      },
+      {
+        "verse": 7,
+        "zh": "耶和华对约伯说话以后，就对提幔人以利法说：我的怒气向你和你两个朋友发作，因为你们议论我不如我的仆人约伯说的是。",
+        "en": "After the Lord had said these things to Job, he said to Eliphaz the Temanite, \"I am angry with you and your two friends, because you have not spoken of me what is right, as my servant Job has."
+      },
+      {
+        "verse": 8,
+        "zh": "现在你们要取七只公牛，七只公羊，到我仆人约伯那里去，为自己献上燔祭，我的仆人约伯就为你们祈祷。我因悦纳他，就不按你们的愚妄办你们。你们议论我，不如我的仆人约伯说的是。",
+        "en": "So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken of me what is right, as my servant Job has.\""
+      },
+      {
+        "verse": 9,
+        "zh": "于是提幔人以利法 、 书亚人比勒达 、 拿玛人琐法照著耶和华所吩咐的去行；耶和华就悦纳约伯。",
+        "en": "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the Lord told them; and the Lord accepted Job's prayer."
+      },
+      {
+        "verse": 10,
+        "zh": "约伯为他的朋友祈祷。耶和华就使约伯从苦境（原文是掳掠）转回，并且耶和华赐给他的比他从前所有的加倍。",
+        "en": "After Job had prayed for his friends, the Lord made him prosperous again and gave him twice as much as he had before."
+      },
+      {
+        "verse": 11,
+        "zh": "约伯的弟兄 、 姊妹，和以先所认识的人都来见他，在他家里一同吃饭；又论到耶和华所降与他的一切灾祸，都为他悲伤安慰他。每人也送他一块银子和一个金环。",
+        "en": "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the Lord had brought upon him, and each one gave him a piece of silver and a gold ring."
+      },
+      {
+        "verse": 12,
+        "zh": "这样，耶和华后来赐福给约伯比先前更多。他有一万四千羊，六千骆驼，一千对牛，一千母驴。",
+        "en": "The Lord blessed the latter part of Job's life more than the first. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys."
+      },
+      {
+        "verse": 13,
+        "zh": "他也有七个儿子，三个女儿。",
+        "en": "And he also had seven sons and three daughters."
+      },
+      {
+        "verse": 14,
+        "zh": "他给长女起名叫耶米玛，次女叫基洗亚，三女叫基连哈朴。",
+        "en": "The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch."
+      },
+      {
+        "verse": 15,
+        "zh": "在那全地的妇女中找不著像约伯的女儿那样美貌。他们的父亲使他们在弟兄中得产业。",
+        "en": "Nowhere in all the land were there found women as beautiful as Job's daughters, and their father granted them an inheritance along with their brothers."
+      },
+      {
+        "verse": 16,
+        "zh": "此后，约伯又活了一百四十年，得见他的儿孙，直到四代。",
+        "en": "After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation."
+      },
+      {
+        "verse": 17,
+        "zh": "这样，约伯年纪老迈，日子满足而死。",
+        "en": "And so he died, old and full of years. var loadAsyncDeferredFacebook = function() { (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); } if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredFacebook, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredFacebook); else window.onload = loadAsyncDeferredFacebook; var loadAsyncDeferredTwitter = function() { var d = document; var s = 'script'; var id = 'twitter-wjs'; var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){ js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);} } if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredTwitter, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredTwitter); else window.onload = loadAsyncDeferredTwitter; var loadAsyncDeferredLinkedin = function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://platform.linkedin.com/in.js'; po.innerHTML = 'lang: en_GB'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); }; if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredLinkedin, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredLinkedin); else window.onload = loadAsyncDeferredLinkedin; (function (w, d, load) { var script, first = d.getElementsByTagName('SCRIPT')[0], n = load.length, i = 0, go = function () { for (i = 0; i Whatsapp ;(function (d, s) { var x = d.createElement(s), s = d.getElementsByTagName(s)[0]; x.src = \"https://www.xing-share.com/plugins/share.js\"; s.parentNode.insertBefore(x, s); })(document, \"script\"); Christ Unite Android App Copyright &copy; 2026. Christ Unite. Contact UsCredits & DisclaimerPrivacy, Report AbuseWaiver & ReleaseCookie Policy Privacy PolicyChristUnite.orgGivingAbout UsHome #sticky-ad { position: fixed; bottom: 0; left: 0; width: 100%; height: 50px; background: #fff; z-index: 9999; text-align: center; box-shadow: 0 -2px 5px rgba(0,0,0,0.1); } body { padding-bottom: 60px; } @media (min-width: 768px) { #sticky-ad ins { width: 468px; height: 60px; } #sticky-ad { height: 60px; } body { padding-bottom: 70px; } } @media (min-width: 1024px) { #sticky-ad { display: none; } } (adsbygoogle = window.adsbygoogle || []).push({}); var s5_multibox_enabled = 1; jQuery(document).ready(function(){ jQuery('.s5mb').each(function(i,z){if(!z.getAttribute('rel'))z.setAttribute('rel','[me]');}); }(jQuery)); var s5mbox = {}; jQuery(document).ready(function($){ initMultibox('.s5mb'); }); function initMultibox(mbClass){ window.s5mbox = new multiBox({ mbClass: mbClass,/*class you need to add links that you want to trigger multiBox with (remember and update CSS files)*/ container: jQuery(document.body),/*where to inject multiBox*/ path: 'https://www.christunite.com/templates/risen_hope/js/multibox/',/*path to mp3player and flvplayer etc*/ useOverlay: true,/*detect overlay setting*/ maxSize: {w:600, h:400},/*max dimensions (width,height) - set to null to disable resizing*/ movieSize: {w:400, h:300}, addDownload: false,/*do you want the files to be downloadable?*/ descClassName: 's5_multibox',/*the class name of the description divs*/ pathToDownloadScript: 'https://www.christunite.com/templates/risen_hope/js/multibox/forceDownload.asp',/*if above is true, specify path to download script (classicASP and ASP.NET versions included)*/ addRollover: false,/*add rollover fade to each multibox link*/ addOverlayIcon: false,/*adds overlay icons to images within multibox links*/ addChain: false,/*cycle through all images fading them out then in*/ recalcTop: true,/*subtract the height of controls panel from top position*/ addTips: false,/*adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)*/ autoOpen: 0/*to auto open a multiBox element on page load change to (1, 2, or 3 etc)*/ }); } Eventx.onResizend(function(){ s5mbox.resize(); }); jQuery(document).ready(function(){ if (jQuery(this).width() > 1025) { window.scrollReveal = new scrollReveal(); } }); Desktop Version @media only screen and (max-width: 1024px) { #bottom-anchor-ad { position: fixed; bottom: 0; left: 0; width: 100%; z-index: 10000; background: #fff; text-align: center; box-shadow: 0 -2px 8px rgba(0,0,0,0.1); } #bottom-anchor-close { position: absolute; right: 10px; top: 5px; font-size: 20px; background: none; border: none; cursor: pointer; } } (adsbygoogle = window.adsbygoogle || []).push({}); × (adsbygoogle = window.adsbygoogle || []).push({});"
+      }
+    ]
+  }
+}
