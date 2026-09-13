@@ -119,6 +119,47 @@ html, body {
   flex-shrink: 0;
 }
 
+/* Read-Aloud Click-to-Speak Switch Button */
+.btn-toggle-speak {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.65rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface-elevated);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+}
+
+.btn-toggle-speak:hover {
+  color: var(--text-main);
+  border-color: var(--border-strong);
+}
+
+.btn-toggle-speak.is-active {
+  background: var(--accent-gold-soft);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  font-weight: 600;
+  box-shadow: 0 1px 6px rgba(179, 135, 56, 0.2);
+}
+
+.btn-toggle-speak .speak-icon-on {
+  display: none;
+}
+.btn-toggle-speak.is-active .speak-icon-off {
+  display: none;
+}
+.btn-toggle-speak.is-active .speak-icon-on {
+  display: inline-block;
+}
+
 .segmented-control button {
   border: none;
   background: transparent;
@@ -214,6 +255,53 @@ html, body {
   border-radius: 6px;
   background: var(--accent-gold-soft);
   transition: all 0.2s;
+}
+
+.subbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.subbar-speak-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.22rem 0.6rem;
+  border-radius: 14px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface-elevated);
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.subbar-speak-btn:hover {
+  border-color: var(--accent-gold);
+  color: var(--text-main);
+}
+
+.subbar-speak-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--text-muted);
+  transition: all 0.2s;
+}
+
+.subbar-speak-btn.is-active {
+  background: var(--accent-gold-soft);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.subbar-speak-btn.is-active .subbar-speak-dot {
+  background: var(--accent-gold);
+  box-shadow: 0 0 6px var(--accent-gold);
 }
 
 .pdf-source-link:hover {
@@ -698,6 +786,49 @@ html, body {
   border-color: var(--accent-gold);
 }
 
+/* Click-to-Speak Enabled/Disabled Visual States */
+body.click-speak-enabled .verse-row {
+  cursor: pointer;
+}
+
+body.click-speak-disabled .verse-row {
+  cursor: default;
+}
+
+body.click-speak-disabled .verse-actions-mini {
+  opacity: 0.15;
+}
+
+body.click-speak-disabled .btn-verse-speak {
+  color: var(--text-muted);
+}
+
+/* Toast Notification */
+.bible-toast {
+  position: fixed;
+  bottom: 5.5rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: var(--bg-surface-elevated);
+  color: var(--text-main);
+  border: 1px solid var(--accent-gold);
+  border-radius: 20px;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+  z-index: 999;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  white-space: nowrap;
+}
+
+.bible-toast.show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+}
+
 /* ==========================================================================
    Comprehensive Mobile & Tablet Responsive Adaptations
    ========================================================================== */
@@ -765,6 +896,16 @@ html, body {
   /* Hide font-scaler buttons on mobile to avoid overcrowding */
   .font-scaler-group {
     display: none;
+  }
+
+  .btn-toggle-speak {
+    padding: 0.28rem 0.45rem;
+    font-size: 0.74rem;
+  }
+
+  .subbar-speak-btn {
+    padding: 0.2rem 0.45rem;
+    font-size: 0.72rem;
   }
 
   .segmented-control button {
@@ -973,6 +1114,9 @@ html, body {
   .btn-nav-book {
     max-width: 130px;
     font-size: 0.78rem;
+  }
+  .btn-toggle-speak .speak-toggle-text {
+    display: none;
   }
   .chapter-pagination button span {
     display: none; /* Icon-only prev/next chapter buttons */

@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   let currentViewMode = localStorage.getItem('bible_view_mode') || 'side'; // 'side' or 'interlinear'
   let currentTheme = localStorage.getItem('bible_theme') || 'parchment'; // 'parchment', 'light', 'dark'
   let fontScale = parseFloat(localStorage.getItem('bible_font_scale')) || 1.0;
+  let isSpeakEnabled = localStorage.getItem('bible_click_speak_enabled') === 'true'; // default false
 
   function formatZhScripture(text) {
     if (!text) return '';
@@ -31,6 +32,10 @@ document.addEventListener('DOMContentLoaded', async () => {
   const btnPrevChapter = document.getElementById('btnPrevChapter');
   const btnNextChapter = document.getElementById('btnNextChapter');
   const currentChapterDisplay = document.getElementById('currentChapterDisplay');
+
+  const btnToggleSpeak = document.getElementById('btnToggleSpeak');
+  const btnSubbarSpeakToggle = document.getElementById('btnSubbarSpeakToggle');
+  const bibleToast = document.getElementById('bibleToast');
 
   const btnViewSide = document.getElementById('btnViewSide');
   const btnViewInterlinear = document.getElementById('btnViewInterlinear');
@@ -58,10 +63,84 @@ document.addEventListener('DOMContentLoaded', async () => {
   const speedSelect = document.getElementById('speedSelect');
   const voiceSelect = document.getElementById('voiceSelect');
 
-  // Apply Theme & Font Scale Initial
+  // Toast Notification Function
+  let toastTimer = null;
+  function showToast(msg) {
+    if (!bibleToast) return;
+    bibleToast.textContent = msg;
+    bibleToast.classList.add('show');
+    if (toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      bibleToast.classList.remove('show');
+    }, 2200);
+  }
+
+  // Speak Switch Controller
+  function setSpeakEnabled(enabled, showFeedback = true) {
+    isSpeakEnabled = !!enabled;
+    localStorage.setItem('bible_click_speak_enabled', isSpeakEnabled);
+
+    if (!isSpeakEnabled && audioPlayer.isPlaying) {
+      audioPlayer.stop();
+    }
+
+    // Update Header Button
+    if (btnToggleSpeak) {
+      if (isSpeakEnabled) {
+        btnToggleSpeak.classList.add('is-active');
+        const textSpan = btnToggleSpeak.querySelector('.speak-toggle-text');
+        if (textSpan) textSpan.textContent = '点读: 开';
+        btnToggleSpeak.title = '点按朗读开关：当前已开启，点击经文句子即可朗读。点击可关闭';
+      } else {
+        btnToggleSpeak.classList.remove('is-active');
+        const textSpan = btnToggleSpeak.querySelector('.speak-toggle-text');
+        if (textSpan) textSpan.textContent = '点读: 关';
+        btnToggleSpeak.title = '点按朗读开关：当前已关闭，点击经文不会触发朗读。点击可开启';
+      }
+    }
+
+    // Update Subbar Button
+    if (btnSubbarSpeakToggle) {
+      if (isSpeakEnabled) {
+        btnSubbarSpeakToggle.classList.add('is-active');
+        const textSpan = btnSubbarSpeakToggle.querySelector('.subbar-speak-text');
+        if (textSpan) textSpan.textContent = '点读: 开';
+      } else {
+        btnSubbarSpeakToggle.classList.remove('is-active');
+        const textSpan = btnSubbarSpeakToggle.querySelector('.subbar-speak-text');
+        if (textSpan) textSpan.textContent = '点读: 关';
+      }
+    }
+
+    // Update Body visual mode
+    if (isSpeakEnabled) {
+      document.body.classList.add('click-speak-enabled');
+      document.body.classList.remove('click-speak-disabled');
+      if (showFeedback) showToast('🔊 点读已开启：点击任意单行句子即可朗读');
+    } else {
+      document.body.classList.add('click-speak-disabled');
+      document.body.classList.remove('click-speak-enabled');
+      if (showFeedback) showToast('🔇 点读已关闭：静音阅读模式，点击句子不会发声');
+    }
+  }
+
+  if (btnToggleSpeak) {
+    btnToggleSpeak.addEventListener('click', () => {
+      setSpeakEnabled(!isSpeakEnabled, true);
+    });
+  }
+
+  if (btnSubbarSpeakToggle) {
+    btnSubbarSpeakToggle.addEventListener('click', () => {
+      setSpeakEnabled(!isSpeakEnabled, true);
+    });
+  }
+
+  // Apply Theme, Font Scale, View Mode & Speak Mode Initial
   applyTheme(currentTheme);
   applyFontScale(fontScale);
   applyViewMode(currentViewMode);
+  setSpeakEnabled(isSpeakEnabled, false);
 
   // Initialize Data
   await dataManager.init();
@@ -108,6 +187,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Audio Dock Controls
   btnDockPlay.addEventListener('click', () => {
+    if (!isSpeakEnabled && !audioPlayer.isPlaying) {
+      setSpeakEnabled(true, false);
+    }
     audioPlayer.togglePlayPause();
   });
 
@@ -201,11 +283,18 @@ document.addEventListener('DOMContentLoaded', async () => {
       const speakBtn = row.querySelector('.btn-verse-speak');
       speakBtn.addEventListener('click', (e) => {
         e.stopPropagation();
+        if (!isSpeakEnabled) {
+          showToast('🔇 朗读开关当前已关闭，点击顶部「点读: 关」即可开启');
+          return;
+        }
         audioPlayer.speakSingleVerse(v.verse);
       });
 
       // Click row to read this single verse
       row.addEventListener('click', () => {
+        if (!isSpeakEnabled) {
+          return;
+        }
         audioPlayer.speakSingleVerse(v.verse);
       });
 
