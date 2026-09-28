@@ -84,7 +84,8 @@ def parse_niv_chapters(html):
     body = html[start:]
 
     # Match red chapter marker: <strong><span ... color: #cc0000;>(\d+)</span></strong>
-    chap_regex = re.compile(r"<strong><span[^>]*color:\s*#cc0000;?\"?>\s*(\d+)\s*</span></strong>", re.IGNORECASE)
+    # Some chapters wrap the number in an anchor: <a id="John3" title="3">3</a>
+    chap_regex = re.compile(r"<strong><span[^>]*color:\s*#cc0000;?\"?>\s*(?:<a[^>]*>)?\s*(\d+)\s*(?:</a>)?\s*</span></strong>", re.IGNORECASE)
     splits = chap_regex.split(body)
     
     result = {} # chapter_num: { verse_num: text }
