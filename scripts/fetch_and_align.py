@@ -80,7 +80,7 @@ def parse_niv_chapters(html):
                 continue
             c_content = splits[i+1]
             # Verse marker: <sup><span ... color: #3365cc;>(\d+)</span></sup>
-            v_splits = re.split(r"<sup><span[^>]*color:\s*#3365cc;?\"?>\s*(\d+)\s*</span></sup>", c_content)
+            v_splits = re.split(r"<sup><span[^>]*color:\s*#3365cc;?\"?>\s*(?:<a[^>]*>)?\s*(\d+)\s*(?:</a>)?\s*</span></sup>", c_content)
             verses = {}
             if len(v_splits) > 0:
                 first_verse = clean_text(v_splits[0])

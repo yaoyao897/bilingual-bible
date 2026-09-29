@@ -1338,7 +1338,7 @@
       {
         "verse": 16,
         "zh": "有耳可听的，就应当听！）",
-        "en": ""
+        "en": "If anyone has ears to hear, let him hear."
       },
       {
         "verse": 17,
@@ -1852,22 +1852,22 @@
       {
         "verse": 43,
         "zh": "倘若你一只手叫你跌倒，就把他砍下来；",
-        "en": "If your hand causes you to sin, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out."
+        "en": "If your hand causes you to sin, cut it off."
       },
       {
         "verse": 44,
         "zh": "你缺了肢体进入永生，强如有两只手落到地狱，入那不灭的火里去。",
-        "en": ""
+        "en": "It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out."
       },
       {
         "verse": 45,
         "zh": "倘若你一只脚叫你跌倒，就把他砍下来；",
-        "en": "And if your foot causes you to sin, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell."
+        "en": "And if your foot causes you to sin, cut it off."
       },
       {
         "verse": 46,
         "zh": "你瘸腿进入永生，强如有两只脚被丢在地狱里。",
-        "en": ""
+        "en": "It is better for you to enter life crippled than to have two feet and be thrown into hell."
       },
       {
         "verse": 47,
@@ -2281,7 +2281,7 @@
       {
         "verse": 26,
         "zh": "你们若不饶恕人，你们在天上的父也不饶恕你们的过犯。（有古卷无此节）",
-        "en": ""
+        "en": "But if you do not forgive, neither will your Father who is in heaven forgive your sins."
       },
       {
         "verse": 27,
@@ -3229,7 +3229,7 @@
       {
         "verse": 28,
         "zh": "这就应了经上的话说：他被列在罪犯之中。）",
-        "en": ""
+        "en": "And the scripture was fulfilled which says, 'He was counted with the lawless ones.'"
       },
       {
         "verse": 29,
@@ -3426,7 +3426,7 @@
       {
         "verse": 20,
         "zh": "门徒出去，到处宣传福音。主和他们同工，用神迹随著，证实所传的道。阿们！",
-        "en": "Then the disciples went out and preached everywhere, and the Lord worked with them and confirmed his word by the signs that accompanied it. var loadAsyncDeferredFacebook = function() { (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); } if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredFacebook, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredFacebook); else window.onload = loadAsyncDeferredFacebook; var loadAsyncDeferredTwitter = function() { var d = document; var s = 'script'; var id = 'twitter-wjs'; var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){ js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);} } if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredTwitter, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredTwitter); else window.onload = loadAsyncDeferredTwitter; var loadAsyncDeferredLinkedin = function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://platform.linkedin.com/in.js'; po.innerHTML = 'lang: en_GB'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); }; if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredLinkedin, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredLinkedin); else window.onload = loadAsyncDeferredLinkedin; (function (w, d, load) { var script, first = d.getElementsByTagName('SCRIPT')[0], n = load.length, i = 0, go = function () { for (i = 0; i Whatsapp ;(function (d, s) { var x = d.createElement(s), s = d.getElementsByTagName(s)[0]; x.src = \"https://www.xing-share.com/plugins/share.js\"; s.parentNode.insertBefore(x, s); })(document, \"script\"); Christ Unite Android App Copyright &copy; 2026. Christ Unite. Contact UsCredits & DisclaimerPrivacy, Report AbuseWaiver & ReleaseCookie Policy Privacy PolicyChristUnite.orgGivingAbout UsHome #sticky-ad { position: fixed; bottom: 0; left: 0; width: 100%; height: 50px; background: #fff; z-index: 9999; text-align: center; box-shadow: 0 -2px 5px rgba(0,0,0,0.1); } body { padding-bottom: 60px; } @media (min-width: 768px) { #sticky-ad ins { width: 468px; height: 60px; } #sticky-ad { height: 60px; } body { padding-bottom: 70px; } } @media (min-width: 1024px) { #sticky-ad { display: none; } } (adsbygoogle = window.adsbygoogle || []).push({}); var s5_multibox_enabled = 1; jQuery(document).ready(function(){ jQuery('.s5mb').each(function(i,z){if(!z.getAttribute('rel'))z.setAttribute('rel','[me]');}); }(jQuery)); var s5mbox = {}; jQuery(document).ready(function($){ initMultibox('.s5mb'); }); function initMultibox(mbClass){ window.s5mbox = new multiBox({ mbClass: mbClass,/*class you need to add links that you want to trigger multiBox with (remember and update CSS files)*/ container: jQuery(document.body),/*where to inject multiBox*/ path: 'https://www.christunite.com/templates/risen_hope/js/multibox/',/*path to mp3player and flvplayer etc*/ useOverlay: true,/*detect overlay setting*/ maxSize: {w:600, h:400},/*max dimensions (width,height) - set to null to disable resizing*/ movieSize: {w:400, h:300}, addDownload: false,/*do you want the files to be downloadable?*/ descClassName: 's5_multibox',/*the class name of the description divs*/ pathToDownloadScript: 'https://www.christunite.com/templates/risen_hope/js/multibox/forceDownload.asp',/*if above is true, specify path to download script (classicASP and ASP.NET versions included)*/ addRollover: false,/*add rollover fade to each multibox link*/ addOverlayIcon: false,/*adds overlay icons to images within multibox links*/ addChain: false,/*cycle through all images fading them out then in*/ recalcTop: true,/*subtract the height of controls panel from top position*/ addTips: false,/*adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)*/ autoOpen: 0/*to auto open a multiBox element on page load change to (1, 2, or 3 etc)*/ }); } Eventx.onResizend(function(){ s5mbox.resize(); }); jQuery(document).ready(function(){ if (jQuery(this).width() > 1025) { window.scrollReveal = new scrollReveal(); } }); Desktop Version @media only screen and (max-width: 1024px) { #bottom-anchor-ad { position: fixed; bottom: 0; left: 0; width: 100%; z-index: 10000; background: #fff; text-align: center; box-shadow: 0 -2px 8px rgba(0,0,0,0.1); } #bottom-anchor-close { position: absolute; right: 10px; top: 5px; font-size: 20px; background: none; border: none; cursor: pointer; } } (adsbygoogle = window.adsbygoogle || []).push({}); × (adsbygoogle = window.adsbygoogle || []).push({});"
+        "en": "Then the disciples went out and preached everywhere, and the Lord worked with them and confirmed his word by the signs that accompanied it. var loadAsyncDeferredFacebook = function() { (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); } if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredFacebook, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredFacebook); else window.onload = loadAsyncDeferredFacebook; var loadAsyncDeferredTwitter = function() { var d = document; var s = 'script'; var id = 'twitter-wjs'; var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){ js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);} } if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredTwitter, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredTwitter); else window.onload = loadAsyncDeferredTwitter; var loadAsyncDeferredLinkedin = function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://platform.linkedin.com/in.js'; po.innerHTML = 'lang: en_GB'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); }; if (window.addEventListener) window.addEventListener(\"load\", loadAsyncDeferredLinkedin, false); else if (window.attachEvent) window.attachEvent(\"onload\", loadAsyncDeferredLinkedin); else window.onload = loadAsyncDeferredLinkedin; (function (w, d, load) { var script, first = d.getElementsByTagName('SCRIPT')[0], n = load.length, i = 0, go = function () { for (i = 0; i Whatsapp ;(function (d, s) { var x = d.createElement(s), s = d.getElementsByTagName(s)[0]; x.src = \"https://www.xing-share.com/plugins/share.js\"; s.parentNode.insertBefore(x, s); })(document, \"script\"); Christ Unite Android App Copyright &copy; 2026. Christ Unite. Contact UsCredits & DisclaimerPrivacy, Report AbuseWaiver & ReleaseCookie Policy Privacy PolicyChristUnite.orgGivingAbout UsHome #sticky-ad { position: fixed; bottom: 0; left: 0; width:100%; background:#fff; z-index:9999; text-align:center; box-shadow:0 -2px 5px rgba(0,0,0,.15); } body { padding-bottom:70px; } @media (min-width:1024px) { #sticky-ad { display:none; } body { padding-bottom:0; } } (adsbygoogle = window.adsbygoogle || []).push({}); var s5_multibox_enabled = 1; jQuery(document).ready(function(){ jQuery('.s5mb').each(function(i,z){if(!z.getAttribute('rel'))z.setAttribute('rel','[me]');}); }(jQuery)); var s5mbox = {}; jQuery(document).ready(function($){ initMultibox('.s5mb'); }); function initMultibox(mbClass){ window.s5mbox = new multiBox({ mbClass: mbClass,/*class you need to add links that you want to trigger multiBox with (remember and update CSS files)*/ container: jQuery(document.body),/*where to inject multiBox*/ path: 'https://www.christunite.com/templates/risen_hope/js/multibox/',/*path to mp3player and flvplayer etc*/ useOverlay: true,/*detect overlay setting*/ maxSize: {w:600, h:400},/*max dimensions (width,height) - set to null to disable resizing*/ movieSize: {w:400, h:300}, addDownload: false,/*do you want the files to be downloadable?*/ descClassName: 's5_multibox',/*the class name of the description divs*/ pathToDownloadScript: 'https://www.christunite.com/templates/risen_hope/js/multibox/forceDownload.asp',/*if above is true, specify path to download script (classicASP and ASP.NET versions included)*/ addRollover: false,/*add rollover fade to each multibox link*/ addOverlayIcon: false,/*adds overlay icons to images within multibox links*/ addChain: false,/*cycle through all images fading them out then in*/ recalcTop: true,/*subtract the height of controls panel from top position*/ addTips: false,/*adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)*/ autoOpen: 0/*to auto open a multiBox element on page load change to (1, 2, or 3 etc)*/ }); } Eventx.onResizend(function(){ s5mbox.resize(); }); jQuery(document).ready(function(){ if (jQuery(this).width() > 1025) { window.scrollReveal = new scrollReveal(); } }); Desktop Version @media only screen and (max-width: 1024px) { #bottom-anchor-ad { position: fixed; bottom: 0; left: 0; width: 100%; z-index: 10000; background: #fff; text-align: center; box-shadow: 0 -2px 8px rgba(0,0,0,0.1); } #bottom-anchor-close { position: absolute; right: 10px; top: 5px; font-size: 20px; background: none; border: none; cursor: pointer; } } (adsbygoogle = window.adsbygoogle || []).push({}); × (adsbygoogle = window.adsbygoogle || []).push({});"
       }
     ]
   }
