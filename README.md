@@ -10,6 +10,7 @@
 2. **专业双语对照排版**：
    - **左右双栏对照（Side-by-Side）**：经文逐节精准水平对齐，适合大屏深度比对研读。
    - **上下逐节穿插（Interlinear）**：中文在上、英文在下紧随其后，适合沉浸式逐句精读。
+   - **中文拼音大字版（Pinyin / Senior）**：仅显示中文，逐字上标拼音（多音字按语境正确处理），默认更大字号并配有右下角悬浮「放大 / 缩小」按钮，字号可在更大范围内调节（1.0x–2.8x），适合长辈阅读。
 3. **英文智能语音朗读 (Audio Read-Aloud)**：
    - 采用 Web Speech API 零依赖本地运行，无缝调用系统高质量英文语音（Google US English, Samantha, Daniel 等）。
    - **单节点播**：点击任意经文右侧小喇叭即可精准朗读该句。
@@ -37,6 +38,9 @@ python3 -m http.server 8123
 ```
 打开浏览器访问：`http://localhost:8123`
 
+### 方法 3：直接双击打开
+直接双击 `index.html` 也可阅读全部经文（数据会通过 `<script>` 标签自动降级加载）。
+
 ## 📂 项目结构
 ```text
 bilingual-bible/
@@ -49,8 +53,10 @@ bilingual-bible/
 │   ├── audio-player.js   # 英文朗读引擎（Web Speech API 与跟随高亮）
 │   └── bible-data.js     # 数据管理与缓存层
 ├── data/
-│   ├── books-meta.json   # 66卷圣经完整元数据与 PDF 链接
-│   └── chapters/         # 双语对齐的章节经文（创世记、约翰福音、马太福音、诗篇、罗马书等）
+│   ├── books-meta.json   # 66卷圣经完整元数据与 PDF 链接（另有同名 .js 供 file:// 加载）
+│   └── chapters/         # 双语对齐的章节经文（.json 供 fetch；同名 .js 供 file:// script 标签加载）
 └── scripts/
-    └── fetch_and_align.py# 自动从 christunite 抓取并与和合本对齐的脚本
+    ├── fetch_and_align.py# 自动从 christunite 抓取并与和合本对齐的脚本
+    ├── add_pinyin.py     # 为每条中文经文生成逐字拼音 py 字段（依赖 pypinyin，venv 在 scripts/.venv）
+    └── gen_js_data.py    # 由 *.json 生成可供 <script> 标签加载的同名 .js
 ```

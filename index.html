@@ -66,6 +66,14 @@
           </svg>
           穿插
         </button>
+        <button id="btnViewPinyin" title="中文拼音大字版：仅显示中文，逐字标注拼音，适合长辈阅读">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 7V5h16v2"></path>
+            <path d="M12 5v14"></path>
+            <path d="M9 19h6"></path>
+          </svg>
+          拼音
+        </button>
       </div>
 
       <!-- Font Size Scaler (Hidden on narrow mobile) -->
@@ -207,6 +215,20 @@
     </div>
   </div>
 
+  <!-- Floating Large Font Zoom Dock (Pinyin / Senior Mode only) -->
+  <div class="pinyin-zoom-dock" id="pinyinZoomDock" aria-label="字号放大缩小">
+    <button class="zoom-btn" id="btnZoomInBig" title="放大字体">
+      <span class="zoom-glyph">字</span>
+      <span class="zoom-sign">＋</span>
+      <span class="zoom-label">放大</span>
+    </button>
+    <button class="zoom-btn" id="btnZoomOutBig" title="缩小字体">
+      <span class="zoom-glyph">字</span>
+      <span class="zoom-sign">－</span>
+      <span class="zoom-label">缩小</span>
+    </button>
+  </div>
+
   <!-- Drawer: Book & Chapter Navigator -->
   <div class="drawer-backdrop" id="drawerBackdrop"></div>
   <aside class="books-drawer" id="booksDrawer" aria-label="圣经卷目与章节选择">
@@ -238,6 +260,7 @@
   <div class="bible-toast" id="bibleToast"></div>
 
   <!-- Scripts -->
+  <script src="data/books-meta.js"></script>
   <script src="js/bible-data.js"></script>
   <script src="js/audio-player.js"></script>
   <script src="js/app.js"></script>

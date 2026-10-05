@@ -10,10 +10,49 @@ document.addEventListener('DOMContentLoaded', async () => {
   // App State
   let currentBookData = null;
   let currentVerses = [];
-  let currentViewMode = localStorage.getItem('bible_view_mode') || 'side'; // 'side' or 'interlinear'
+  let currentViewMode = localStorage.getItem('bible_view_mode') || 'side'; // 'side', 'interlinear' or 'pinyin'
   let currentTheme = localStorage.getItem('bible_theme') || 'parchment'; // 'parchment', 'light', 'dark'
   let fontScale = parseFloat(localStorage.getItem('bible_font_scale')) || 1.0;
+  let fontScalePinyin = parseFloat(localStorage.getItem('bible_font_scale_pinyin')) || 1.4; // 拼音大字版默认更大
   let isSpeakEnabled = localStorage.getItem('bible_click_speak_enabled') === 'true'; // default false
+
+  const FONT_LIMITS = {
+    default: { min: 0.8, max: 1.6, step: 0.1 },
+    pinyin:  { min: 1.0, max: 2.8, step: 0.2 }
+  };
+  const CJK_PUNCT_RE = /[一-龥，。！？；：“”‘’（）《》]/;
+  const HAN_RE = /[㐀-䶿一-鿿]/;
+
+  function escapeHtml(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  // 生成「汉字 + 上标拼音」的 ruby HTML。py 为 | 分隔且与 zh 逐字对齐（由 scripts/add_pinyin.py 生成）。
+  function buildPinyinHtml(zh, py) {
+    if (!zh) return '（待补充）';
+    const chars = Array.from(zh); // 按码点迭代，与 Python len() 对齐
+    const tokenArr = typeof py === 'string' ? py.split('|') : (Array.isArray(py) ? py : null);
+    const tokens = (tokenArr && tokenArr.length === chars.length) ? tokenArr : null;
+    let html = '';
+    for (let i = 0; i < chars.length; i++) {
+      const ch = chars[i];
+      if (/\s/.test(ch)) {
+        // 与 formatZhScripture 一致：仅去掉夹在中文字符/标点之间的空白
+        const prev = chars.slice(0, i).reverse().find(c => !/\s/.test(c));
+        const next = chars.slice(i + 1).find(c => !/\s/.test(c));
+        if (prev && next && CJK_PUNCT_RE.test(prev) && CJK_PUNCT_RE.test(next)) continue;
+        html += ' ';
+        continue;
+      }
+      const pyToken = tokens ? tokens[i] : null;
+      if (pyToken && pyToken !== ch && HAN_RE.test(ch)) {
+        html += `<ruby class="py-ruby">${escapeHtml(ch)}<rt>${escapeHtml(pyToken)}</rt></ruby>`;
+      } else {
+        html += escapeHtml(ch);
+      }
+    }
+    return html.trim();
+  }
 
   function formatZhScripture(text) {
     if (!text) return '';
@@ -39,10 +78,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   const btnViewSide = document.getElementById('btnViewSide');
   const btnViewInterlinear = document.getElementById('btnViewInterlinear');
+  const btnViewPinyin = document.getElementById('btnViewPinyin');
 
   const btnTheme = document.getElementById('btnTheme');
   const btnFontDec = document.getElementById('btnFontDec');
   const btnFontInc = document.getElementById('btnFontInc');
+  const btnZoomInBig = document.getElementById('btnZoomInBig');
+  const btnZoomOutBig = document.getElementById('btnZoomOutBig');
 
   // Drawer
   const drawerBackdrop = document.getElementById('drawerBackdrop');
@@ -136,9 +178,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
-  // Apply Theme, Font Scale, View Mode & Speak Mode Initial
+  // Apply Theme, View Mode & Speak Mode Initial
+  // （applyViewMode 内部会按当前模式应用对应的字号比例）
   applyTheme(currentTheme);
-  applyFontScale(fontScale);
   applyViewMode(currentViewMode);
   setSpeakEnabled(isSpeakEnabled, false);
 
@@ -233,7 +275,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Update Hero Titles
     bookHeroTitle.textContent = `${dataManager.currentBook.name_zh} 第 ${cNum} 章`;
     bookHeroEn.textContent = `${dataManager.currentBook.name_en} Chapter ${cNum} (NIV 1984)`;
-    chapterHeroPill.textContent = `Chapter ${cNum}`;
+    chapterHeroPill.textContent = currentViewMode === 'pinyin' ? `第 ${cNum} 章` : `Chapter ${cNum}`;
 
     // PDF Source link
     if (dataManager.currentBook.pdf) {
@@ -248,6 +290,25 @@ document.addEventListener('DOMContentLoaded', async () => {
     scriptureContainer.innerHTML = '';
     if (currentVerses.length === 0) {
       scriptureContainer.innerHTML = `<div style="text-align:center; padding: 3rem; color: var(--text-muted);">本章节正在从云端加载或整理中，请选择其他章节...</div>`;
+      return;
+    }
+
+    // 中文拼音大字版：仅渲染中文，逐字上标拼音
+    if (currentViewMode === 'pinyin') {
+      currentVerses.forEach((v) => {
+        const row = document.createElement('div');
+        row.className = 'verse-row-pinyin';
+        row.id = `verse-${v.verse}`;
+        row.dataset.verse = v.verse;
+        row.innerHTML = `
+          <span class="verse-number">${v.verse}</span>
+          <span class="verse-text pinyin-text">${buildPinyinHtml(v.zh, v.py)}</span>
+        `;
+        scriptureContainer.appendChild(row);
+      });
+      btnPrevChapter.disabled = cNum <= 1;
+      btnNextChapter.disabled = cNum >= (dataManager.currentBook.chapters || 50);
+      currentChapterDisplay.textContent = `${cNum} / ${dataManager.currentBook.chapters || 1}`;
       return;
     }
 
@@ -371,7 +432,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
   });
 
-  // View Mode: Side by Side vs Interlinear
+  // View Mode: Side by Side vs Interlinear vs Pinyin (Chinese-only, senior)
   btnViewSide.addEventListener('click', () => {
     applyViewMode('side');
   });
@@ -380,18 +441,34 @@ document.addEventListener('DOMContentLoaded', async () => {
     applyViewMode('interlinear');
   });
 
+  btnViewPinyin.addEventListener('click', () => {
+    applyViewMode('pinyin');
+    showToast('拼音大字版：仅显示中文并逐字标注拼音，右下角可放大缩小字体');
+  });
+
+  function currentFontScale() {
+    return currentViewMode === 'pinyin' ? fontScalePinyin : fontScale;
+  }
+
   function applyViewMode(mode) {
     currentViewMode = mode;
     localStorage.setItem('bible_view_mode', mode);
-    if (mode === 'side') {
-      scriptureContainer.className = 'scripture-view-side';
-      btnViewSide.classList.add('active');
-      btnViewInterlinear.classList.remove('active');
+    btnViewSide.classList.toggle('active', mode === 'side');
+    btnViewInterlinear.classList.toggle('active', mode === 'interlinear');
+    btnViewPinyin.classList.toggle('active', mode === 'pinyin');
+
+    if (mode === 'pinyin') {
+      scriptureContainer.className = 'scripture-view-pinyin';
+      document.body.classList.add('mode-pinyin');
+      if (audioPlayer.isPlaying) audioPlayer.stop();
     } else {
-      scriptureContainer.className = 'scripture-view-interlinear';
-      btnViewInterlinear.classList.add('active');
-      btnViewSide.classList.remove('active');
+      scriptureContainer.className = mode === 'interlinear' ? 'scripture-view-interlinear' : 'scripture-view-side';
+      document.body.classList.remove('mode-pinyin');
     }
+
+    // 各模式使用独立的字号记忆
+    document.documentElement.style.setProperty('--font-scale-ratio', currentFontScale());
+    if (currentBookData) renderCurrentChapter();
   }
 
   // Themes: Parchment -> Light -> Dark -> Parchment
@@ -412,23 +489,33 @@ document.addEventListener('DOMContentLoaded', async () => {
     btnTheme.title = `当前主题：${themeTitles[theme]}（点击切换）`;
   }
 
-  // Font Scale
-  btnFontDec.addEventListener('click', () => {
-    if (fontScale > 0.8) {
-      applyFontScale(fontScale - 0.1);
+  // Font Scale (拼音版使用独立的更大调节范围)
+  function adjustFont(dir) {
+    const lim = currentViewMode === 'pinyin' ? FONT_LIMITS.pinyin : FONT_LIMITS.default;
+    const cur = currentFontScale();
+    const next = Math.min(lim.max, Math.max(lim.min, cur + dir * lim.step));
+    if (next !== cur) {
+      applyFontScale(next);
+    } else {
+      showToast(dir > 0 ? '已是最大字号' : '已是最小字号');
     }
-  });
+  }
 
-  btnFontInc.addEventListener('click', () => {
-    if (fontScale < 1.6) {
-      applyFontScale(fontScale + 0.1);
-    }
-  });
+  btnFontDec.addEventListener('click', () => adjustFont(-1));
+  btnFontInc.addEventListener('click', () => adjustFont(1));
+  if (btnZoomOutBig) btnZoomOutBig.addEventListener('click', () => adjustFont(-1));
+  if (btnZoomInBig) btnZoomInBig.addEventListener('click', () => adjustFont(1));
 
   function applyFontScale(scale) {
-    fontScale = Math.round(scale * 10) / 10;
-    localStorage.setItem('bible_font_scale', fontScale);
-    document.documentElement.style.setProperty('--font-scale-ratio', fontScale);
+    const rounded = Math.round(scale * 10) / 10;
+    if (currentViewMode === 'pinyin') {
+      fontScalePinyin = rounded;
+      localStorage.setItem('bible_font_scale_pinyin', fontScalePinyin);
+    } else {
+      fontScale = rounded;
+      localStorage.setItem('bible_font_scale', fontScale);
+    }
+    document.documentElement.style.setProperty('--font-scale-ratio', rounded);
   }
 
   // Drawer Interactions

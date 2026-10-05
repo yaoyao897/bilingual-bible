@@ -2,3 +2,4 @@
 *.log
 scratch/
 cuv_raw.json
+scripts/.venv/

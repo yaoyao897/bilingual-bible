@@ -470,6 +470,110 @@ html, body {
   color: var(--text-muted);
 }
 
+/* Scripture Layout: Pinyin Large-Print Mode (中文拼音大字版) */
+.scripture-view-pinyin {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.verse-row-pinyin {
+  padding: 0.9rem 1.25rem;
+  border-radius: 10px;
+  transition: all 0.25s ease;
+  border: 1px solid transparent;
+}
+
+.verse-row-pinyin:hover {
+  background: var(--bg-surface-elevated);
+}
+
+.verse-row-pinyin.is-reading {
+  background: var(--audio-playing-bg) !important;
+  border-color: var(--audio-playing-border) !important;
+  box-shadow: 0 0 20px var(--audio-playing-glow), 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.verse-row-pinyin .verse-number {
+  min-width: calc(1.65rem * var(--font-scale-ratio));
+  height: calc(1.65rem * var(--font-scale-ratio));
+  font-size: calc(0.78rem * var(--font-scale-ratio));
+  margin-right: 0.7rem;
+}
+
+/* 拼音版隐藏英文相关界面元素 */
+body.mode-pinyin .scripture-header-row,
+body.mode-pinyin .audio-dock-container,
+body.mode-pinyin .btn-toggle-speak,
+body.mode-pinyin .subbar-speak-btn,
+body.mode-pinyin .pdf-source-link,
+body.mode-pinyin .book-title-hero .english-subhead {
+  display: none !important;
+}
+
+/* Floating Large Font Zoom Dock (Pinyin / Senior Mode) */
+.pinyin-zoom-dock {
+  position: fixed;
+  right: 1.4rem;
+  bottom: 5.5rem;
+  z-index: 150;
+  display: none;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+body.mode-pinyin .pinyin-zoom-dock {
+  display: flex;
+}
+
+.zoom-btn {
+  width: 4.4rem;
+  height: 4.4rem;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent-gold);
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: var(--shadow-lg), 0 4px 14px rgba(179, 135, 56, 0.35);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.zoom-btn:hover {
+  transform: scale(1.07);
+  background: var(--accent-gold-hover);
+}
+
+.zoom-btn:active {
+  transform: scale(0.97);
+}
+
+.zoom-btn .zoom-glyph {
+  font-family: var(--font-serif-zh);
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.zoom-btn .zoom-sign {
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-top: -0.1rem;
+}
+
+.zoom-btn .zoom-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin-top: 0.1rem;
+}
+
 /* Floating Audio Player Control Bar */
 .audio-dock-container {
   position: fixed;
@@ -1103,6 +1207,22 @@ body.click-speak-disabled .btn-verse-speak {
 
   .voice-selector {
     display: none; /* Hide heavy system voice dropdown on mobile */
+  }
+
+  /* Pinyin mode mobile: compact zoom dock */
+  .pinyin-zoom-dock {
+    right: 0.7rem;
+    bottom: 1.4rem;
+    gap: 0.6rem;
+  }
+
+  .zoom-btn {
+    width: 3.6rem;
+    height: 3.6rem;
+  }
+
+  .verse-row-pinyin {
+    padding: 0.7rem 0.85rem;
   }
 }
 
