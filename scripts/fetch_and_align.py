@@ -58,11 +58,19 @@ def parse_niv_chapters(html):
         return {}
     body = html[start:]
 
+    # 正文之后是分享组件和延迟加载的社交/广告脚本，先剔除再解析，
+    # 否则 script/style 的文本内容会混入最后一节经文
+    body = body.split("Share With Others", 1)[0]
+    body = re.sub(r"<(script|style)\b[^>]*>.*?</\1>", "", body, flags=re.IGNORECASE | re.DOTALL)
+    body = re.sub(r"<(script|style)\b[^>]*>.*", "", body, flags=re.IGNORECASE | re.DOTALL)
+
     def clean_text(s):
         s = re.sub(r"<[^>]+>", "", s)
-        s = re.sub(r"&nbsp;", " ", s)
+        # 先解码 &amp;（源站存在 &amp;nbsp; 这类双重编码实体）
         s = re.sub(r"&amp;", "&", s)
+        s = re.sub(r"&nbsp;", " ", s)
         s = re.sub(r"&quot;", "\"", s)
+        s = re.sub(r"&[lg]t;", "", s)
         return " ".join(s.split()).strip()
 
     # Split by Chapter marker: <strong><span ... color: #cc0000;>(\d+)</span></strong>

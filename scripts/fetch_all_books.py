@@ -42,15 +42,19 @@ SLUG_MAP = {
 
 def clean_text(s):
     s = re.sub(r"<[^>]+>", "", s)
-    s = re.sub(r"&nbsp;", " ", s)
+    # 先解码 &amp;（源站存在 &amp;nbsp; 这类双重编码实体）
     s = re.sub(r"&amp;", "&", s)
+    s = re.sub(r"&nbsp;", " ", s)
     s = re.sub(r"&quot;", "\"", s)
     s = re.sub(r"&#39;", "'", s)
+    s = re.sub(r"&[lg]t;", "", s)
     return " ".join(s.split()).strip()
 
 def clean_zh_text(s):
     if not s:
         return ""
+    # CUV 源数据个别经文带有残留的花括号标记
+    s = s.replace("{", "").replace("}", "")
     # Convert to Simplified Chinese
     simplified = zhconv.convert(s, 'zh-cn')
     # Clean redundant spaces between Chinese characters while keeping natural pauses
@@ -82,6 +86,12 @@ def parse_niv_chapters(html):
     if start == -1:
         return {}
     body = html[start:]
+
+    # 正文之后是分享组件和延迟加载的社交/广告脚本，先剔除再解析，
+    # 否则 script/style 的文本内容会混入最后一节经文
+    body = body.split("Share With Others", 1)[0]
+    body = re.sub(r"<(script|style)\b[^>]*>.*?</\1>", "", body, flags=re.IGNORECASE | re.DOTALL)
+    body = re.sub(r"<(script|style)\b[^>]*>.*", "", body, flags=re.IGNORECASE | re.DOTALL)
 
     # Match red chapter marker: <strong><span ... color: #cc0000;>(\d+)</span></strong>
     # Some chapters wrap the number in an anchor: <a id="John3" title="3">3</a>
