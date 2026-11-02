@@ -121,6 +121,14 @@
         <span class="subbar-speak-text">点读: 关</span>
       </button>
 
+      <!-- Bookmark Toggle: save current chapter -->
+      <button class="subbar-bookmark-btn" id="btnBookmark" title="收藏当前章节为书签">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+        </svg>
+        <span class="subbar-bookmark-text">收藏</span>
+      </button>
+
       <!-- PDF Source badge from christunite.com -->
       <a id="pdfSourceLink" class="pdf-source-link" href="#" target="_blank" rel="noopener noreferrer" title="查看对应 1984 版 PDF">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -249,6 +257,7 @@
     <div class="drawer-tabs">
       <button class="drawer-tab-btn active" id="drawerTabOT">旧约 (Old Testament)</button>
       <button class="drawer-tab-btn" id="drawerTabNT">新约 (New Testament)</button>
+      <button class="drawer-tab-btn" id="drawerTabBM">书签</button>
     </div>
 
     <div class="drawer-book-list" id="drawerBookList">

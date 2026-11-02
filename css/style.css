@@ -309,6 +309,40 @@ html, body {
   background: rgba(179, 135, 56, 0.2);
 }
 
+/* Bookmark Toggle Button (Subbar) */
+.subbar-bookmark-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.22rem 0.6rem;
+  border-radius: 14px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface-elevated);
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.subbar-bookmark-btn:hover {
+  border-color: var(--accent-gold);
+  color: var(--text-main);
+}
+
+.subbar-bookmark-btn.is-bookmarked {
+  background: var(--accent-gold-soft);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.subbar-bookmark-btn.is-bookmarked svg {
+  fill: var(--accent-gold);
+  stroke: var(--accent-gold);
+}
+
 /* Main Scripture Reading Container */
 .main-content {
   max-width: 1400px;
@@ -508,6 +542,7 @@ body.mode-pinyin .scripture-header-row,
 body.mode-pinyin .audio-dock-container,
 body.mode-pinyin .btn-toggle-speak,
 body.mode-pinyin .subbar-speak-btn,
+body.mode-pinyin .subbar-bookmark-btn,
 body.mode-pinyin .pdf-source-link,
 body.mode-pinyin .book-title-hero .english-subhead {
   display: none !important;
@@ -857,6 +892,77 @@ body.mode-pinyin .pinyin-zoom-dock {
 .book-item-btn .name-en {
   font-size: 0.78rem;
   color: var(--text-muted);
+}
+
+/* Bookmark List (Drawer Tab) */
+.bookmark-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.bookmark-item-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0.85rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-main);
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+}
+
+.bookmark-item-main:hover {
+  background: var(--bg-surface-elevated);
+}
+
+.bookmark-item-main.current {
+  background: var(--accent-gold-soft);
+  border-color: var(--accent-gold-border);
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.bookmark-item-main .bm-loc {
+  font-weight: 600;
+}
+
+.bookmark-item-main .bm-en {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.bookmark-del {
+  flex-shrink: 0;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s;
+}
+
+.bookmark-del:hover {
+  background: rgba(180, 60, 60, 0.12);
+  color: #b43c3c;
+}
+
+.bookmark-empty {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  padding: 3rem 1rem;
+  line-height: 1.8;
 }
 
 /* Chapter Selector Modal in Drawer */

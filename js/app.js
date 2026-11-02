@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   let fontScale = parseFloat(localStorage.getItem('bible_font_scale')) || 1.0;
   let fontScalePinyin = parseFloat(localStorage.getItem('bible_font_scale_pinyin')) || 1.4; // 拼音大字版默认更大
   let isSpeakEnabled = localStorage.getItem('bible_click_speak_enabled') === 'true'; // default false
+  let bookmarks = loadBookmarks(); // 章节书签 [{slug, chapter, name_zh, name_en, ts}]
 
   const FONT_LIMITS = {
     default: { min: 0.8, max: 1.6, step: 0.1 },
@@ -74,6 +75,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   const btnToggleSpeak = document.getElementById('btnToggleSpeak');
   const btnSubbarSpeakToggle = document.getElementById('btnSubbarSpeakToggle');
+  const btnBookmark = document.getElementById('btnBookmark');
   const bibleToast = document.getElementById('bibleToast');
 
   const btnViewSide = document.getElementById('btnViewSide');
@@ -93,6 +95,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const bookSearchInput = document.getElementById('bookSearchInput');
   const drawerTabOT = document.getElementById('drawerTabOT');
   const drawerTabNT = document.getElementById('drawerTabNT');
+  const drawerTabBM = document.getElementById('drawerTabBM');
   const drawerBookList = document.getElementById('drawerBookList');
 
   // Audio Dock
@@ -189,6 +192,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const lastSlug = localStorage.getItem('bible_last_book_slug');
   const lastChap = parseInt(localStorage.getItem('bible_last_chapter')) || 1;
   const initBook = dataManager.booksMeta.find(b => b.slug === lastSlug) || dataManager.currentBook;
+  setDrawerTab(initBook.testament === 'NT' ? 'NT' : 'OT');
   renderDrawerBooks(initBook.testament || 'OT');
   await switchBook(initBook, lastChap);
 
@@ -372,6 +376,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     currentNavText.textContent = `${dataManager.currentBook.name_zh} 第${dataManager.currentChapter}章`;
     audioTrackTitle.textContent = `${dataManager.currentBook.name_en} Ch.${dataManager.currentChapter}`;
     updateAudioDockStatus('Ready', null);
+    updateBookmarkBtn();
   }
 
   function updateAudioDockStatus(status, verseNum) {
@@ -535,22 +540,38 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   let activeTestamentTab = 'OT';
+  let activeTab = 'OT'; // 'OT' | 'NT' | 'BM'（书签）
+
+  function setDrawerTab(tab) {
+    activeTab = tab;
+    if (tab === 'OT' || tab === 'NT') activeTestamentTab = tab;
+    drawerTabOT.classList.toggle('active', tab === 'OT');
+    drawerTabNT.classList.toggle('active', tab === 'NT');
+    drawerTabBM.classList.toggle('active', tab === 'BM');
+  }
+
   drawerTabOT.addEventListener('click', () => {
-    activeTestamentTab = 'OT';
-    drawerTabOT.classList.add('active');
-    drawerTabNT.classList.remove('active');
+    setDrawerTab('OT');
     renderDrawerBooks('OT', bookSearchInput.value);
   });
 
   drawerTabNT.addEventListener('click', () => {
-    activeTestamentTab = 'NT';
-    drawerTabNT.classList.add('active');
-    drawerTabOT.classList.remove('active');
+    setDrawerTab('NT');
     renderDrawerBooks('NT', bookSearchInput.value);
   });
 
+  drawerTabBM.addEventListener('click', () => {
+    setDrawerTab('BM');
+    renderBookmarks(bookSearchInput.value.trim());
+  });
+
   bookSearchInput.addEventListener('input', (e) => {
-    renderDrawerBooks(activeTestamentTab, e.target.value.trim().toLowerCase());
+    const kw = e.target.value.trim().toLowerCase();
+    if (activeTab === 'BM') {
+      renderBookmarks(kw);
+    } else {
+      renderDrawerBooks(activeTestamentTab, kw);
+    }
   });
 
   function renderDrawerBooks(testament, filter = '') {
@@ -606,6 +627,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     `;
 
     document.getElementById('btnBackToBooks').addEventListener('click', () => {
+      setDrawerTab(activeTestamentTab);
       renderDrawerBooks(activeTestamentTab, bookSearchInput.value);
     });
 
@@ -623,5 +645,120 @@ document.addEventListener('DOMContentLoaded', async () => {
       });
       grid.appendChild(cBtn);
     }
+  }
+
+  // ==================== Chapter Bookmarks ====================
+  function loadBookmarks() {
+    try {
+      const arr = JSON.parse(localStorage.getItem('bible_bookmarks'));
+      return Array.isArray(arr) ? arr : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  function saveBookmarks() {
+    localStorage.setItem('bible_bookmarks', JSON.stringify(bookmarks));
+  }
+
+  function isBookmarked(slug, ch) {
+    return bookmarks.some(b => b.slug === slug && b.chapter === ch);
+  }
+
+  function toggleBookmark() {
+    const book = dataManager.currentBook;
+    if (!book) return;
+    const ch = dataManager.currentChapter;
+    const idx = bookmarks.findIndex(b => b.slug === book.slug && b.chapter === ch);
+    if (idx >= 0) {
+      bookmarks.splice(idx, 1);
+      showToast(`已移除书签：${book.name_zh} 第${ch}章`);
+    } else {
+      bookmarks.unshift({
+        slug: book.slug,
+        chapter: ch,
+        name_zh: book.name_zh,
+        name_en: book.name_en,
+        ts: Date.now()
+      });
+      showToast(`⭐ 已收藏：${book.name_zh} 第${ch}章`);
+    }
+    saveBookmarks();
+    updateBookmarkBtn();
+    if (activeTab === 'BM') renderBookmarks(bookSearchInput.value.trim());
+  }
+
+  function updateBookmarkBtn() {
+    if (!btnBookmark || !dataManager.currentBook) return;
+    const marked = isBookmarked(dataManager.currentBook.slug, dataManager.currentChapter);
+    btnBookmark.classList.toggle('is-bookmarked', marked);
+    const label = btnBookmark.querySelector('.subbar-bookmark-text');
+    if (label) label.textContent = marked ? '已收藏' : '收藏';
+    btnBookmark.title = marked ? '已收藏当前章节，点击取消收藏' : '收藏当前章节为书签';
+  }
+
+  if (btnBookmark) {
+    btnBookmark.addEventListener('click', toggleBookmark);
+  }
+
+  function renderBookmarks(filter = '') {
+    const kw = (filter || '').toLowerCase();
+    const list = bookmarks.filter(bm =>
+      !kw || (bm.name_zh || '').includes(kw) || (bm.name_en || '').toLowerCase().includes(kw)
+    );
+
+    if (list.length === 0) {
+      drawerBookList.innerHTML = `
+        <div class="bookmark-empty">
+          ${bookmarks.length === 0
+            ? '暂无书签<br><span style="font-size:0.78rem;">阅读时点击副栏「收藏」，即可收藏当前章节</span>'
+            : '没有匹配的书签'}
+        </div>`;
+      return;
+    }
+
+    drawerBookList.innerHTML = '';
+    list.forEach(bm => {
+      const item = document.createElement('div');
+      item.className = 'bookmark-item';
+      const isCurrent = dataManager.currentBook
+        && dataManager.currentBook.slug === bm.slug
+        && dataManager.currentChapter === bm.chapter;
+
+      const main = document.createElement('button');
+      main.className = `bookmark-item-main${isCurrent ? ' current' : ''}`;
+      main.innerHTML = `
+        <span class="bm-loc">${escapeHtml(bm.name_zh)} 第${bm.chapter}章</span>
+        <span class="bm-en">${escapeHtml(bm.name_en)} Ch.${bm.chapter}</span>
+      `;
+      main.addEventListener('click', () => {
+        const book = dataManager.booksMeta.find(b => b.slug === bm.slug);
+        if (!book) {
+          showToast('未找到该卷数据，已移除书签');
+          removeBookmark(bm);
+          return;
+        }
+        closeDrawer();
+        switchBook(book, bm.chapter);
+      });
+
+      const del = document.createElement('button');
+      del.className = 'bookmark-del';
+      del.title = '删除此书签';
+      del.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>`;
+      del.addEventListener('click', () => removeBookmark(bm));
+
+      item.appendChild(main);
+      item.appendChild(del);
+      drawerBookList.appendChild(item);
+    });
+  }
+
+  function removeBookmark(bm) {
+    const idx = bookmarks.indexOf(bm);
+    if (idx >= 0) bookmarks.splice(idx, 1);
+    saveBookmarks();
+    updateBookmarkBtn();
+    renderBookmarks(bookSearchInput.value.trim());
   }
 });
