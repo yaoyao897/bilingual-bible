@@ -273,5 +273,11 @@
   <script src="js/bible-data.js"></script>
   <script src="js/audio-player.js"></script>
   <script src="js/app.js"></script>
+  <script>
+    // Service Worker：网络优先取最新版本，避免分享链接拿到浏览器旧缓存
+    if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+      window.addEventListener('load', () => navigator.serviceWorker.register('sw.js'));
+    }
+  </script>
 </body>
 </html>
