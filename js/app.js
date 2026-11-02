@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   let fontScalePinyin = parseFloat(localStorage.getItem('bible_font_scale_pinyin')) || 1.4; // 拼音大字版默认更大
   let isSpeakEnabled = localStorage.getItem('bible_click_speak_enabled') === 'true'; // default false
   let bookmarks = loadBookmarks(); // 章节书签 [{slug, chapter, name_zh, name_en, ts}]
+  let activeTestamentTab = 'OT';
+  let activeTab = 'OT'; // 'OT' | 'NT' | 'BM'（书签）
 
   const FONT_LIMITS = {
     default: { min: 0.8, max: 1.6, step: 0.1 },
@@ -538,9 +540,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     booksDrawer.classList.remove('active');
     drawerBackdrop.classList.remove('active');
   }
-
-  let activeTestamentTab = 'OT';
-  let activeTab = 'OT'; // 'OT' | 'NT' | 'BM'（书签）
 
   function setDrawerTab(tab) {
     activeTab = tab;
